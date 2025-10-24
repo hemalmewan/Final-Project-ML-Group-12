@@ -1,0 +1,1551 @@
+,product_category,product_subcategory,brand,assembly_service_requested,payment_method,product_price,shipping_cost,assembly_cost,total_amount,delivery_window_days,customer_rating,payment_timing,cost_per_day,delivery_status
+369,Kitchen,Table,Mid Range,True,Card,939.44,0.0,86.28,1025.72,8,2.4,Prepaid,128.22,Cancelled
+1154,Kitchen,Storage,Affordable,False,Bank Transfer,2266.24,63.61,0.0,2329.85,1,3.1,Prepaid,2329.85,Rescheduled
+1669,Dining Room,Storage,Premium,True,Card,1815.88,0.0,88.4,1904.28,11,3.1,Prepaid,173.12,Rescheduled
+14,Outdoor,Seating,Affordable,False,Bank Transfer,1712.3,73.44,0.0,1712.3,4,4.0,Prepaid,428.08,In Transit
+1465,Office,Work,Other,False,Card,206.65,34.95,0.0,241.6,6,1.7,Prepaid,40.27,Failed Delivery
+334,Dining Room,Seating,Premium,False,Bank Transfer,316.28,55.02,0.0,371.3,5,3.8,Prepaid,74.26,Failed Delivery
+748,Bedroom,Storage,Affordable,True,Cash,741.01,0.0,40.97,781.98,11,2.5,Postpaid,71.09,Failed Delivery
+1516,Dining Room,Storage,Premium,True,Card,1640.45,111.12,94.66,1846.23,10,4.4,Prepaid,184.62,Pending
+1686,Bedroom,Sleeping,Affordable,False,Digital Wallet,1441.62,63.67,0.0,1505.29,13,4.9,Prepaid,115.79,In Transit
+825,Outdoor,Table,Premium,False,Cash,523.06,73.44,0.0,602.99,3,2.1,Postpaid,201.0,Cancelled
+981,Outdoor,Seating,Affordable,True,Cash,1722.52,0.0,127.8,1850.32,7,4.9,Postpaid,264.33,Delivered
+575,Office,Storage,Affordable,False,Digital Wallet,936.5,55.6,0.0,992.1,7,3.1,Prepaid,141.73,Delivered
+1281,Dining Room,Storage,Mid Range,False,Card,1406.82,72.58,0.0,1479.4,3,4.6,Prepaid,493.13,Cancelled
+400,Dining Room,Table,Premium,False,Cash,1625.59,137.61,0.0,1763.1999999999998,12,2.5,Postpaid,146.93,In Transit
+204,Kitchen,Storage,Premium,False,Bank Transfer,866.12,146.65,0.0,1012.77,8,4.2,Prepaid,126.6,In Transit
+1322,Dining Room,Table,Mid Range,True,Digital Wallet,1545.35,0.0,40.39,1585.74,9,3.1,Prepaid,176.19,Rescheduled
+675,Outdoor,Table,Affordable,True,Digital Wallet,1614.66,90.45,108.43,1813.54,9,3.9,Prepaid,201.5,In Transit
+1587,Kitchen,Table,Mid Range,False,Card,538.37,148.2,0.0,686.5699999999999,12,3.2,Prepaid,57.21,Pending
+336,Office,Storage,Mid Range,True,Bank Transfer,948.13,73.44,288.06,1374.19,2,2.8,Prepaid,687.1,Delivered
+1224,Outdoor,Table,Mid Range,False,Digital Wallet,632.38,128.66,0.0,761.04,10,3.0,Prepaid,76.1,Rescheduled
+598,Dining Room,Seating,Mid Range,True,Digital Wallet,743.4,149.07,91.91,984.38,12,4.1,Prepaid,82.03,Rescheduled
+308,Bedroom,Sleeping,Affordable,True,Card,1036.7,63.56,59.64,1159.9,14,1.2,Prepaid,82.85,Failed Delivery
+1692,Office,Work,Premium,True,Digital Wallet,992.8,0.0,269.49,1262.29,12,1.9,Prepaid,105.19,Failed Delivery
+1309,Dining Room,Storage,Affordable,False,Bank Transfer,964.05,108.36,0.0,1072.41,9,1.8,Prepaid,119.16,Failed Delivery
+1044,Kitchen,Storage,Affordable,False,Card,1734.6,0.0,0.0,1734.6,14,3.7,Prepaid,123.9,Failed Delivery
+1379,Office,Storage,Premium,False,Digital Wallet,1128.85,52.61,0.0,1181.4599999999998,6,1.4,Prepaid,196.91,Rescheduled
+1683,Kitchen,Storage,Premium,True,Card,2417.01,0.0,112.65,2529.6600000000003,3,2.5,Prepaid,843.22,Cancelled
+287,Kitchen,Table,Affordable,False,Bank Transfer,1040.43,147.59,0.0,1188.02,13,2.9,Prepaid,91.39,In Transit
+1264,Office,Work,Affordable,True,Card,1265.45,75.63,189.79,1530.87,7,3.1,Prepaid,218.7,Failed Delivery
+1813,Kitchen,Table,Premium,False,Digital Wallet,1239.67,0.0,0.0,1239.67,9,1.7,Prepaid,137.74,Pending
+1644,Living Room,Seating,Mid Range,True,Digital Wallet,222.36,54.45,177.29,454.1,1,4.6,Prepaid,454.1,Pending
+1491,Kitchen,Storage,Affordable,False,Digital Wallet,1963.17,78.73,0.0,2041.9,4,3.1,Prepaid,510.48,Cancelled
+259,Dining Room,Storage,Premium,True,Digital Wallet,1557.51,90.23,108.36,1756.1,2,1.8,Prepaid,878.05,Rescheduled
+541,Living Room,Table,Premium,True,Card,1812.98,0.0,47.62,1860.6,14,2.8,Prepaid,132.9,Rescheduled
+1895,Outdoor,Seating,Premium,True,Digital Wallet,746.65,0.0,150.06,896.71,8,4.9,Prepaid,112.09,In Transit
+874,Outdoor,Seating,Affordable,False,Cash,1418.56,0.0,0.0,1418.56,8,2.4,Postpaid,177.32,Rescheduled
+1477,Kitchen,Table,Premium,True,Card,1911.48,127.01,49.54,2088.03,3,2.6,Prepaid,696.01,Rescheduled
+363,Dining Room,Storage,Affordable,False,Card,233.84,86.62,0.0,320.46000000000004,7,3.5,Prepaid,45.78,Delivered
+615,Office,Storage,Affordable,True,Digital Wallet,1249.67,75.64,185.77,1511.0800000000002,3,2.0,Prepaid,503.69,Failed Delivery
+1921,Bedroom,Sleeping,Mid Range,True,Digital Wallet,1590.86,128.72,147.25,1866.83,9,4.0,Prepaid,207.43,In Transit
+301,Living Room,Seating,Mid Range,True,Digital Wallet,380.25,76.23,91.71,548.19,5,3.9,Prepaid,109.64,Pending
+398,Bedroom,Storage,Affordable,True,Digital Wallet,193.79,77.77,172.61,444.17,9,2.4,Prepaid,49.35,In Transit
+886,Dining Room,Seating,Affordable,False,Digital Wallet,477.35,95.65,0.0,573.0,8,4.1,Prepaid,71.62,Failed Delivery
+382,Bedroom,Storage,Premium,True,Digital Wallet,609.55,52.24,78.67,740.4599999999999,3,3.1,Prepaid,246.82,Pending
+1125,Dining Room,Seating,Premium,False,Bank Transfer,478.07,97.86,0.0,575.93,5,4.7,Prepaid,115.19,Pending
+1173,Bedroom,Storage,Premium,True,Digital Wallet,2979.13,0.0,62.27,3041.4,4,4.2,Prepaid,760.35,Pending
+1395,Living Room,Seating,Mid Range,False,Cash,2401.45,0.0,0.0,2401.45,5,4.0,Postpaid,480.29,Rescheduled
+464,Living Room,Table,Mid Range,True,Digital Wallet,792.66,150.0,122.56,1065.22,6,3.6,Prepaid,177.54,Cancelled
+1124,Living Room,Table,Premium,False,Digital Wallet,1836.23,135.34,0.0,1971.57,12,1.7,Prepaid,164.3,In Transit
+819,Living Room,Seating,Affordable,False,Cash,637.42,50.73,0.0,688.15,12,2.4,Postpaid,57.35,Cancelled
+645,Living Room,Seating,Mid Range,False,Digital Wallet,786.88,0.0,0.0,786.88,2,3.1,Prepaid,393.44,In Transit
+956,Living Room,Seating,Affordable,True,Card,1333.82,89.12,212.53,1635.47,7,3.1,Prepaid,233.64,Failed Delivery
+1898,Dining Room,Table,Premium,False,Digital Wallet,1556.19,0.0,0.0,1556.19,13,3.2,Prepaid,119.71,In Transit
+1872,Bedroom,Sleeping,Mid Range,True,Card,2268.92,143.88,33.98,2446.78,6,3.1,Prepaid,407.8,In Transit
+1806,Living Room,Table,Premium,True,Card,1992.01,0.0,224.2,2216.21,7,3.1,Prepaid,316.6,Cancelled
+318,Dining Room,Table,Affordable,False,Digital Wallet,522.28,0.0,0.0,522.28,7,2.3,Prepaid,74.61,Rescheduled
+599,Outdoor,Seating,Mid Range,False,Digital Wallet,737.56,145.01,0.0,882.5699999999999,9,4.1,Prepaid,98.06,Pending
+476,Bedroom,Sleeping,Premium,True,Bank Transfer,1328.64,67.89,163.53,1560.0600000000002,6,4.6,Prepaid,260.01,Cancelled
+1401,Dining Room,Table,Premium,False,Card,169.57,73.44,0.0,195.45,2,3.6,Prepaid,97.72,In Transit
+33,Bedroom,Storage,Affordable,False,Cash,458.07,90.41,0.0,548.48,4,4.7,Postpaid,137.12,Delivered
+111,Outdoor,Table,Other,True,Digital Wallet,1431.78,58.5,57.87,1548.15,10,3.1,Prepaid,154.82,Delivered
+526,Kitchen,Table,Affordable,False,Digital Wallet,514.2,85.38,0.0,599.58,10,4.4,Prepaid,59.96,Delivered
+1207,Kitchen,Table,Mid Range,False,Card,1660.89,0.0,0.0,1660.89,6,3.1,Prepaid,276.82,Cancelled
+272,Dining Room,Seating,Premium,True,Cash,241.91,40.2,55.28,337.39,8,2.6,Postpaid,42.17,Delivered
+185,Dining Room,Table,Mid Range,True,Digital Wallet,1313.55,86.75,97.87,1498.17,8,4.0,Prepaid,187.27,Delivered
+776,Outdoor,Seating,Premium,True,Digital Wallet,476.73,38.65,235.06,750.44,4,1.2,Prepaid,187.61,In Transit
+1277,Kitchen,Storage,Mid Range,True,Card,1092.72,110.22,192.47,1395.41,11,4.0,Prepaid,126.86,In Transit
+552,Office,Work,Affordable,False,Bank Transfer,1344.49,0.0,0.0,1344.49,3,1.5,Prepaid,448.16,In Transit
+1933,Bedroom,Storage,Affordable,False,Digital Wallet,2020.28,95.02,0.0,2115.3,9,2.9,Prepaid,235.03,Delivered
+1130,Kitchen,Storage,Mid Range,True,Cash,313.98,87.12,30.63,431.73,7,4.4,Postpaid,61.68,Cancelled
+1451,Living Room,Table,Mid Range,True,Card,2130.13,72.3,210.63,2413.0600000000004,9,1.2,Prepaid,268.12,Cancelled
+40,Outdoor,Seating,Mid Range,False,Card,1237.1,0.0,0.0,1237.1,2,4.0,Prepaid,618.55,Delivered
+1464,Outdoor,Patio furniture,Other,True,Card,260.21,83.33,290.49,634.03,11,1.3,Prepaid,57.64,In Transit
+1006,Kitchen,Storage,Affordable,True,Cash,518.83,0.0,127.38,646.21,8,1.7,Postpaid,80.78,Rescheduled
+1541,Outdoor,Patio furniture,Mid Range,True,Card,1757.43,96.35,35.21,1888.99,2,2.8,Prepaid,944.5,Delivered
+1417,Bedroom,Sleeping,Other,False,Bank Transfer,2866.3,0.0,0.0,2866.3,1,4.0,Prepaid,2866.3,Pending
+1312,Living Room,Table,Mid Range,False,Card,1503.1,0.0,0.0,1503.1,10,2.1,Prepaid,150.31,In Transit
+1777,Living Room,Seating,Mid Range,False,Cash,1115.65,66.4,0.0,1182.0500000000002,13,2.0,Postpaid,90.93,In Transit
+1840,Dining Room,Table,Premium,True,Digital Wallet,1953.09,53.75,74.52,2081.36,4,3.1,Prepaid,520.34,Failed Delivery
+71,Living Room,Seating,Mid Range,False,Digital Wallet,291.68,57.4,0.0,349.08,10,1.4,Prepaid,34.91,Rescheduled
+1452,Kitchen,Storage,Mid Range,False,Digital Wallet,641.0,73.44,0.0,736.72,1,1.7,Prepaid,736.72,Delivered
+1166,Dining Room,Table,Mid Range,False,Digital Wallet,655.33,52.84,0.0,708.1700000000001,14,2.4,Prepaid,50.58,Delivered
+1793,Office,Work,Other,True,Card,643.32,0.0,46.0,689.32,3,4.3,Prepaid,229.77,Rescheduled
+1145,Bedroom,Sleeping,Affordable,False,Digital Wallet,864.41,80.11,0.0,944.52,11,3.1,Prepaid,85.87,In Transit
+1694,Dining Room,Seating,Affordable,False,Card,1645.98,56.29,0.0,1702.27,6,3.6,Prepaid,283.71,Pending
+1711,Office,Storage,Premium,True,Cash,104.01,95.0,238.86,437.87,4,2.8,Postpaid,109.47,Delivered
+488,Living Room,Table,Mid Range,True,Digital Wallet,662.73,0.0,130.03,792.76,9,1.0,Prepaid,88.08,Delivered
+1688,Living Room,Storage,Mid Range,True,Card,1986.53,71.35,234.99,2292.87,4,2.8,Prepaid,573.22,Cancelled
+1758,Dining Room,Storage,Affordable,True,Digital Wallet,1397.92,118.44,118.95,1635.3100000000002,11,2.0,Prepaid,148.66,In Transit
+665,Bedroom,Storage,Premium,False,Cash,284.09,26.36,0.0,310.45,6,1.7,Postpaid,51.74,Pending
+484,Kitchen,Table,Affordable,False,Digital Wallet,944.23,0.0,0.0,944.23,6,3.1,Prepaid,157.37,In Transit
+1621,Kitchen,Table,Affordable,True,Card,306.35,68.35,149.69,524.3900000000001,1,1.1,Prepaid,524.39,Pending
+844,Bedroom,Storage,Mid Range,False,Cash,261.41,36.11,0.0,297.52000000000004,3,4.2,Postpaid,99.17,In Transit
+795,Dining Room,Seating,Affordable,False,Digital Wallet,1432.11,59.73,0.0,1491.84,13,4.5,Prepaid,114.76,Cancelled
+1638,Living Room,Table,Premium,False,Bank Transfer,955.63,0.0,0.0,955.63,11,3.7,Prepaid,86.88,In Transit
+941,Living Room,Seating,Affordable,False,Card,1396.18,111.24,0.0,1507.42,13,4.9,Prepaid,115.96,Delivered
+1619,Bedroom,Sleeping,Affordable,True,Bank Transfer,1869.0,101.22,158.01,2128.23,12,4.7,Prepaid,177.35,Cancelled
+948,Kitchen,Storage,Premium,False,Cash,1330.43,92.05,0.0,1422.48,8,3.1,Postpaid,177.81,Pending
+1413,Bedroom,Storage,Premium,True,Card,2646.03,74.05,31.04,2751.1200000000003,9,3.1,Prepaid,305.68,Rescheduled
+642,Dining Room,Table,Premium,False,Bank Transfer,848.92,145.12,0.0,994.04,3,3.1,Prepaid,331.35,Cancelled
+1359,Living Room,Table,Premium,False,Digital Wallet,2394.87,98.69,0.0,2493.56,3,3.1,Prepaid,831.19,In Transit
+1418,Bedroom,Storage,Premium,False,Digital Wallet,1041.61,129.47,0.0,1171.08,13,1.6,Prepaid,90.08,In Transit
+1905,Outdoor,Patio furniture,Mid Range,False,Card,1123.0,115.22,0.0,1238.22,1,1.4,Prepaid,1238.22,Failed Delivery
+1829,Living Room,Table,Mid Range,False,Cash,932.36,0.0,0.0,932.36,1,1.5,Postpaid,932.36,In Transit
+1918,Outdoor,Seating,Affordable,False,Digital Wallet,1141.13,131.4,0.0,1272.5300000000002,14,1.6,Prepaid,90.9,Pending
+1066,Bedroom,Sleeping,Affordable,True,Cash,2055.05,120.62,169.28,2344.9500000000003,13,2.6,Postpaid,180.38,Delivered
+1664,Outdoor,Seating,Affordable,False,Bank Transfer,247.61,31.65,0.0,279.26,8,3.6,Prepaid,34.91,In Transit
+384,Dining Room,Table,Premium,False,Cash,511.53,97.14,0.0,608.67,3,2.6,Postpaid,202.89,Rescheduled
+1801,Dining Room,Seating,Premium,True,Digital Wallet,671.68,0.0,55.84,727.52,6,2.7,Prepaid,121.25,In Transit
+1031,Kitchen,Storage,Affordable,False,Card,1500.3,115.2,0.0,1615.5,8,3.1,Prepaid,201.94,Cancelled
+1636,Kitchen,Table,Premium,True,Bank Transfer,1904.21,0.0,190.23,2094.44,6,3.1,Prepaid,349.07,Cancelled
+1906,Dining Room,Storage,Mid Range,False,Cash,1957.76,122.18,0.0,2079.94,2,2.1,Postpaid,1039.97,Failed Delivery
+1084,Dining Room,Seating,Affordable,False,Digital Wallet,707.32,65.18,0.0,772.5,4,1.7,Prepaid,193.12,Delivered
+1928,Office,Work,Premium,False,Card,688.63,0.0,0.0,688.63,11,3.7,Prepaid,62.6,Failed Delivery
+1814,Bedroom,Sleeping,Mid Range,False,Digital Wallet,1698.42,0.0,0.0,1698.42,14,1.7,Prepaid,121.32,Pending
+386,Living Room,Seating,Mid Range,False,Digital Wallet,665.4,100.44,0.0,765.8399999999999,14,3.1,Prepaid,54.7,In Transit
+835,Living Room,Seating,Premium,False,Digital Wallet,1718.99,78.53,0.0,1797.52,10,3.1,Prepaid,179.75,Delivered
+89,Dining Room,Table,Affordable,True,Bank Transfer,1175.27,124.47,274.93,1574.67,5,1.9,Prepaid,314.93,In Transit
+846,Outdoor,Seating,Affordable,True,Digital Wallet,823.77,82.46,102.74,951.83,4,2.1,Prepaid,237.96,Pending
+1555,Outdoor,Table,Mid Range,True,Cash,306.88,94.82,68.47,470.17,12,3.3,Postpaid,39.18,Rescheduled
+847,Outdoor,Patio furniture,Mid Range,False,Card,325.63,80.93,0.0,406.56,11,3.5,Prepaid,36.96,Rescheduled
+284,Kitchen,Table,Mid Range,False,Card,1538.84,0.0,0.0,1538.84,9,3.0,Prepaid,170.98,Pending
+307,Kitchen,Table,Other,False,Digital Wallet,713.46,0.0,0.0,713.46,12,3.1,Prepaid,59.46,Pending
+286,Dining Room,Table,Affordable,True,Digital Wallet,141.63,69.0,46.16,256.79,14,1.3,Prepaid,18.34,Cancelled
+770,Outdoor,Table,Affordable,True,Bank Transfer,990.85,118.85,288.98,1398.68,12,2.9,Prepaid,116.56,Cancelled
+146,Office,Work,Affordable,False,Bank Transfer,1059.47,54.24,0.0,1113.71,10,2.1,Prepaid,111.37,Pending
+1165,Kitchen,Table,Premium,False,Bank Transfer,2368.43,112.81,0.0,2481.24,11,1.9,Prepaid,225.57,Pending
+1253,Bedroom,Sleeping,Premium,False,Bank Transfer,993.89,0.0,0.0,993.89,2,4.1,Prepaid,496.94,Failed Delivery
+1783,Outdoor,Table,Premium,True,Card,558.15,0.0,241.0,799.15,7,3.1,Prepaid,114.16,Cancelled
+1463,Office,Work,Other,True,Digital Wallet,1033.38,84.46,258.75,1376.59,14,2.5,Prepaid,98.33,In Transit
+696,Bedroom,Storage,Affordable,True,Digital Wallet,1769.5,134.63,68.67,1972.8,3,3.2,Prepaid,657.6,Rescheduled
+183,Office,Storage,Affordable,False,Digital Wallet,1408.87,0.0,0.0,1408.87,4,2.1,Prepaid,352.22,Delivered
+403,Kitchen,Table,Mid Range,False,Bank Transfer,1348.42,139.43,0.0,1487.85,3,3.7,Prepaid,495.95,Failed Delivery
+1749,Outdoor,Seating,Mid Range,True,Digital Wallet,1187.72,137.22,57.78,1382.72,10,3.1,Prepaid,138.27,Cancelled
+58,Living Room,Seating,Affordable,True,Card,2157.19,0.0,179.78,2336.9700000000003,6,3.4,Prepaid,389.5,Rescheduled
+511,Bedroom,Storage,Affordable,True,Card,327.87,92.58,42.58,463.03,14,1.4,Prepaid,33.07,Pending
+441,Office,Work,Mid Range,False,Digital Wallet,826.67,75.59,0.0,902.26,4,1.3,Prepaid,225.56,Cancelled
+1484,Outdoor,Patio furniture,Affordable,True,Digital Wallet,151.08,73.44,105.19,329.54,5,3.7,Prepaid,65.91,Failed Delivery
+1863,Kitchen,Storage,Mid Range,False,Digital Wallet,971.2,129.78,0.0,1100.98,3,1.1,Prepaid,366.99,In Transit
+1328,Living Room,Table,Mid Range,True,Digital Wallet,770.89,125.45,170.39,1066.73,5,4.2,Prepaid,213.35,Failed Delivery
+508,Kitchen,Storage,Premium,True,Card,1020.3,56.15,94.36,1170.81,13,1.0,Prepaid,90.06,Cancelled
+1297,Office,Work,Affordable,False,Bank Transfer,347.91,60.61,0.0,408.52,4,3.1,Prepaid,102.13,Rescheduled
+477,Living Room,Seating,Premium,False,Card,462.58,58.7,0.0,521.28,2,2.5,Prepaid,260.64,Rescheduled
+1690,Outdoor,Patio furniture,Mid Range,False,Bank Transfer,886.95,105.7,0.0,992.65,3,4.3,Prepaid,330.88,Delivered
+1092,Kitchen,Storage,Premium,False,Digital Wallet,1805.6,52.27,0.0,1857.87,9,1.8,Prepaid,206.43,Failed Delivery
+462,Dining Room,Storage,Mid Range,False,Digital Wallet,1746.87,68.64,0.0,1815.51,9,1.1,Prepaid,201.72,Rescheduled
+691,Bedroom,Sleeping,Mid Range,False,Card,218.56,64.59,0.0,283.15,5,3.1,Prepaid,56.63,Rescheduled
+771,Outdoor,Patio furniture,Mid Range,False,Digital Wallet,1300.83,76.13,0.0,1376.96,11,3.1,Prepaid,125.18,Rescheduled
+1332,Outdoor,Seating,Mid Range,True,Digital Wallet,892.4,125.88,139.64,1157.92,3,3.1,Prepaid,385.97,Failed Delivery
+923,Office,Work,Other,False,Card,820.9,0.0,0.0,820.9,11,2.1,Prepaid,74.63,Failed Delivery
+984,Living Room,Storage,Premium,True,Digital Wallet,1869.31,136.57,38.83,2044.71,12,2.1,Prepaid,170.39,Failed Delivery
+577,Outdoor,Seating,Affordable,True,Digital Wallet,1352.2,133.55,60.39,1546.14,8,3.1,Prepaid,193.27,Pending
+436,Living Room,Table,Mid Range,True,Card,1068.87,75.07,255.99,1399.9299999999998,9,3.8,Prepaid,155.55,Rescheduled
+1210,Outdoor,Seating,Premium,False,Card,1276.75,84.51,0.0,1361.26,8,1.6,Prepaid,170.16,Delivered
+606,Living Room,Seating,Mid Range,True,Card,993.83,85.13,61.73,1140.69,5,4.6,Prepaid,228.14,Delivered
+194,Living Room,Table,Mid Range,True,Digital Wallet,1903.24,73.43,28.5,2005.17,5,4.7,Prepaid,401.03,Delivered
+1142,Dining Room,Seating,Premium,True,Cash,275.04,99.11,219.66,593.8100000000001,7,3.1,Postpaid,84.83,Rescheduled
+522,Kitchen,Table,Mid Range,True,Digital Wallet,1750.14,67.54,177.12,1994.8,9,2.4,Prepaid,221.64,In Transit
+978,Living Room,Storage,Other,False,Digital Wallet,2358.25,0.0,0.0,2358.25,14,3.9,Prepaid,168.45,Rescheduled
+1237,Dining Room,Seating,Other,True,Bank Transfer,1533.16,0.0,201.63,1734.79,12,3.1,Prepaid,144.57,Pending
+1324,Living Room,Table,Mid Range,True,Bank Transfer,2205.16,107.26,154.79,2467.21,7,1.9,Prepaid,352.46,Rescheduled
+736,Office,Storage,Affordable,False,Card,1204.52,68.78,0.0,1273.3,4,4.4,Prepaid,318.32,Delivered
+1797,Kitchen,Storage,Mid Range,False,Cash,1719.11,0.0,0.0,1719.11,7,3.2,Postpaid,245.59,In Transit
+1260,Living Room,Storage,Mid Range,True,Card,723.01,0.0,41.07,764.08,12,1.2,Prepaid,63.67,In Transit
+387,Kitchen,Table,Mid Range,True,Digital Wallet,2231.06,125.24,248.91,2605.21,10,1.0,Prepaid,260.52,Cancelled
+916,Office,Work,Premium,True,Card,934.03,73.64,101.78,1109.45,13,5.0,Prepaid,85.34,Delivered
+610,Dining Room,Seating,Mid Range,False,Cash,190.31,99.72,0.0,290.03,13,4.0,Postpaid,22.31,Cancelled
+1344,Outdoor,Seating,Mid Range,False,Digital Wallet,234.62,69.38,0.0,304.0,2,3.2,Prepaid,152.0,In Transit
+1823,Outdoor,Patio furniture,Affordable,True,Digital Wallet,1503.0,0.0,284.81,1787.81,8,3.1,Prepaid,223.48,Rescheduled
+265,Office,Storage,Affordable,True,Digital Wallet,623.83,0.0,183.68,807.51,4,3.9,Prepaid,201.88,Pending
+571,Outdoor,Patio furniture,Mid Range,False,Card,1759.74,120.55,0.0,1880.29,5,4.0,Prepaid,376.06,Cancelled
+457,Office,Work,Mid Range,False,Card,1392.38,73.44,0.0,1392.38,3,4.4,Prepaid,464.13,Cancelled
+1703,Dining Room,Storage,Mid Range,False,Bank Transfer,1733.11,73.44,0.0,1830.96,8,1.5,Prepaid,228.87,In Transit
+1666,Outdoor,Patio furniture,Premium,True,Bank Transfer,360.51,72.55,193.71,626.77,12,3.1,Prepaid,52.23,In Transit
+1641,Living Room,Storage,Premium,True,Digital Wallet,455.29,41.09,196.66,693.04,11,3.4,Prepaid,63.0,Cancelled
+1394,Living Room,Storage,Affordable,False,Card,1858.86,118.99,0.0,1977.85,14,4.2,Prepaid,141.28,Failed Delivery
+273,Bedroom,Sleeping,Mid Range,True,Card,1028.68,0.0,28.94,1057.62,11,3.8,Prepaid,96.15,Pending
+960,Outdoor,Seating,Mid Range,False,Digital Wallet,771.26,115.9,0.0,887.16,3,3.4,Prepaid,295.72,Delivered
+546,Kitchen,Storage,Affordable,True,Digital Wallet,1206.47,111.05,85.86,1403.38,10,3.5,Prepaid,140.34,Delivered
+1731,Kitchen,Storage,Premium,False,Card,723.98,128.44,0.0,852.4200000000001,6,3.3,Prepaid,142.07,Pending
+1573,Living Room,Seating,Mid Range,True,Digital Wallet,1261.97,59.69,190.63,1512.29,9,1.4,Prepaid,168.03,Delivered
+46,Outdoor,Seating,Mid Range,False,Digital Wallet,1315.59,0.0,0.0,1315.59,6,2.7,Prepaid,219.26,Failed Delivery
+1637,Dining Room,Table,Mid Range,True,Bank Transfer,1365.56,138.95,49.92,1554.43,8,4.8,Prepaid,194.3,Rescheduled
+258,Outdoor,Seating,Affordable,True,Digital Wallet,1408.5,127.04,25.34,1560.88,4,3.1,Prepaid,390.22,Failed Delivery
+1133,Bedroom,Storage,Other,True,Digital Wallet,615.37,73.3,102.73,791.4,8,3.1,Prepaid,98.92,Pending
+985,Kitchen,Storage,Mid Range,True,Cash,657.61,124.56,95.39,877.5600000000001,5,4.8,Postpaid,175.51,In Transit
+1039,Bedroom,Sleeping,Premium,False,Bank Transfer,2232.38,0.0,0.0,2232.38,10,3.1,Prepaid,223.24,Rescheduled
+643,Office,Work,Affordable,True,Cash,972.27,0.0,196.98,1169.25,11,2.8,Postpaid,106.3,Cancelled
+1089,Outdoor,Table,Premium,False,Cash,978.8,72.51,0.0,1051.31,8,2.1,Postpaid,131.41,In Transit
+188,Office,Work,Other,True,Card,1356.42,55.56,218.52,1630.5,1,3.7,Prepaid,1630.5,Cancelled
+407,Outdoor,Seating,Mid Range,False,Digital Wallet,904.37,0.0,0.0,904.37,6,1.0,Prepaid,150.73,Failed Delivery
+315,Bedroom,Storage,Affordable,False,Digital Wallet,2331.6,130.54,0.0,2462.14,11,1.6,Prepaid,223.83,Cancelled
+1351,Kitchen,Table,Mid Range,True,Digital Wallet,2107.15,0.0,273.63,2380.78,8,3.1,Prepaid,297.6,Delivered
+1929,Outdoor,Seating,Mid Range,False,Card,1706.08,0.0,0.0,1706.08,8,1.6,Prepaid,213.26,In Transit
+429,Living Room,Storage,Premium,True,Card,384.51,81.29,31.66,497.46,7,3.1,Prepaid,71.07,In Transit
+1460,Living Room,Seating,Affordable,False,Card,2374.29,55.6,0.0,2429.89,2,3.4,Prepaid,1214.94,Delivered
+961,Kitchen,Storage,Affordable,True,Cash,448.65,27.21,54.83,530.6899999999999,2,3.7,Postpaid,265.34,In Transit
+192,Living Room,Storage,Premium,False,Card,1264.91,92.41,0.0,1357.3200000000002,14,2.8,Prepaid,96.95,Delivered
+1503,Dining Room,Table,Affordable,False,Bank Transfer,495.85,49.3,0.0,545.15,1,3.5,Prepaid,545.15,Rescheduled
+1893,Office,Work,Premium,True,Cash,1407.63,128.32,63.8,1599.75,2,3.5,Postpaid,799.88,Failed Delivery
+732,Outdoor,Patio furniture,Affordable,True,Digital Wallet,742.5,0.0,192.66,935.16,2,3.1,Prepaid,467.58,Pending
+1605,Living Room,Seating,Premium,True,Digital Wallet,1790.83,93.4,47.75,1931.98,9,3.4,Prepaid,214.66,Cancelled
+311,Bedroom,Storage,Mid Range,True,Digital Wallet,739.18,101.33,286.73,1127.24,11,4.2,Prepaid,102.48,Delivered
+763,Kitchen,Storage,Premium,True,Card,1447.24,0.0,46.75,1493.99,2,1.2,Prepaid,747.0,In Transit
+18,Outdoor,Seating,Mid Range,True,Card,734.59,136.38,26.52,897.49,12,4.4,Prepaid,74.79,In Transit
+907,Kitchen,Storage,Other,True,Card,2338.48,0.0,102.74,2376.43,13,4.5,Prepaid,182.8,In Transit
+877,Dining Room,Storage,Premium,True,Card,790.32,0.0,188.69,979.01,8,4.1,Prepaid,122.38,Cancelled
+17,Office,Work,Mid Range,False,Card,845.71,138.24,0.0,983.95,4,4.2,Prepaid,245.99,Pending
+1163,Kitchen,Storage,Mid Range,True,Cash,1634.58,116.76,39.76,1791.1,13,1.4,Postpaid,137.78,Pending
+1874,Kitchen,Table,Affordable,True,Card,566.9,0.0,39.49,606.39,14,2.5,Prepaid,43.31,Cancelled
+1865,Outdoor,Seating,Other,False,Bank Transfer,596.07,119.2,0.0,715.2700000000001,2,1.5,Prepaid,357.64,Rescheduled
+882,Office,Work,Premium,False,Digital Wallet,650.16,0.0,0.0,650.16,10,3.8,Prepaid,65.02,Pending
+678,Dining Room,Storage,Mid Range,True,Bank Transfer,1500.03,148.3,129.92,1778.25,11,3.9,Prepaid,161.66,In Transit
+504,Bedroom,Storage,Affordable,True,Digital Wallet,443.36,86.32,155.61,685.2900000000001,2,3.1,Prepaid,342.65,Rescheduled
+798,Bedroom,Sleeping,Affordable,False,Card,484.44,63.66,0.0,548.1,10,1.6,Prepaid,54.81,Failed Delivery
+1924,Dining Room,Storage,Premium,True,Digital Wallet,1569.01,53.67,165.26,1787.94,8,4.3,Prepaid,223.49,Pending
+729,Bedroom,Sleeping,Affordable,True,Digital Wallet,2700.42,73.44,142.5,2916.36,7,4.7,Prepaid,416.62,Delivered
+1406,Bedroom,Sleeping,Premium,False,Digital Wallet,2507.74,0.0,0.0,2507.74,8,3.1,Prepaid,313.47,In Transit
+1914,Outdoor,Table,Premium,True,Digital Wallet,259.38,71.48,78.9,409.76,6,4.8,Prepaid,68.29,Pending
+1215,Dining Room,Seating,Mid Range,False,Card,846.38,104.28,0.0,950.66,5,4.8,Prepaid,190.13,Failed Delivery
+421,Kitchen,Storage,Affordable,False,Bank Transfer,597.25,103.93,0.0,701.1800000000001,11,4.5,Prepaid,63.74,Rescheduled
+966,Living Room,Storage,Premium,False,Digital Wallet,626.2,141.1,0.0,767.3000000000001,4,3.3,Prepaid,191.82,Rescheduled
+1713,Outdoor,Seating,Affordable,True,Digital Wallet,308.56,79.67,65.37,453.6,4,4.0,Prepaid,113.4,Rescheduled
+1497,Office,Work,Other,True,Digital Wallet,165.4,79.94,151.01,396.35,6,3.1,Prepaid,66.06,Rescheduled
+371,Kitchen,Storage,Mid Range,False,Digital Wallet,2076.94,66.86,0.0,2143.8,4,3.8,Prepaid,535.95,Failed Delivery
+953,Living Room,Seating,Affordable,False,Digital Wallet,422.79,40.32,0.0,463.11,1,2.8,Prepaid,463.11,Pending
+1299,Bedroom,Storage,Affordable,True,Card,2297.23,86.17,140.64,2524.04,13,4.5,Prepaid,194.16,Pending
+1434,Office,Work,Mid Range,True,Digital Wallet,853.02,69.86,74.63,997.51,3,2.3,Prepaid,332.5,Pending
+1182,Dining Room,Storage,Premium,True,Card,327.4,98.3,259.56,685.26,12,4.9,Prepaid,57.1,In Transit
+564,Office,Work,Affordable,False,Bank Transfer,193.84,92.35,0.0,286.19,2,3.1,Prepaid,143.1,Pending
+542,Living Room,Seating,Affordable,True,Bank Transfer,1343.43,72.06,200.6,1616.09,14,3.7,Prepaid,115.43,Pending
+778,Kitchen,Table,Affordable,True,Card,1351.37,60.08,175.18,1586.63,1,4.2,Prepaid,1586.63,Pending
+1935,Office,Work,Mid Range,True,Cash,726.73,0.0,58.77,785.5,11,3.1,Postpaid,71.41,Pending
+1376,Outdoor,Patio furniture,Affordable,True,Card,1749.81,58.52,39.82,1848.15,8,5.0,Prepaid,231.02,Delivered
+1303,Office,Work,Premium,True,Bank Transfer,1155.53,108.96,200.56,1465.05,12,2.4,Prepaid,122.09,Rescheduled
+427,Living Room,Seating,Premium,False,Card,250.9,97.92,0.0,348.82,5,3.1,Prepaid,69.76,Cancelled
+1211,Bedroom,Storage,Affordable,False,Cash,1965.72,0.0,0.0,1965.72,5,2.5,Postpaid,393.14,Failed Delivery
+283,Office,Storage,Affordable,True,Digital Wallet,1407.99,67.37,180.62,1655.98,12,3.4,Prepaid,138.0,Cancelled
+349,Outdoor,Seating,Affordable,True,Bank Transfer,981.42,82.24,156.23,1219.89,10,3.7,Prepaid,121.99,Cancelled
+304,Outdoor,Seating,Affordable,False,Digital Wallet,1093.84,67.22,0.0,1161.06,3,3.7,Prepaid,387.02,Pending
+353,Outdoor,Table,Premium,False,Bank Transfer,1743.62,0.0,0.0,1743.62,4,4.1,Prepaid,435.9,In Transit
+999,Dining Room,Seating,Mid Range,False,Card,696.3,0.0,0.0,696.3,9,3.3,Prepaid,77.37,In Transit
+417,Kitchen,Storage,Affordable,True,Card,1210.78,0.0,86.39,1297.17,11,4.0,Prepaid,117.92,Pending
+1193,Living Room,Storage,Other,False,Card,1490.88,80.59,0.0,1571.47,13,1.2,Prepaid,120.88,In Transit
+1846,Dining Room,Seating,Affordable,False,Digital Wallet,1222.23,140.11,0.0,1362.34,4,2.8,Prepaid,340.58,Delivered
+1279,Bedroom,Storage,Premium,True,Card,1279.6,138.07,39.39,1457.06,5,3.7,Prepaid,291.41,Cancelled
+624,Bedroom,Sleeping,Mid Range,False,Digital Wallet,1949.36,126.67,0.0,2076.03,13,3.1,Prepaid,159.69,Failed Delivery
+512,Office,Work,Premium,False,Card,639.86,88.28,0.0,728.14,7,3.6,Prepaid,104.02,In Transit
+109,Dining Room,Storage,Affordable,True,Card,529.7,106.1,102.9,738.7,5,2.2,Prepaid,147.74,Delivered
+802,Living Room,Table,Other,True,Cash,2290.43,68.49,233.41,2592.3299999999995,9,3.1,Postpaid,288.04,Rescheduled
+576,Dining Room,Table,Premium,True,Card,640.84,147.75,86.39,874.98,8,2.7,Prepaid,109.37,Delivered
+1566,Kitchen,Table,Affordable,True,Card,300.76,97.57,153.46,551.79,9,1.9,Prepaid,61.31,Failed Delivery
+940,Office,Work,Affordable,False,Card,328.43,93.27,0.0,421.7,6,2.7,Prepaid,70.28,Delivered
+249,Living Room,Table,Mid Range,False,Card,1214.96,0.0,0.0,1214.96,4,4.6,Prepaid,303.74,Delivered
+1892,Office,Work,Affordable,True,Digital Wallet,320.09,95.52,91.3,506.91,11,2.6,Prepaid,46.08,Rescheduled
+1431,Bedroom,Storage,Affordable,True,Bank Transfer,460.55,43.11,133.16,636.82,3,4.3,Prepaid,212.27,Cancelled
+160,Outdoor,Table,Premium,False,Digital Wallet,1759.37,0.0,0.0,1759.37,9,2.3,Prepaid,195.49,Pending
+530,Bedroom,Sleeping,Affordable,False,Bank Transfer,2132.61,0.0,0.0,2132.61,11,3.6,Prepaid,193.87,Failed Delivery
+1014,Kitchen,Table,Affordable,False,Digital Wallet,2231.36,137.5,0.0,2368.86,8,2.6,Prepaid,296.11,Rescheduled
+1101,Dining Room,Storage,Affordable,True,Digital Wallet,1454.85,65.44,80.37,1600.66,14,3.5,Prepaid,114.33,In Transit
+1864,Outdoor,Table,Affordable,True,Card,671.08,0.0,211.35,882.4300000000001,11,4.3,Prepaid,80.22,Rescheduled
+1615,Living Room,Storage,Affordable,True,Card,2046.56,86.3,284.52,2417.38,1,1.9,Prepaid,2417.38,Pending
+1687,Living Room,Storage,Premium,False,Cash,321.07,75.08,0.0,396.15,11,1.8,Postpaid,36.01,Failed Delivery
+1567,Dining Room,Storage,Mid Range,False,Card,1011.09,125.29,0.0,1136.38,10,2.7,Prepaid,113.64,Pending
+1602,Office,Work,Other,True,Card,440.39,42.44,256.57,739.4,3,4.6,Prepaid,246.47,Cancelled
+1560,Bedroom,Storage,Affordable,True,Bank Transfer,2689.32,109.04,233.95,3032.31,9,3.9,Prepaid,336.92,Rescheduled
+1370,Living Room,Seating,Premium,False,Card,2393.25,0.0,0.0,2393.25,3,3.1,Prepaid,797.75,Delivered
+41,Bedroom,Sleeping,Affordable,False,Digital Wallet,219.61,43.36,0.0,262.97,10,1.3,Prepaid,26.3,Cancelled
+256,Outdoor,Patio furniture,Mid Range,True,Digital Wallet,1549.02,80.16,194.33,1823.51,1,4.2,Prepaid,1823.51,Failed Delivery
+212,Outdoor,Patio furniture,Other,True,Card,445.93,88.78,79.35,614.0600000000001,13,4.3,Prepaid,47.24,Delivered
+1176,Living Room,Table,Premium,True,Card,509.33,148.63,54.83,712.7900000000001,13,3.8,Prepaid,54.83,Delivered
+994,Dining Room,Storage,Mid Range,False,Card,1459.96,128.35,0.0,1588.31,4,3.3,Prepaid,397.08,Cancelled
+1377,Kitchen,Table,Mid Range,False,Digital Wallet,2029.52,74.6,0.0,2104.12,5,3.1,Prepaid,420.82,Pending
+1553,Living Room,Seating,Affordable,False,Digital Wallet,1836.42,66.51,0.0,1902.93,14,3.6,Prepaid,135.92,In Transit
+235,Kitchen,Table,Affordable,False,Card,1065.43,111.74,0.0,1177.17,10,3.7,Prepaid,117.72,Pending
+1881,Bedroom,Storage,Premium,True,Cash,302.96,29.39,188.12,520.47,12,3.1,Postpaid,43.37,Cancelled
+1710,Bedroom,Storage,Mid Range,False,Digital Wallet,2030.11,92.81,0.0,2122.92,2,3.1,Prepaid,1061.46,Delivered
+990,Bedroom,Storage,Affordable,True,Bank Transfer,1594.15,81.73,48.79,1724.67,5,1.1,Prepaid,344.93,Rescheduled
+824,Office,Storage,Affordable,True,Cash,92.59,57.31,38.23,188.13,3,4.7,Postpaid,62.71,In Transit
+1081,Living Room,Seating,Mid Range,False,Cash,1116.94,0.0,0.0,1116.94,5,3.1,Postpaid,223.39,Pending
+21,Living Room,Seating,Premium,False,Bank Transfer,809.97,95.5,0.0,905.47,12,5.0,Prepaid,75.46,Cancelled
+1852,Dining Room,Storage,Mid Range,False,Card,1909.02,0.0,0.0,1909.02,3,4.9,Prepaid,636.34,Failed Delivery
+1597,Bedroom,Storage,Premium,True,Cash,183.67,89.34,42.88,315.89,7,3.0,Postpaid,45.13,Pending
+930,Kitchen,Storage,Affordable,True,Digital Wallet,1465.04,93.36,97.95,1656.35,4,3.1,Prepaid,414.09,Rescheduled
+510,Outdoor,Table,Premium,False,Cash,1665.53,121.78,0.0,1787.31,2,3.4,Postpaid,893.66,Failed Delivery
+1660,Office,Work,Mid Range,False,Digital Wallet,1177.38,71.14,0.0,1248.5200000000002,6,1.3,Prepaid,208.09,Delivered
+957,Kitchen,Storage,Premium,False,Bank Transfer,324.24,47.71,0.0,371.95,1,2.4,Prepaid,371.95,Failed Delivery
+1098,Living Room,Table,Premium,True,Digital Wallet,588.59,83.98,181.51,854.08,2,3.8,Prepaid,427.04,Cancelled
+1727,Bedroom,Storage,Affordable,False,Digital Wallet,841.01,73.44,0.0,976.78,10,1.9,Prepaid,97.68,Failed Delivery
+498,Living Room,Seating,Affordable,False,Digital Wallet,2404.09,60.24,0.0,2464.33,9,1.6,Prepaid,273.81,Delivered
+1250,Office,Work,Affordable,True,Digital Wallet,1183.96,77.62,184.78,1446.36,1,1.9,Prepaid,1446.36,Delivered
+70,Dining Room,Storage,Other,True,Digital Wallet,1523.02,78.86,253.3,1855.18,12,2.1,Prepaid,154.6,Failed Delivery
+367,Kitchen,Storage,Other,False,Card,1481.73,80.47,0.0,1562.2,4,3.6,Prepaid,390.55,In Transit
+1741,Dining Room,Seating,Mid Range,True,Card,952.07,137.21,60.05,1149.33,9,3.5,Prepaid,127.7,Pending
+1751,Outdoor,Seating,Premium,True,Card,894.76,57.63,28.25,980.64,2,1.5,Prepaid,490.32,Rescheduled
+715,Living Room,Seating,Mid Range,True,Card,228.26,78.5,81.87,388.63,5,2.9,Prepaid,77.73,Failed Delivery
+20,Outdoor,Patio furniture,Affordable,True,Digital Wallet,1529.45,142.64,70.32,1742.41,8,2.6,Prepaid,217.8,In Transit
+1398,Dining Room,Table,Mid Range,False,Digital Wallet,821.85,139.03,0.0,960.88,1,2.4,Prepaid,960.88,Rescheduled
+1134,Outdoor,Seating,Premium,True,Digital Wallet,777.69,89.92,238.53,1106.14,2,3.1,Prepaid,553.07,Rescheduled
+612,Dining Room,Storage,Premium,False,Card,1360.57,91.43,0.0,1452.0,10,3.7,Prepaid,145.2,In Transit
+734,Dining Room,Table,Mid Range,False,Card,1563.14,0.0,0.0,1563.14,13,4.8,Prepaid,120.24,Cancelled
+1480,Outdoor,Patio furniture,Premium,False,Bank Transfer,995.14,114.73,0.0,1109.87,6,3.2,Prepaid,184.98,Pending
+1689,Living Room,Seating,Mid Range,False,Digital Wallet,1684.92,99.57,0.0,1784.49,3,3.1,Prepaid,594.83,Pending
+735,Office,Work,Premium,True,Bank Transfer,1484.77,136.55,86.17,1707.49,4,3.1,Prepaid,426.87,Failed Delivery
+1595,Living Room,Seating,Affordable,True,Bank Transfer,1013.35,0.0,40.17,1053.52,7,4.3,Prepaid,150.5,Delivered
+1305,Dining Room,Storage,Premium,False,Digital Wallet,1384.59,0.0,0.0,1384.59,11,4.1,Prepaid,125.87,Cancelled
+128,Office,Work,Affordable,True,Card,401.69,35.32,184.44,621.45,2,3.2,Prepaid,310.73,Rescheduled
+1853,Bedroom,Sleeping,Mid Range,True,Card,1213.6,134.2,64.48,1412.28,5,3.8,Prepaid,282.46,In Transit
+402,Bedroom,Storage,Affordable,False,Card,1325.41,103.57,0.0,1428.98,4,2.6,Prepaid,357.24,Delivered
+1423,Office,Work,Affordable,True,Cash,584.21,127.24,53.23,764.6800000000001,5,4.7,Postpaid,152.94,Delivered
+1648,Kitchen,Storage,Mid Range,True,Digital Wallet,2374.39,104.75,257.57,2736.71,8,4.1,Prepaid,342.09,Failed Delivery
+579,Bedroom,Sleeping,Affordable,False,Card,974.97,73.44,0.0,1107.25,14,3.0,Prepaid,79.09,Failed Delivery
+993,Office,Storage,Other,True,Cash,748.37,112.19,104.46,965.02,3,1.1,Postpaid,321.67,In Transit
+1220,Outdoor,Seating,Premium,True,Digital Wallet,628.07,0.0,58.16,686.23,2,3.5,Prepaid,343.12,Rescheduled
+664,Dining Room,Table,Premium,True,Card,1367.41,0.0,80.29,1447.7,2,4.8,Prepaid,723.85,Delivered
+453,Dining Room,Storage,Other,False,Digital Wallet,381.22,50.21,0.0,431.43,10,3.2,Prepaid,43.14,Pending
+1884,Bedroom,Sleeping,Mid Range,False,Digital Wallet,1037.98,72.23,0.0,1110.21,1,3.1,Prepaid,1110.21,In Transit
+1586,Living Room,Seating,Affordable,False,Cash,1056.77,100.34,0.0,1157.11,9,3.6,Postpaid,128.57,Pending
+1768,Office,Work,Affordable,False,Digital Wallet,889.42,143.24,0.0,1032.66,11,2.0,Prepaid,93.88,Rescheduled
+519,Dining Room,Storage,Mid Range,True,Card,770.54,79.46,42.38,892.38,10,3.9,Prepaid,89.24,Delivered
+177,Bedroom,Sleeping,Mid Range,True,Card,294.68,92.89,52.62,440.19,7,2.9,Prepaid,62.88,In Transit
+1474,Outdoor,Patio furniture,Mid Range,True,Digital Wallet,1048.59,90.28,221.75,1360.62,1,4.8,Prepaid,1360.62,Failed Delivery
+1901,Bedroom,Sleeping,Affordable,False,Bank Transfer,608.84,81.1,0.0,689.94,2,1.7,Prepaid,344.97,Pending
+756,Office,Storage,Mid Range,True,Digital Wallet,97.01,40.96,41.45,179.42000000000002,5,2.5,Prepaid,35.88,In Transit
+312,Dining Room,Seating,Mid Range,False,Digital Wallet,905.23,84.87,0.0,990.1,4,3.7,Prepaid,247.52,Failed Delivery
+341,Office,Work,Affordable,True,Cash,871.13,0.0,189.01,1060.14,9,3.7,Postpaid,117.79,Delivered
+102,Living Room,Table,Mid Range,False,Card,346.18,58.62,0.0,404.8,9,2.8,Prepaid,44.98,Rescheduled
+1600,Outdoor,Table,Premium,False,Digital Wallet,547.52,64.71,0.0,612.23,9,2.0,Prepaid,68.03,Cancelled
+688,Outdoor,Patio furniture,Mid Range,False,Digital Wallet,1578.82,107.2,0.0,1686.02,9,3.6,Prepaid,187.34,In Transit
+1313,Kitchen,Storage,Mid Range,True,Digital Wallet,2341.27,73.64,176.24,2591.15,3,4.3,Prepaid,863.72,Rescheduled
+47,Kitchen,Table,Affordable,True,Bank Transfer,2184.81,88.04,129.86,2402.71,7,4.8,Prepaid,343.24,Rescheduled
+739,Office,Work,Premium,False,Digital Wallet,369.97,54.3,0.0,424.27,4,2.3,Prepaid,106.07,Cancelled
+496,Living Room,Table,Affordable,True,Card,2150.69,83.33,38.01,2272.03,11,1.1,Prepaid,206.55,Cancelled
+1037,Office,Storage,Affordable,True,Digital Wallet,214.49,71.87,33.76,320.12,9,2.4,Prepaid,35.57,In Transit
+171,Outdoor,Seating,Mid Range,True,Digital Wallet,202.09,96.12,50.95,349.16,6,2.7,Prepaid,58.19,Failed Delivery
+1254,Office,Work,Mid Range,False,Digital Wallet,302.91,58.31,0.0,361.22,2,2.8,Prepaid,180.61,Cancelled
+1631,Dining Room,Seating,Affordable,False,Cash,186.27,51.38,0.0,237.65,4,1.3,Postpaid,59.41,In Transit
+108,Office,Work,Premium,True,Card,1455.13,85.16,82.84,1623.13,4,2.4,Prepaid,405.78,Delivered
+1371,Kitchen,Storage,Premium,True,Bank Transfer,1423.72,111.44,178.9,1714.0600000000002,6,4.2,Prepaid,285.68,Delivered
+1848,Living Room,Seating,Premium,False,Digital Wallet,2300.23,84.91,0.0,2385.14,1,1.5,Prepaid,2385.14,Delivered
+573,Living Room,Seating,Mid Range,False,Digital Wallet,1620.3,0.0,0.0,1620.3,2,3.4,Prepaid,810.15,Rescheduled
+1870,Kitchen,Table,Affordable,True,Card,1164.68,112.53,197.96,1475.17,5,3.0,Prepaid,295.03,Failed Delivery
+1056,Outdoor,Seating,Affordable,False,Digital Wallet,210.61,87.6,0.0,298.21000000000004,3,1.8,Prepaid,99.4,Failed Delivery
+1441,Living Room,Table,Affordable,False,Card,1915.84,63.01,0.0,1978.85,12,3.1,Prepaid,164.9,Cancelled
+405,Office,Work,Mid Range,True,Digital Wallet,89.41,89.28,205.68,384.37,6,4.9,Prepaid,64.06,Delivered
+279,Bedroom,Sleeping,Mid Range,False,Digital Wallet,1900.2,114.73,0.0,2014.93,7,2.9,Prepaid,287.85,Delivered
+285,Kitchen,Table,Affordable,False,Cash,343.84,60.85,0.0,404.69,10,1.5,Postpaid,40.47,In Transit
+1078,Kitchen,Table,Affordable,False,Bank Transfer,1140.21,57.88,0.0,1198.09,7,1.7,Prepaid,171.16,Delivered
+1791,Office,Work,Affordable,False,Card,841.74,149.72,0.0,991.46,13,1.1,Prepaid,76.27,Delivered
+1709,Bedroom,Storage,Affordable,True,Card,2510.29,86.54,173.05,2769.88,13,2.4,Prepaid,213.07,Rescheduled
+790,Dining Room,Seating,Premium,False,Cash,1087.53,72.21,0.0,1159.74,1,2.8,Postpaid,1159.74,Delivered
+1592,Outdoor,Seating,Mid Range,False,Card,569.87,78.52,0.0,648.39,6,4.5,Prepaid,108.06,Pending
+1899,Bedroom,Sleeping,Premium,False,Bank Transfer,2592.95,80.67,0.0,2673.62,11,2.2,Prepaid,243.06,In Transit
+1630,Living Room,Seating,Affordable,True,Card,2123.56,0.0,180.33,2303.89,5,1.3,Prepaid,460.78,Pending
+129,Outdoor,Table,Premium,True,Digital Wallet,1596.05,109.72,59.04,1764.81,12,4.2,Prepaid,147.07,Cancelled
+313,Living Room,Seating,Affordable,False,Card,1376.48,134.33,0.0,1510.81,9,3.4,Prepaid,167.87,Cancelled
+666,Living Room,Storage,Premium,True,Card,1190.43,62.07,188.67,1441.17,6,4.1,Prepaid,240.2,Delivered
+251,Outdoor,Seating,Other,True,Bank Transfer,858.23,0.0,30.34,888.57,2,3.1,Prepaid,444.28,Rescheduled
+1079,Outdoor,Patio furniture,Mid Range,True,Cash,1530.81,61.64,199.49,1791.94,10,4.4,Postpaid,179.19,Cancelled
+799,Living Room,Seating,Premium,True,Digital Wallet,753.97,118.8,266.38,1139.15,13,1.4,Prepaid,87.63,Cancelled
+1629,Kitchen,Storage,Other,False,Digital Wallet,1209.05,71.33,0.0,1280.38,6,3.1,Prepaid,213.4,Delivered
+991,Living Room,Seating,Affordable,False,Digital Wallet,739.8,0.0,0.0,739.8,2,1.9,Prepaid,369.9,Rescheduled
+1745,Office,Work,Mid Range,True,Cash,413.68,41.26,102.74,483.12,5,4.8,Postpaid,96.62,Cancelled
+603,Living Room,Seating,Mid Range,True,Bank Transfer,606.8,127.94,214.6,949.34,5,2.9,Prepaid,189.87,Rescheduled
+127,Outdoor,Table,Mid Range,True,Cash,1491.75,132.9,226.27,1850.92,1,1.7,Postpaid,1850.92,Delivered
+644,Kitchen,Table,Premium,False,Digital Wallet,765.01,0.0,0.0,765.01,6,4.0,Prepaid,127.5,Rescheduled
+525,Outdoor,Seating,Affordable,False,Digital Wallet,933.07,0.0,0.0,933.07,1,4.2,Prepaid,933.07,Cancelled
+169,Kitchen,Storage,Affordable,False,Digital Wallet,1344.76,0.0,0.0,1344.76,11,3.1,Prepaid,122.25,Rescheduled
+1430,Outdoor,Patio furniture,Premium,False,Cash,925.22,129.21,0.0,1054.43,9,4.3,Postpaid,117.16,Pending
+544,Kitchen,Table,Other,True,Card,1265.05,54.07,266.65,1585.77,1,1.3,Prepaid,1585.77,In Transit
+1866,Living Room,Storage,Other,True,Bank Transfer,2396.69,142.22,90.27,2629.18,9,5.0,Prepaid,292.13,Delivered
+1691,Bedroom,Sleeping,Premium,False,Card,2684.16,96.07,0.0,2780.23,14,4.6,Prepaid,198.59,Pending
+209,Office,Work,Mid Range,False,Card,425.36,77.29,0.0,502.65,11,1.3,Prepaid,45.7,Pending
+1486,Bedroom,Storage,Mid Range,False,Bank Transfer,1270.54,69.61,0.0,1340.15,14,2.2,Prepaid,95.72,In Transit
+1353,Kitchen,Table,Premium,False,Digital Wallet,1815.87,0.0,0.0,1815.87,11,2.9,Prepaid,165.08,Delivered
+1624,Kitchen,Table,Affordable,False,Digital Wallet,654.02,0.0,0.0,654.02,4,3.1,Prepaid,163.5,Pending
+891,Outdoor,Seating,Premium,False,Digital Wallet,833.19,132.82,0.0,966.01,9,2.3,Prepaid,107.33,Failed Delivery
+200,Dining Room,Seating,Mid Range,True,Card,1918.34,0.0,43.67,1962.01,13,2.0,Prepaid,150.92,Cancelled
+672,Living Room,Table,Affordable,False,Cash,2054.37,58.48,0.0,2112.85,7,1.7,Postpaid,301.84,Failed Delivery
+761,Outdoor,Patio furniture,Affordable,True,Cash,1781.11,137.73,131.75,2050.59,13,3.1,Postpaid,157.74,Cancelled
+377,Dining Room,Table,Mid Range,False,Cash,515.76,56.29,0.0,572.05,4,3.1,Postpaid,143.01,Rescheduled
+658,Bedroom,Sleeping,Affordable,True,Digital Wallet,2255.53,98.5,237.78,2591.8100000000004,4,4.3,Prepaid,647.95,Pending
+888,Outdoor,Table,Affordable,True,Bank Transfer,173.41,92.24,279.65,545.3,2,3.7,Prepaid,272.65,Rescheduled
+743,Kitchen,Storage,Premium,False,Card,1592.48,118.48,0.0,1710.96,4,3.1,Prepaid,427.74,Failed Delivery
+1815,Bedroom,Sleeping,Other,True,Digital Wallet,1418.74,82.67,172.89,1674.3000000000002,8,4.1,Prepaid,209.29,Pending
+473,Outdoor,Patio furniture,Affordable,True,Cash,1009.07,132.7,75.94,1217.71,7,1.2,Postpaid,173.96,Rescheduled
+432,Living Room,Table,Mid Range,False,Card,2356.07,73.44,0.0,2431.4,4,1.2,Prepaid,607.85,In Transit
+653,Outdoor,Table,Premium,False,Card,668.01,125.74,0.0,793.75,10,2.4,Prepaid,79.38,In Transit
+1568,Dining Room,Table,Mid Range,True,Digital Wallet,507.46,108.65,166.12,782.23,10,1.7,Prepaid,78.22,Cancelled
+1129,Dining Room,Table,Affordable,False,Digital Wallet,445.18,68.14,0.0,513.32,9,4.0,Prepaid,57.04,Pending
+852,Bedroom,Sleeping,Affordable,True,Card,2344.84,0.0,48.94,2393.78,2,4.3,Prepaid,1196.89,Pending
+784,Dining Room,Storage,Premium,True,Card,470.65,35.74,74.9,581.29,2,3.7,Prepaid,290.64,Failed Delivery
+67,Kitchen,Table,Mid Range,True,Card,1641.19,144.76,63.23,1849.18,2,1.7,Prepaid,924.59,In Transit
+1747,Dining Room,Storage,Affordable,False,Card,978.88,60.16,0.0,1039.04,11,3.0,Prepaid,94.46,Failed Delivery
+1885,Living Room,Seating,Affordable,True,Digital Wallet,2385.96,83.2,290.74,2759.9,11,3.5,Prepaid,250.9,Delivered
+419,Living Room,Seating,Premium,False,Card,803.64,0.0,0.0,803.64,5,4.0,Prepaid,160.73,Cancelled
+486,Dining Room,Seating,Mid Range,True,Bank Transfer,1098.24,73.44,227.96,1411.59,11,4.2,Prepaid,128.33,In Transit
+1604,Bedroom,Sleeping,Other,True,Card,1623.68,54.94,57.29,1735.91,1,1.1,Prepaid,1735.91,In Transit
+1620,Dining Room,Seating,Affordable,False,Digital Wallet,1840.87,0.0,0.0,1840.87,11,2.9,Prepaid,167.35,Delivered
+325,Outdoor,Patio furniture,Affordable,True,Card,1134.01,138.8,199.61,1472.42,8,1.8,Prepaid,184.05,Pending
+1233,Living Room,Seating,Affordable,True,Digital Wallet,1195.83,71.02,198.06,1464.91,9,4.3,Prepaid,162.77,Failed Delivery
+553,Dining Room,Seating,Affordable,True,Digital Wallet,484.2,34.54,113.65,632.39,14,2.7,Prepaid,45.17,In Transit
+15,Dining Room,Storage,Affordable,False,Digital Wallet,1990.78,93.81,0.0,2084.59,2,1.3,Prepaid,1042.3,Rescheduled
+158,Kitchen,Table,Affordable,False,Digital Wallet,1395.68,78.97,0.0,1474.65,8,4.2,Prepaid,184.33,Delivered
+823,Living Room,Seating,Affordable,True,Card,2252.74,55.75,199.28,2507.77,6,3.1,Prepaid,417.96,Cancelled
+1670,Office,Work,Mid Range,True,Digital Wallet,746.94,110.81,55.97,913.72,13,3.1,Prepaid,70.29,Cancelled
+1140,Bedroom,Sleeping,Affordable,False,Digital Wallet,1568.03,112.53,0.0,1680.56,10,4.1,Prepaid,168.06,Pending
+193,Outdoor,Patio furniture,Mid Range,True,Cash,203.16,74.51,60.3,337.97,2,2.8,Postpaid,168.98,Cancelled
+1367,Outdoor,Patio furniture,Affordable,True,Digital Wallet,624.47,0.0,234.11,858.58,6,3.6,Prepaid,143.1,Cancelled
+1218,Outdoor,Seating,Affordable,True,Cash,1408.32,111.04,44.67,1564.03,2,3.1,Postpaid,782.02,Delivered
+1475,Bedroom,Sleeping,Affordable,True,Card,1190.5,0.0,41.47,1231.97,3,3.5,Prepaid,410.66,Cancelled
+1077,Kitchen,Table,Affordable,False,Card,2321.31,143.23,0.0,2464.54,1,3.1,Prepaid,2464.54,Pending
+964,Outdoor,Seating,Affordable,True,Digital Wallet,773.09,107.38,62.62,943.09,8,1.9,Prepaid,117.89,In Transit
+707,Outdoor,Patio furniture,Premium,False,Digital Wallet,1558.87,134.43,0.0,1693.3,5,3.1,Prepaid,338.66,Failed Delivery
+1572,Outdoor,Seating,Premium,True,Bank Transfer,1629.35,56.53,159.45,1845.33,10,3.5,Prepaid,184.53,Rescheduled
+327,Kitchen,Table,Premium,True,Digital Wallet,1606.63,0.0,26.21,1632.84,2,2.5,Prepaid,816.42,Delivered
+1191,Outdoor,Patio furniture,Premium,False,Cash,312.99,63.99,0.0,376.98,9,3.8,Postpaid,41.89,Failed Delivery
+99,Bedroom,Sleeping,Other,True,Card,2854.68,59.17,26.26,2940.11,6,1.5,Prepaid,490.02,In Transit
+328,Outdoor,Seating,Mid Range,True,Card,489.07,76.43,142.09,707.59,2,2.1,Prepaid,353.8,Cancelled
+840,Office,Work,Affordable,False,Digital Wallet,1373.41,0.0,0.0,1373.41,9,3.0,Prepaid,152.6,In Transit
+887,Outdoor,Patio furniture,Affordable,True,Cash,792.08,0.0,43.07,835.1500000000001,10,2.3,Postpaid,83.52,Cancelled
+595,Kitchen,Table,Mid Range,False,Card,480.95,62.03,0.0,542.98,5,3.9,Prepaid,108.6,Failed Delivery
+1221,Outdoor,Seating,Affordable,True,Digital Wallet,1304.77,0.0,41.6,1346.37,3,1.4,Prepaid,448.79,In Transit
+911,Kitchen,Storage,Affordable,True,Digital Wallet,1244.49,87.4,175.09,1506.98,1,2.0,Prepaid,1506.98,Delivered
+1389,Living Room,Storage,Affordable,True,Bank Transfer,674.57,0.0,132.51,807.08,7,3.1,Prepaid,115.3,Failed Delivery
+1355,Living Room,Seating,Mid Range,False,Cash,2212.83,73.44,0.0,2212.83,3,3.1,Postpaid,737.61,Delivered
+1345,Bedroom,Sleeping,Mid Range,False,Digital Wallet,2137.54,91.26,0.0,2228.8,7,2.2,Prepaid,318.4,In Transit
+1849,Bedroom,Sleeping,Mid Range,True,Digital Wallet,2782.91,0.0,94.72,2877.63,10,3.1,Prepaid,287.76,Delivered
+727,Bedroom,Storage,Affordable,True,Digital Wallet,382.01,60.3,75.43,517.74,13,4.0,Prepaid,39.83,Failed Delivery
+1606,Outdoor,Seating,Affordable,False,Bank Transfer,350.81,66.08,0.0,416.89,4,4.2,Prepaid,104.22,Pending
+849,Office,Work,Affordable,True,Card,784.26,131.56,78.48,994.3,12,2.1,Prepaid,82.86,In Transit
+1171,Kitchen,Storage,Affordable,True,Card,1964.9,89.8,54.67,2109.3700000000003,12,4.5,Prepaid,175.78,Delivered
+549,Dining Room,Seating,Affordable,False,Card,498.22,43.85,0.0,542.07,1,3.1,Prepaid,542.07,Rescheduled
+1115,Outdoor,Seating,Affordable,False,Cash,687.37,97.38,0.0,784.75,13,1.9,Postpaid,60.37,Failed Delivery
+1909,Office,Work,Mid Range,False,Cash,685.99,101.2,0.0,787.19,14,4.6,Postpaid,56.23,Rescheduled
+926,Bedroom,Storage,Other,True,Card,1248.89,112.05,178.19,1539.13,5,3.7,Prepaid,307.83,Cancelled
+182,Bedroom,Sleeping,Mid Range,False,Card,1891.22,90.55,0.0,1981.77,9,2.6,Prepaid,220.2,In Transit
+374,Kitchen,Table,Mid Range,True,Digital Wallet,2087.81,126.92,38.79,2253.52,9,3.2,Prepaid,250.39,In Transit
+1296,Outdoor,Seating,Premium,True,Card,168.47,29.5,38.11,236.08,5,1.0,Prepaid,47.22,Delivered
+1737,Dining Room,Storage,Affordable,True,Bank Transfer,656.23,0.0,25.47,681.7,4,3.9,Prepaid,170.42,Rescheduled
+945,Bedroom,Sleeping,Affordable,False,Digital Wallet,1498.56,131.17,0.0,1629.73,7,4.6,Prepaid,232.82,Delivered
+684,Dining Room,Seating,Affordable,True,Card,658.56,0.0,89.19,747.75,7,3.1,Prepaid,106.82,Delivered
+1532,Office,Work,Affordable,False,Card,281.47,39.31,0.0,320.78000000000003,9,2.5,Prepaid,35.64,In Transit
+861,Living Room,Seating,Affordable,True,Digital Wallet,1844.32,127.66,102.74,2002.86,1,4.4,Prepaid,2002.86,Rescheduled
+1274,Bedroom,Sleeping,Affordable,True,Digital Wallet,2115.57,149.58,233.84,2498.99,12,1.9,Prepaid,208.25,Pending
+172,Kitchen,Storage,Premium,True,Digital Wallet,2220.2,56.23,78.04,2354.47,11,2.5,Prepaid,214.04,Failed Delivery
+1770,Bedroom,Sleeping,Premium,True,Digital Wallet,994.15,0.0,271.3,1265.45,3,3.1,Prepaid,421.82,Pending
+1082,Office,Work,Affordable,False,Card,470.17,59.68,0.0,529.85,2,1.1,Prepaid,264.92,In Transit
+330,Office,Storage,Mid Range,True,Cash,307.73,66.11,199.59,573.4300000000001,1,3.1,Postpaid,573.43,Pending
+487,Dining Room,Seating,Premium,True,Card,103.0,26.8,89.98,219.78000000000003,7,2.3,Prepaid,31.4,Cancelled
+925,Office,Work,Premium,True,Card,346.84,32.84,176.05,555.73,5,3.6,Prepaid,111.15,Pending
+1505,Outdoor,Seating,Other,False,Cash,848.07,128.88,0.0,976.95,11,4.0,Postpaid,88.81,Delivered
+1094,Outdoor,Patio furniture,Premium,True,Digital Wallet,882.03,0.0,225.03,1107.06,2,4.4,Prepaid,553.53,In Transit
+708,Dining Room,Storage,Affordable,False,Digital Wallet,1542.14,72.45,0.0,1614.59,7,2.3,Prepaid,230.66,In Transit
+1576,Office,Storage,Mid Range,True,Card,429.88,94.66,111.34,635.88,8,3.1,Prepaid,79.48,Cancelled
+593,Bedroom,Storage,Other,True,Card,2576.2,119.81,251.03,2947.04,2,2.4,Prepaid,1473.52,Failed Delivery
+744,Office,Work,Mid Range,False,Bank Transfer,1226.74,141.03,0.0,1367.77,8,1.2,Prepaid,170.97,Delivered
+469,Bedroom,Sleeping,Affordable,False,Digital Wallet,2109.03,118.81,0.0,2227.84,3,3.4,Prepaid,742.61,Cancelled
+1678,Kitchen,Storage,Affordable,False,Card,880.07,0.0,0.0,880.07,13,1.5,Prepaid,67.7,Failed Delivery
+871,Living Room,Storage,Mid Range,False,Cash,414.39,73.44,0.0,462.54,13,2.6,Postpaid,35.58,Delivered
+1725,Kitchen,Storage,Affordable,False,Bank Transfer,1645.79,78.17,0.0,1723.96,4,2.3,Prepaid,430.99,Delivered
+1043,Bedroom,Sleeping,Affordable,False,Card,2844.65,121.13,0.0,2965.78,9,3.8,Prepaid,329.53,Cancelled
+321,Outdoor,Seating,Premium,True,Cash,1435.25,113.1,163.45,1711.8,1,1.8,Postpaid,1711.8,Rescheduled
+1090,Bedroom,Sleeping,Affordable,False,Bank Transfer,971.96,83.41,0.0,1055.37,11,4.6,Prepaid,95.94,Rescheduled
+929,Office,Storage,Mid Range,False,Card,605.09,0.0,0.0,605.09,12,1.8,Prepaid,50.42,Failed Delivery
+1529,Bedroom,Storage,Mid Range,True,Digital Wallet,651.99,0.0,243.8,895.79,3,4.4,Prepaid,298.6,Cancelled
+1626,Kitchen,Storage,Affordable,True,Digital Wallet,2444.39,134.38,32.87,2611.64,7,3.1,Prepaid,373.09,Cancelled
+1402,Dining Room,Seating,Mid Range,False,Digital Wallet,1262.37,0.0,0.0,1262.37,13,4.0,Prepaid,97.11,Pending
+1539,Living Room,Seating,Affordable,False,Digital Wallet,482.06,40.54,0.0,522.6,9,2.8,Prepaid,58.07,Pending
+1291,Office,Work,Mid Range,False,Card,509.23,0.0,0.0,509.23,4,4.2,Prepaid,127.31,Pending
+782,Office,Work,Affordable,False,Bank Transfer,666.64,0.0,0.0,666.64,1,4.5,Prepaid,666.64,Delivered
+164,Living Room,Seating,Affordable,False,Digital Wallet,508.05,0.0,0.0,508.05,13,1.2,Prepaid,39.08,Rescheduled
+460,Office,Work,Mid Range,True,Card,1366.58,75.55,120.07,1562.1999999999998,12,1.2,Prepaid,130.18,Pending
+789,Kitchen,Storage,Affordable,True,Cash,580.32,88.02,106.19,774.53,9,2.6,Postpaid,86.06,Delivered
+250,Dining Room,Table,Affordable,False,Digital Wallet,1343.72,0.0,0.0,1343.72,11,1.7,Prepaid,122.16,Cancelled
+1564,Outdoor,Table,Premium,False,Card,1527.89,104.68,0.0,1632.5700000000002,10,2.1,Prepaid,163.26,Delivered
+60,Office,Work,Affordable,True,Digital Wallet,212.14,41.62,166.4,420.16,6,3.1,Prepaid,70.03,Cancelled
+201,Office,Work,Premium,False,Card,863.95,88.07,0.0,952.02,5,3.1,Prepaid,190.4,Failed Delivery
+1339,Bedroom,Sleeping,Affordable,False,Card,2322.01,0.0,0.0,2322.01,5,1.2,Prepaid,464.4,Pending
+1715,Bedroom,Sleeping,Premium,False,Bank Transfer,2423.99,68.54,0.0,2492.53,11,4.1,Prepaid,226.59,Delivered
+779,Kitchen,Table,Affordable,False,Digital Wallet,1126.46,146.21,0.0,1272.67,8,2.3,Prepaid,159.08,Delivered
+399,Bedroom,Sleeping,Mid Range,False,Digital Wallet,2799.68,76.11,0.0,2875.79,9,3.1,Prepaid,319.53,Rescheduled
+801,Office,Storage,Premium,True,Digital Wallet,1065.09,0.0,222.63,1287.7199999999998,11,2.2,Prepaid,117.07,Pending
+1937,Kitchen,Storage,Premium,False,Cash,550.84,0.0,0.0,550.84,10,1.1,Postpaid,55.08,Pending
+813,Office,Work,Affordable,False,Digital Wallet,831.12,136.54,0.0,967.66,10,3.1,Prepaid,96.77,In Transit
+1869,Office,Storage,Other,False,Bank Transfer,959.99,58.58,0.0,1018.57,1,3.1,Prepaid,1018.57,Cancelled
+1396,Kitchen,Table,Affordable,True,Card,1680.54,50.34,176.85,1907.73,13,3.3,Prepaid,146.75,Failed Delivery
+28,Outdoor,Table,Affordable,False,Bank Transfer,485.94,72.57,0.0,558.51,9,4.6,Prepaid,62.06,Pending
+641,Dining Room,Storage,Mid Range,True,Card,1792.7,108.35,70.82,1971.87,2,3.0,Prepaid,985.94,Delivered
+752,Office,Work,Affordable,True,Cash,1267.83,114.1,253.55,1635.4799999999998,8,3.1,Postpaid,204.43,Pending
+998,Dining Room,Storage,Mid Range,True,Cash,1249.92,91.89,88.82,1430.63,7,3.7,Postpaid,204.38,Delivered
+584,Outdoor,Seating,Affordable,False,Bank Transfer,1411.74,66.71,0.0,1478.45,14,4.4,Prepaid,105.6,Delivered
+905,Office,Work,Premium,False,Card,378.62,56.49,0.0,435.11,11,4.2,Prepaid,39.56,Delivered
+36,Kitchen,Storage,Affordable,True,Cash,1060.51,93.64,284.93,1439.0800000000002,4,3.8,Postpaid,359.77,Rescheduled
+1561,Office,Work,Mid Range,True,Card,459.33,69.16,31.47,559.96,13,3.1,Prepaid,43.07,Failed Delivery
+451,Office,Work,Affordable,True,Digital Wallet,1400.95,0.0,40.85,1441.8,11,2.2,Prepaid,131.07,Delivered
+1046,Dining Room,Storage,Affordable,False,Digital Wallet,1850.97,53.35,0.0,1904.32,11,1.2,Prepaid,173.12,Cancelled
+1810,Dining Room,Storage,Affordable,True,Cash,537.61,71.48,143.84,752.9300000000001,9,4.4,Postpaid,83.66,Pending
+126,Living Room,Seating,Affordable,False,Digital Wallet,1726.31,81.02,0.0,1807.33,3,4.8,Prepaid,602.44,Rescheduled
+1267,Dining Room,Seating,Affordable,True,Cash,1071.09,71.64,120.64,1263.37,12,2.3,Postpaid,105.28,Rescheduled
+347,Dining Room,Storage,Premium,True,Digital Wallet,1774.64,110.9,139.79,2025.33,6,2.8,Prepaid,337.56,In Transit
+1763,Office,Work,Premium,True,Bank Transfer,1253.87,116.41,35.79,1406.07,2,2.0,Prepaid,703.04,Pending
+343,Outdoor,Seating,Affordable,False,Digital Wallet,153.62,51.64,0.0,205.26,9,3.8,Prepaid,22.81,In Transit
+705,Outdoor,Patio furniture,Affordable,True,Card,1259.09,67.55,28.19,1354.83,10,4.5,Prepaid,135.48,Delivered
+1357,Bedroom,Storage,Mid Range,False,Cash,338.26,27.35,0.0,365.61,7,3.0,Postpaid,52.23,Failed Delivery
+116,Living Room,Seating,Affordable,False,Card,247.97,49.36,0.0,297.33,14,2.4,Prepaid,21.24,Pending
+104,Living Room,Seating,Mid Range,True,Digital Wallet,940.86,0.0,162.43,1103.29,10,2.3,Prepaid,110.33,Rescheduled
+1184,Office,Work,Affordable,False,Card,1283.12,0.0,0.0,1283.12,6,2.7,Prepaid,213.85,Failed Delivery
+379,Kitchen,Table,Affordable,True,Cash,1128.65,108.77,137.63,1375.0500000000002,4,2.4,Postpaid,343.76,Failed Delivery
+535,Office,Work,Affordable,False,Bank Transfer,846.98,0.0,0.0,846.98,2,4.7,Prepaid,423.49,Delivered
+737,Kitchen,Table,Affordable,False,Digital Wallet,972.26,99.98,0.0,1072.24,6,2.7,Prepaid,178.71,Cancelled
+550,Bedroom,Sleeping,Affordable,True,Cash,1532.42,0.0,238.91,1771.3300000000002,6,4.0,Postpaid,295.22,In Transit
+816,Dining Room,Storage,Mid Range,False,Bank Transfer,1054.24,0.0,0.0,1054.24,9,4.5,Prepaid,117.14,Delivered
+351,Dining Room,Seating,Premium,True,Bank Transfer,1694.83,79.51,181.4,1955.74,2,3.7,Prepaid,977.87,In Transit
+293,Living Room,Storage,Affordable,True,Card,591.24,123.2,159.4,873.84,10,3.8,Prepaid,87.38,Cancelled
+1836,Bedroom,Storage,Affordable,False,Card,1138.14,60.13,0.0,1198.2700000000002,4,3.7,Prepaid,299.57,Cancelled
+1913,Office,Work,Affordable,False,Bank Transfer,1029.82,85.24,0.0,1115.06,5,2.9,Prepaid,223.01,Failed Delivery
+1317,Kitchen,Storage,Premium,False,Digital Wallet,751.28,93.67,0.0,844.9499999999999,6,3.1,Prepaid,140.82,Rescheduled
+1298,Outdoor,Patio furniture,Mid Range,True,Card,1566.84,0.0,93.06,1659.9,2,5.0,Prepaid,829.95,Rescheduled
+884,Bedroom,Sleeping,Premium,False,Digital Wallet,752.75,0.0,0.0,752.75,5,1.7,Prepaid,150.55,Pending
+91,Dining Room,Seating,Affordable,False,Digital Wallet,271.25,47.13,0.0,318.38,3,4.1,Prepaid,106.13,Rescheduled
+848,Office,Work,Affordable,False,Card,540.45,0.0,0.0,540.45,3,3.9,Prepaid,180.15,Delivered
+23,Kitchen,Table,Mid Range,True,Digital Wallet,425.14,63.09,39.88,528.11,11,2.6,Prepaid,48.01,In Transit
+590,Living Room,Seating,Mid Range,True,Card,473.52,43.98,166.76,684.26,13,3.1,Prepaid,52.64,Rescheduled
+310,Dining Room,Seating,Mid Range,True,Bank Transfer,410.68,92.09,102.75,605.52,1,3.3,Prepaid,605.52,In Transit
+203,Living Room,Storage,Mid Range,False,Digital Wallet,1472.62,122.0,0.0,1594.62,3,1.9,Prepaid,531.54,In Transit
+755,Outdoor,Seating,Affordable,False,Card,1180.71,89.51,0.0,1270.22,2,1.4,Prepaid,635.11,In Transit
+90,Bedroom,Storage,Premium,True,Digital Wallet,864.29,126.75,47.59,1038.63,11,3.1,Prepaid,94.42,Pending
+1054,Dining Room,Table,Mid Range,False,Card,820.69,0.0,0.0,820.69,3,2.7,Prepaid,273.56,Delivered
+523,Bedroom,Sleeping,Affordable,False,Card,2295.37,88.32,0.0,2383.69,12,1.8,Prepaid,198.64,Delivered
+952,Bedroom,Storage,Affordable,False,Digital Wallet,1940.48,143.65,0.0,2084.13,10,1.5,Prepaid,208.41,In Transit
+796,Office,Work,Affordable,True,Cash,899.56,98.24,60.91,1058.71,12,3.6,Postpaid,88.23,Cancelled
+1127,Dining Room,Storage,Premium,True,Cash,734.13,0.0,49.36,783.49,13,3.1,Postpaid,60.27,Rescheduled
+1722,Dining Room,Storage,Mid Range,False,Bank Transfer,910.59,0.0,0.0,910.59,8,3.1,Prepaid,113.82,Rescheduled
+682,Bedroom,Storage,Premium,False,Digital Wallet,1612.58,119.45,0.0,1732.03,8,3.1,Prepaid,216.5,Rescheduled
+1216,Bedroom,Sleeping,Mid Range,False,Digital Wallet,1112.4,115.97,0.0,1228.37,3,1.1,Prepaid,409.46,Failed Delivery
+1422,Dining Room,Seating,Mid Range,True,Digital Wallet,1661.0,73.44,40.63,1789.16,1,2.0,Prepaid,1789.16,Rescheduled
+1611,Outdoor,Seating,Mid Range,False,Cash,1778.19,0.0,0.0,1778.19,9,2.6,Postpaid,197.58,Delivered
+1888,Outdoor,Seating,Affordable,True,Cash,263.26,31.72,194.65,489.63,12,3.0,Postpaid,40.8,Failed Delivery
+1900,Living Room,Seating,Mid Range,True,Card,1388.68,91.98,210.77,1691.43,14,2.4,Prepaid,120.82,Pending
+1468,Bedroom,Sleeping,Premium,False,Digital Wallet,361.86,75.09,0.0,436.9500000000001,5,1.2,Prepaid,87.39,Rescheduled
+1152,Outdoor,Table,Affordable,True,Card,1017.2,106.29,153.95,1277.44,12,3.1,Prepaid,106.45,In Transit
+980,Bedroom,Storage,Mid Range,False,Digital Wallet,807.03,71.08,0.0,878.11,12,1.6,Prepaid,73.18,Cancelled
+1143,Outdoor,Patio furniture,Mid Range,True,Digital Wallet,663.86,140.29,165.64,969.79,6,3.7,Prepaid,161.63,Failed Delivery
+915,Outdoor,Seating,Affordable,True,Card,1275.52,131.34,52.48,1459.34,8,5.0,Prepaid,182.42,Pending
+704,Dining Room,Storage,Premium,True,Bank Transfer,1818.56,70.91,166.64,2056.11,5,3.0,Prepaid,411.22,In Transit
+1622,Outdoor,Seating,Premium,False,Cash,512.27,84.22,0.0,596.49,1,1.8,Postpaid,596.49,Delivered
+1025,Dining Room,Storage,Mid Range,False,Digital Wallet,1073.48,0.0,0.0,1073.48,8,2.1,Prepaid,134.18,Rescheduled
+1659,Bedroom,Sleeping,Affordable,False,Card,1154.83,128.57,0.0,1283.4,12,3.1,Prepaid,106.95,Rescheduled
+1443,Living Room,Seating,Affordable,True,Card,2235.36,89.78,34.66,2359.8,11,2.3,Prepaid,214.53,In Transit
+597,Office,Work,Affordable,False,Card,822.18,61.92,0.0,884.0999999999999,7,4.9,Prepaid,126.3,In Transit
+1830,Kitchen,Table,Mid Range,True,Digital Wallet,322.96,96.89,196.11,615.96,11,2.4,Prepaid,56.0,Cancelled
+1759,Office,Work,Premium,False,Digital Wallet,307.14,90.82,0.0,397.96,7,1.7,Prepaid,56.85,Failed Delivery
+1188,Outdoor,Seating,Mid Range,True,Digital Wallet,987.09,94.51,45.18,1126.7800000000002,5,1.4,Prepaid,225.36,In Transit
+223,Outdoor,Seating,Mid Range,False,Digital Wallet,1746.81,82.59,0.0,1829.4,14,2.5,Prepaid,130.67,In Transit
+1403,Outdoor,Table,Mid Range,True,Digital Wallet,1042.77,119.59,272.56,1434.9199999999998,4,4.5,Prepaid,358.73,Pending
+213,Kitchen,Table,Affordable,False,Card,1546.73,117.7,0.0,1664.43,7,1.6,Prepaid,237.78,Cancelled
+1174,Bedroom,Sleeping,Affordable,True,Digital Wallet,2593.96,93.89,177.91,2865.76,9,3.5,Prepaid,318.42,Cancelled
+572,Kitchen,Storage,Premium,False,Digital Wallet,1045.11,0.0,0.0,1045.11,1,3.1,Prepaid,1045.11,Pending
+86,Bedroom,Sleeping,Premium,False,Bank Transfer,1464.28,0.0,0.0,1464.28,11,3.1,Prepaid,133.12,Delivered
+1454,Living Room,Storage,Premium,True,Digital Wallet,2104.43,146.0,95.11,2345.54,10,2.4,Prepaid,234.55,In Transit
+202,Outdoor,Seating,Mid Range,False,Card,1406.69,70.31,0.0,1477.0,7,3.1,Prepaid,211.0,Cancelled
+77,Outdoor,Seating,Mid Range,False,Digital Wallet,972.32,100.89,0.0,1073.21,7,4.9,Prepaid,153.32,Failed Delivery
+1922,Living Room,Seating,Affordable,True,Digital Wallet,2287.5,59.85,176.51,2523.86,8,2.4,Prepaid,315.48,In Transit
+0,Outdoor,Patio furniture,Mid Range,True,Card,191.27,45.63,86.82,323.72,11,3.2,Prepaid,29.43,Failed Delivery
+388,Kitchen,Storage,Affordable,False,Digital Wallet,1114.83,0.0,0.0,1114.83,4,2.9,Prepaid,278.71,Delivered
+1832,Outdoor,Seating,Mid Range,False,Cash,490.86,30.23,0.0,521.09,12,3.1,Postpaid,43.42,Failed Delivery
+439,Kitchen,Storage,Mid Range,False,Bank Transfer,1984.62,0.0,0.0,1984.62,6,2.3,Prepaid,330.77,Rescheduled
+62,Outdoor,Patio furniture,Premium,False,Digital Wallet,1718.95,69.15,0.0,1788.1,5,4.9,Prepaid,357.62,Rescheduled
+174,Bedroom,Storage,Affordable,False,Digital Wallet,2347.85,119.02,0.0,2466.87,6,3.2,Prepaid,411.14,Delivered
+1487,Bedroom,Storage,Mid Range,False,Digital Wallet,1668.2,76.93,0.0,1745.13,14,4.5,Prepaid,124.65,Rescheduled
+997,Dining Room,Table,Premium,False,Card,1416.84,145.76,0.0,1562.6,6,3.1,Prepaid,260.43,Rescheduled
+342,Living Room,Table,Other,False,Cash,2141.93,126.74,0.0,2268.67,12,3.9,Postpaid,189.06,Pending
+1593,Bedroom,Sleeping,Mid Range,False,Digital Wallet,2813.77,78.55,0.0,2892.32,11,3.9,Prepaid,262.94,Failed Delivery
+1861,Office,Work,Affordable,True,Card,1476.22,0.0,129.31,1605.53,13,1.5,Prepaid,123.5,In Transit
+551,Living Room,Storage,Mid Range,False,Digital Wallet,723.9,0.0,0.0,723.9,14,4.6,Prepaid,51.71,Failed Delivery
+252,Office,Work,Affordable,True,Bank Transfer,91.45,50.77,254.1,396.32,8,3.1,Prepaid,49.54,Pending
+297,Outdoor,Table,Other,True,Digital Wallet,300.38,65.81,102.74,554.74,6,1.2,Prepaid,92.46,Failed Delivery
+545,Outdoor,Patio furniture,Premium,False,Digital Wallet,1613.41,130.74,0.0,1744.15,12,3.1,Prepaid,145.35,Cancelled
+543,Kitchen,Table,Premium,True,Digital Wallet,1007.5,71.32,66.78,1145.6,2,4.0,Prepaid,572.8,Cancelled
+277,Office,Work,Premium,False,Card,210.61,88.55,0.0,299.16,2,3.1,Prepaid,149.58,Pending
+1023,Outdoor,Seating,Affordable,False,Card,205.73,81.24,0.0,286.97,11,4.3,Prepaid,26.09,Pending
+1514,Dining Room,Seating,Mid Range,False,Bank Transfer,1599.77,104.02,0.0,1703.79,9,2.1,Prepaid,189.31,Failed Delivery
+322,Bedroom,Sleeping,Premium,False,Card,2387.85,62.94,0.0,2450.79,11,2.7,Prepaid,222.8,Failed Delivery
+1617,Living Room,Seating,Premium,True,Digital Wallet,1030.78,147.15,223.0,1400.93,5,3.7,Prepaid,280.19,Failed Delivery
+834,Dining Room,Table,Affordable,False,Card,611.57,0.0,0.0,611.57,12,2.3,Prepaid,50.96,In Transit
+1570,Kitchen,Table,Affordable,True,Digital Wallet,1181.34,120.03,190.64,1492.0099999999998,5,3.0,Prepaid,298.4,Pending
+1153,Outdoor,Seating,Affordable,True,Digital Wallet,1197.6,72.63,278.74,1548.97,5,3.1,Prepaid,309.79,Delivered
+490,Bedroom,Sleeping,Affordable,False,Cash,592.85,136.52,0.0,729.37,8,2.7,Postpaid,91.17,Pending
+1533,Living Room,Storage,Premium,True,Card,2365.48,127.85,99.5,2592.83,1,2.4,Prepaid,2592.83,Failed Delivery
+810,Outdoor,Patio furniture,Other,False,Card,1148.16,65.35,0.0,1213.51,7,3.1,Prepaid,173.36,In Transit
+608,Outdoor,Seating,Mid Range,False,Bank Transfer,1120.18,87.77,0.0,1207.95,6,4.2,Prepaid,201.32,Cancelled
+1167,Bedroom,Storage,Premium,False,Digital Wallet,1421.12,0.0,0.0,1421.12,12,2.1,Prepaid,118.43,In Transit
+1485,Outdoor,Patio furniture,Affordable,True,Digital Wallet,697.6,53.83,63.98,815.4100000000001,9,4.0,Prepaid,90.6,Delivered
+1381,Kitchen,Table,Affordable,True,Digital Wallet,809.34,0.0,190.63,999.97,11,4.6,Prepaid,90.91,Delivered
+1513,Office,Work,Premium,True,Bank Transfer,1436.59,129.94,102.74,1690.16,9,3.1,Prepaid,187.8,Delivered
+394,Outdoor,Patio furniture,Other,True,Card,415.22,97.34,45.58,558.1400000000001,8,2.7,Prepaid,69.77,Delivered
+1061,Bedroom,Storage,Mid Range,False,Card,2211.61,98.26,0.0,2309.8700000000003,5,3.1,Prepaid,461.97,Rescheduled
+1504,Bedroom,Storage,Premium,False,Digital Wallet,436.05,47.74,0.0,483.79,7,5.0,Prepaid,69.11,In Transit
+1333,Office,Work,Premium,False,Card,742.22,138.24,0.0,880.46,3,1.2,Prepaid,293.49,Cancelled
+1318,Office,Work,Affordable,True,Card,371.77,35.84,175.26,582.87,7,2.3,Prepaid,83.27,Delivered
+1772,Kitchen,Table,Mid Range,False,Digital Wallet,498.1,89.7,0.0,587.8000000000001,3,2.6,Prepaid,195.93,Rescheduled
+788,Kitchen,Storage,Mid Range,True,Card,2078.58,0.0,108.77,2187.35,2,3.4,Prepaid,1093.68,Cancelled
+1582,Kitchen,Table,Premium,False,Card,1235.33,0.0,0.0,1235.33,5,4.5,Prepaid,247.07,Cancelled
+1458,Dining Room,Storage,Premium,True,Digital Wallet,616.61,135.46,262.85,1014.92,1,3.1,Prepaid,1014.92,Failed Delivery
+1650,Living Room,Seating,Affordable,True,Digital Wallet,1328.79,134.81,132.81,1596.41,4,2.4,Prepaid,399.1,Pending
+1055,Bedroom,Storage,Premium,False,Cash,889.16,59.24,0.0,948.4,10,4.1,Postpaid,94.84,Failed Delivery
+1263,Dining Room,Storage,Premium,True,Digital Wallet,1807.3,73.44,76.81,1884.11,11,2.1,Prepaid,171.28,Delivered
+1779,Outdoor,Patio furniture,Mid Range,True,Card,1656.53,126.8,218.23,2001.56,4,2.2,Prepaid,500.39,Pending
+1525,Living Room,Seating,Mid Range,True,Digital Wallet,2425.05,0.0,86.59,2511.6400000000003,2,1.5,Prepaid,1255.82,Cancelled
+221,Living Room,Table,Affordable,False,Digital Wallet,900.71,83.22,0.0,983.93,13,2.8,Prepaid,75.69,Cancelled
+1847,Bedroom,Storage,Affordable,False,Digital Wallet,817.0,126.1,0.0,943.1,1,1.4,Prepaid,943.1,Pending
+1205,Office,Work,Affordable,True,Card,297.4,46.89,59.2,403.49,4,3.9,Prepaid,100.87,Failed Delivery
+1695,Bedroom,Sleeping,Mid Range,True,Digital Wallet,2590.55,0.0,32.73,2623.28,6,4.4,Prepaid,437.21,Pending
+1189,Kitchen,Table,Affordable,False,Card,2280.51,110.35,0.0,2390.86,8,3.2,Prepaid,298.86,Failed Delivery
+1341,Living Room,Storage,Mid Range,True,Digital Wallet,1872.65,71.91,167.14,2111.7000000000003,11,4.6,Prepaid,191.97,Cancelled
+701,Office,Work,Mid Range,True,Cash,1351.28,126.25,38.47,1516.0,14,2.8,Postpaid,108.29,Delivered
+659,Living Room,Seating,Affordable,False,Digital Wallet,1649.94,147.95,0.0,1797.89,12,3.9,Prepaid,149.82,Pending
+295,Dining Room,Seating,Affordable,False,Card,282.24,54.47,0.0,336.71000000000004,3,3.1,Prepaid,112.24,Failed Delivery
+1742,Living Room,Table,Premium,True,Bank Transfer,959.43,60.78,30.74,1050.9499999999998,4,2.6,Prepaid,262.74,Pending
+1546,Office,Work,Premium,True,Digital Wallet,222.24,97.38,44.88,364.5,1,2.9,Prepaid,364.5,Pending
+11,Living Room,Table,Mid Range,True,Digital Wallet,2214.46,0.0,46.76,2261.2200000000003,5,3.0,Prepaid,452.24,In Transit
+640,Dining Room,Storage,Premium,True,Digital Wallet,1021.88,134.58,33.74,1190.2,4,1.7,Prepaid,297.55,Cancelled
+6,Bedroom,Sleeping,Affordable,True,Digital Wallet,1467.44,0.0,184.29,1651.73,13,3.1,Prepaid,127.06,Delivered
+1104,Dining Room,Seating,Affordable,True,Cash,526.19,0.0,67.83,594.0200000000001,8,3.6,Postpaid,74.25,Cancelled
+309,Dining Room,Seating,Premium,True,Digital Wallet,620.56,100.51,31.05,752.1199999999999,8,1.7,Prepaid,94.01,Rescheduled
+1366,Dining Room,Storage,Mid Range,False,Digital Wallet,1647.41,91.68,0.0,1739.09,13,1.2,Prepaid,133.78,In Transit
+1416,Living Room,Seating,Mid Range,True,Bank Transfer,1983.2,136.29,33.06,2152.55,13,3.5,Prepaid,165.58,Pending
+1244,Kitchen,Storage,Other,True,Card,1252.28,65.98,196.14,1514.4,2,3.8,Prepaid,757.2,Delivered
+281,Dining Room,Storage,Premium,True,Digital Wallet,613.83,0.0,47.39,661.22,13,4.2,Prepaid,50.86,Rescheduled
+1762,Bedroom,Storage,Affordable,False,Bank Transfer,1055.58,73.44,0.0,1175.6899999999998,4,2.9,Prepaid,293.92,In Transit
+1222,Office,Work,Affordable,False,Bank Transfer,757.17,108.62,0.0,865.79,8,1.7,Prepaid,108.22,Failed Delivery
+946,Dining Room,Seating,Mid Range,True,Digital Wallet,1171.42,82.25,62.5,1316.17,7,2.2,Prepaid,188.02,Delivered
+1466,Office,Work,Mid Range,True,Cash,1396.58,70.49,26.96,1494.03,3,3.1,Postpaid,498.01,In Transit
+1873,Living Room,Seating,Mid Range,True,Card,241.8,63.92,174.38,480.1,7,3.4,Prepaid,68.59,Pending
+814,Office,Work,Mid Range,False,Bank Transfer,570.15,146.8,0.0,716.95,8,2.0,Prepaid,89.62,Rescheduled
+922,Bedroom,Sleeping,Mid Range,False,Bank Transfer,1812.84,0.0,0.0,1812.84,14,3.1,Prepaid,129.49,Failed Delivery
+618,Outdoor,Patio furniture,Other,True,Digital Wallet,804.88,134.28,39.27,978.43,9,3.1,Prepaid,108.71,Rescheduled
+148,Outdoor,Table,Premium,True,Digital Wallet,747.55,53.24,292.32,1093.11,6,1.3,Prepaid,182.18,Rescheduled
+397,Outdoor,Seating,Affordable,True,Digital Wallet,1165.06,85.97,54.34,1305.37,5,2.4,Prepaid,261.07,Failed Delivery
+1108,Kitchen,Table,Mid Range,True,Digital Wallet,1001.49,69.64,162.51,1233.64,4,3.1,Prepaid,308.41,In Transit
+1048,Outdoor,Patio furniture,Affordable,True,Card,1482.26,0.0,85.28,1567.54,3,1.5,Prepaid,522.51,Pending
+719,Outdoor,Table,Affordable,False,Card,1555.81,83.57,0.0,1639.38,7,1.4,Prepaid,234.2,Failed Delivery
+1086,Dining Room,Storage,Affordable,True,Bank Transfer,1381.55,0.0,156.49,1538.04,7,1.1,Prepaid,219.72,Rescheduled
+1625,Kitchen,Storage,Affordable,False,Card,313.74,29.94,0.0,343.68,9,4.0,Prepaid,38.19,Pending
+1807,Kitchen,Storage,Premium,False,Cash,1522.51,82.12,0.0,1604.63,3,3.7,Postpaid,534.88,Cancelled
+1494,Dining Room,Seating,Premium,True,Card,484.36,41.24,161.94,687.54,4,2.9,Prepaid,171.88,Pending
+555,Office,Storage,Premium,True,Card,100.6,57.11,66.36,224.07,10,4.7,Prepaid,22.41,Rescheduled
+1707,Living Room,Storage,Affordable,True,Bank Transfer,1112.69,77.58,37.14,1227.41,6,3.2,Prepaid,204.57,Pending
+1859,Living Room,Table,Affordable,False,Cash,1371.43,115.51,0.0,1486.94,3,1.1,Postpaid,495.65,Delivered
+1730,Bedroom,Sleeping,Affordable,False,Cash,2120.13,0.0,0.0,2120.13,13,3.1,Postpaid,163.09,Delivered
+326,Bedroom,Storage,Mid Range,True,Cash,2956.91,0.0,56.16,3013.07,12,1.1,Postpaid,251.09,Delivered
+1548,Kitchen,Table,Mid Range,False,Card,993.1,120.77,0.0,1113.87,13,2.0,Prepaid,85.68,Rescheduled
+667,Outdoor,Patio furniture,Mid Range,True,Cash,1147.08,73.44,269.85,1416.9299999999998,14,4.9,Postpaid,101.21,Rescheduled
+873,Office,Work,Affordable,True,Card,912.63,79.01,161.81,1153.45,11,3.1,Prepaid,104.86,In Transit
+375,Office,Work,Mid Range,True,Cash,1345.84,135.72,225.17,1706.73,2,3.0,Postpaid,853.36,In Transit
+1132,Bedroom,Sleeping,Mid Range,True,Card,224.74,70.14,77.0,371.88,2,2.3,Prepaid,185.94,Cancelled
+480,Living Room,Seating,Mid Range,False,Card,2230.22,0.0,0.0,2230.22,8,1.3,Prepaid,278.78,Pending
+986,Kitchen,Storage,Mid Range,False,Card,1042.57,111.55,0.0,1154.12,5,4.1,Prepaid,230.82,Pending
+596,Kitchen,Storage,Premium,True,Card,939.3,68.88,290.86,1299.04,6,5.0,Prepaid,216.51,Cancelled
+1756,Bedroom,Sleeping,Affordable,True,Digital Wallet,2259.11,0.0,98.81,2357.92,5,4.5,Prepaid,471.58,Delivered
+720,Living Room,Table,Affordable,True,Card,712.96,73.44,74.04,787.0,13,2.3,Prepaid,60.54,Failed Delivery
+471,Outdoor,Seating,Other,False,Digital Wallet,1400.33,0.0,0.0,1400.33,14,3.8,Prepaid,100.02,In Transit
+16,Bedroom,Storage,Mid Range,True,Bank Transfer,777.62,0.0,53.37,830.99,1,1.3,Prepaid,830.99,Delivered
+1785,Outdoor,Seating,Affordable,False,Cash,1307.47,119.59,0.0,1427.06,9,1.7,Postpaid,158.56,Rescheduled
+75,Office,Work,Affordable,False,Card,346.37,52.13,0.0,398.5,11,1.2,Prepaid,36.23,Rescheduled
+134,Office,Storage,Mid Range,False,Digital Wallet,1401.27,89.65,0.0,1490.92,4,1.3,Prepaid,372.73,Pending
+1,Living Room,Seating,Premium,True,Digital Wallet,702.87,52.65,183.07,938.59,10,4.5,Prepaid,93.86,Cancelled
+1796,Dining Room,Table,Mid Range,False,Cash,189.76,40.96,0.0,230.72,12,3.7,Postpaid,19.23,Rescheduled
+437,Kitchen,Storage,Affordable,True,Card,1012.1,136.77,38.28,1187.15,8,2.1,Prepaid,148.39,Failed Delivery
+1706,Dining Room,Table,Mid Range,False,Digital Wallet,1810.41,0.0,0.0,1810.41,14,1.3,Prepaid,129.32,Pending
+319,Office,Work,Mid Range,True,Digital Wallet,748.16,108.36,102.74,1139.93,9,3.1,Prepaid,126.66,Failed Delivery
+1289,Outdoor,Patio furniture,Premium,True,Cash,790.49,115.37,158.57,1064.43,12,1.7,Postpaid,88.7,Delivered
+931,Bedroom,Sleeping,Affordable,False,Digital Wallet,1666.58,0.0,0.0,1666.58,7,1.9,Prepaid,238.08,Delivered
+1236,Office,Work,Affordable,False,Bank Transfer,989.64,0.0,0.0,989.64,14,2.0,Prepaid,70.69,Cancelled
+518,Office,Work,Premium,True,Bank Transfer,1051.39,107.96,153.5,1312.85,1,3.1,Prepaid,1312.85,Rescheduled
+1798,Office,Work,Premium,False,Card,1024.25,79.42,0.0,1103.67,10,3.1,Prepaid,110.37,Cancelled
+699,Dining Room,Storage,Premium,False,Card,500.62,130.21,0.0,630.83,11,4.0,Prepaid,57.35,Delivered
+567,Outdoor,Patio furniture,Affordable,True,Card,1539.15,80.41,117.17,1736.7300000000002,5,2.5,Prepaid,347.35,Pending
+1596,Outdoor,Seating,Mid Range,True,Cash,204.78,70.67,171.92,447.37,9,2.1,Postpaid,49.71,Delivered
+378,Dining Room,Storage,Affordable,False,Digital Wallet,992.38,54.64,0.0,1047.02,2,3.1,Prepaid,523.51,Cancelled
+1352,Kitchen,Table,Premium,True,Digital Wallet,2129.96,0.0,240.93,2370.89,5,4.1,Prepaid,474.18,Pending
+982,Kitchen,Storage,Mid Range,True,Card,1389.79,88.47,60.29,1538.55,3,3.1,Prepaid,512.85,Delivered
+1697,Bedroom,Sleeping,Mid Range,True,Digital Wallet,714.63,85.11,176.4,976.14,12,3.1,Prepaid,81.34,In Transit
+1912,Dining Room,Seating,Mid Range,True,Cash,468.89,82.6,294.6,846.09,3,1.5,Postpaid,282.03,Pending
+414,Outdoor,Patio furniture,Affordable,False,Card,437.99,83.52,0.0,521.51,6,2.9,Prepaid,86.92,Failed Delivery
+1203,Living Room,Seating,Mid Range,True,Bank Transfer,725.88,68.45,71.8,866.13,6,1.6,Prepaid,144.35,Pending
+1508,Office,Storage,Premium,False,Digital Wallet,775.14,0.0,0.0,775.14,6,3.1,Prepaid,129.19,Failed Delivery
+1007,Living Room,Table,Mid Range,True,Digital Wallet,1732.8,0.0,51.37,1784.1699999999998,1,3.2,Prepaid,1784.17,Pending
+1781,Office,Work,Affordable,False,Digital Wallet,1114.22,0.0,0.0,1114.22,6,4.1,Prepaid,185.7,Pending
+1433,Kitchen,Storage,Mid Range,True,Digital Wallet,1591.67,62.22,90.3,1744.19,2,3.1,Prepaid,872.1,Failed Delivery
+521,Kitchen,Table,Mid Range,True,Card,2173.18,0.0,127.52,2300.7,5,3.1,Prepaid,460.14,Rescheduled
+717,Kitchen,Table,Premium,False,Card,624.3,84.29,0.0,708.5899999999999,1,3.6,Prepaid,708.59,Pending
+1910,Kitchen,Storage,Affordable,True,Cash,852.89,62.06,200.83,1115.78,4,3.1,Postpaid,278.94,Rescheduled
+1748,Kitchen,Table,Premium,False,Cash,2336.45,0.0,0.0,2336.45,11,3.1,Postpaid,212.4,In Transit
+870,Living Room,Table,Mid Range,True,Card,1573.35,80.91,31.01,1685.27,2,3.3,Prepaid,842.64,Failed Delivery
+1228,Dining Room,Storage,Other,False,Digital Wallet,737.71,135.36,0.0,873.07,7,1.5,Prepaid,124.72,Cancelled
+1795,Office,Storage,Premium,False,Cash,1263.44,60.6,0.0,1324.04,7,1.9,Postpaid,189.15,Failed Delivery
+1603,Kitchen,Storage,Affordable,True,Digital Wallet,658.01,0.0,98.79,756.8,11,3.0,Prepaid,68.8,In Transit
+1646,Living Room,Table,Mid Range,True,Card,2478.12,111.54,134.61,2724.27,13,2.5,Prepaid,209.56,Delivered
+179,Living Room,Seating,Affordable,True,Card,1700.29,0.0,70.89,1771.18,14,4.7,Prepaid,126.51,Failed Delivery
+1720,Dining Room,Storage,Affordable,True,Cash,950.87,80.95,272.43,1304.25,7,2.7,Postpaid,186.32,Delivered
+1306,Bedroom,Storage,Affordable,True,Bank Transfer,2105.04,105.29,237.26,2447.59,3,3.1,Prepaid,815.86,Delivered
+863,Bedroom,Sleeping,Affordable,True,Bank Transfer,2278.94,0.0,259.96,2538.9,12,2.5,Prepaid,211.58,Pending
+1639,Living Room,Seating,Affordable,False,Bank Transfer,1849.3,73.38,0.0,1922.68,12,3.7,Prepaid,160.22,Pending
+1927,Kitchen,Table,Premium,False,Card,1031.13,89.44,0.0,1120.5700000000002,3,1.7,Prepaid,373.52,Delivered
+345,Living Room,Seating,Premium,True,Digital Wallet,306.95,72.49,218.61,598.05,10,1.5,Prepaid,59.8,Pending
+50,Office,Work,Affordable,True,Cash,151.4,53.43,102.74,403.86,13,2.1,Postpaid,31.07,Delivered
+1668,Office,Storage,Other,True,Digital Wallet,1338.6,89.59,33.61,1461.7999999999995,13,4.7,Prepaid,112.45,Failed Delivery
+968,Kitchen,Storage,Affordable,False,Bank Transfer,522.01,55.15,0.0,577.16,1,4.8,Prepaid,577.16,Failed Delivery
+262,Outdoor,Table,Affordable,False,Cash,425.49,34.52,0.0,460.01,12,4.1,Postpaid,38.33,Delivered
+120,Kitchen,Storage,Other,True,Card,2201.34,65.1,216.33,2482.77,5,3.4,Prepaid,496.55,Rescheduled
+1426,Outdoor,Patio furniture,Mid Range,False,Bank Transfer,383.48,55.01,0.0,438.49,12,3.3,Prepaid,36.54,Cancelled
+1111,Kitchen,Table,Premium,False,Digital Wallet,1050.51,100.31,0.0,1150.82,2,4.8,Prepaid,575.41,Pending
+219,Bedroom,Storage,Premium,False,Digital Wallet,1635.15,66.95,0.0,1702.1,5,1.6,Prepaid,340.42,Failed Delivery
+267,Kitchen,Storage,Mid Range,False,Cash,317.53,40.05,0.0,357.58,12,2.9,Postpaid,29.8,Failed Delivery
+843,Outdoor,Patio furniture,Mid Range,False,Digital Wallet,577.08,79.64,0.0,656.72,9,3.1,Prepaid,72.97,Pending
+290,Outdoor,Patio furniture,Affordable,True,Cash,542.69,66.79,144.66,754.14,5,3.8,Postpaid,150.83,Delivered
+692,Dining Room,Seating,Affordable,True,Card,447.07,82.62,195.22,724.9100000000001,11,3.5,Prepaid,65.9,In Transit
+697,Living Room,Seating,Mid Range,True,Digital Wallet,2069.08,112.07,26.5,2207.65,8,2.0,Prepaid,275.96,Failed Delivery
+1766,Dining Room,Storage,Affordable,True,Cash,1359.22,121.12,231.52,1711.86,9,2.6,Postpaid,190.21,Pending
+716,Bedroom,Sleeping,Affordable,False,Digital Wallet,2421.52,0.0,0.0,2421.52,10,4.8,Prepaid,242.15,Delivered
+1512,Bedroom,Sleeping,Mid Range,True,Bank Transfer,2393.55,142.58,33.15,2569.28,3,4.8,Prepaid,856.43,In Transit
+74,Office,Work,Mid Range,False,Digital Wallet,526.61,147.02,0.0,673.63,14,5.0,Prepaid,48.12,Rescheduled
+574,Bedroom,Storage,Premium,False,Card,707.79,0.0,0.0,707.79,11,1.3,Prepaid,64.34,Failed Delivery
+773,Office,Work,Affordable,False,Digital Wallet,1258.24,0.0,0.0,1258.24,9,3.6,Prepaid,139.8,Rescheduled
+1805,Dining Room,Seating,Premium,True,Cash,293.09,77.61,43.53,414.23,7,3.1,Postpaid,59.18,Pending
+1767,Kitchen,Table,Mid Range,True,Card,1467.84,0.0,196.4,1664.24,5,4.3,Prepaid,332.85,Pending
+317,Kitchen,Storage,Premium,True,Bank Transfer,2159.92,137.65,109.76,2407.3300000000004,3,3.9,Prepaid,802.44,In Transit
+963,Living Room,Seating,Premium,False,Card,2147.64,0.0,0.0,2147.64,10,1.1,Prepaid,214.76,Delivered
+654,Living Room,Table,Mid Range,True,Digital Wallet,2459.03,0.0,230.16,2689.19,1,1.1,Prepaid,2689.19,Failed Delivery
+1411,Bedroom,Storage,Mid Range,False,Card,2425.16,69.63,0.0,2494.79,7,2.9,Prepaid,356.4,Rescheduled
+1883,Bedroom,Sleeping,Mid Range,False,Bank Transfer,1663.0,57.0,0.0,1720.0,12,1.5,Prepaid,143.33,Delivered
+1489,Office,Work,Mid Range,True,Card,1455.45,0.0,67.17,1522.62,10,2.5,Prepaid,152.26,Rescheduled
+955,Office,Work,Affordable,True,Bank Transfer,983.4,0.0,75.58,1058.98,12,2.9,Prepaid,88.25,Delivered
+1698,Outdoor,Seating,Mid Range,False,Card,1443.75,121.91,0.0,1565.66,14,3.6,Prepaid,111.83,In Transit
+901,Living Room,Seating,Other,True,Bank Transfer,226.54,82.75,40.45,349.73999999999995,9,1.3,Prepaid,38.86,Pending
+513,Kitchen,Storage,Mid Range,False,Card,2155.32,91.72,0.0,2247.04,14,1.5,Prepaid,160.5,Cancelled
+440,Living Room,Seating,Mid Range,True,Cash,2120.94,0.0,55.35,2176.29,4,3.1,Postpaid,544.07,Cancelled
+621,Dining Room,Table,Affordable,False,Cash,701.33,118.27,0.0,819.6,13,2.5,Postpaid,63.05,Delivered
+983,Kitchen,Storage,Mid Range,False,Cash,2361.89,125.45,0.0,2487.34,14,4.2,Postpaid,177.67,In Transit
+1204,Kitchen,Table,Mid Range,True,Card,1990.81,54.38,67.07,2112.26,5,2.4,Prepaid,422.45,Cancelled
+205,Kitchen,Storage,Affordable,True,Card,704.91,149.03,45.98,899.92,2,3.7,Prepaid,449.96,Failed Delivery
+1229,Kitchen,Table,Other,False,Cash,1375.43,0.0,0.0,1375.43,11,3.1,Postpaid,125.04,Delivered
+56,Outdoor,Seating,Premium,False,Digital Wallet,1317.06,123.38,0.0,1440.44,10,3.2,Prepaid,144.04,Failed Delivery
+500,Living Room,Seating,Mid Range,True,Card,323.74,56.98,242.45,623.1700000000001,5,1.8,Prepaid,124.63,Rescheduled
+1199,Outdoor,Table,Premium,False,Digital Wallet,825.19,0.0,0.0,825.19,7,4.6,Prepaid,117.88,Delivered
+1618,Office,Work,Affordable,True,Card,342.53,30.6,109.19,482.32,12,4.8,Prepaid,40.19,Delivered
+425,Office,Work,Mid Range,True,Card,453.43,56.67,128.47,638.57,12,2.1,Prepaid,53.21,Pending
+741,Bedroom,Storage,Affordable,True,Card,2029.77,0.0,151.85,2181.62,3,4.6,Prepaid,727.21,In Transit
+1530,Bedroom,Sleeping,Mid Range,True,Bank Transfer,1849.52,51.71,199.46,2100.69,6,4.4,Prepaid,350.12,Cancelled
+589,Living Room,Seating,Mid Range,False,Digital Wallet,243.25,61.32,0.0,304.57,1,1.1,Prepaid,304.57,Rescheduled
+237,Outdoor,Patio furniture,Affordable,True,Card,1294.16,149.99,193.33,1637.48,3,2.8,Prepaid,545.83,Delivered
+1449,Office,Storage,Premium,False,Digital Wallet,1259.0,125.95,0.0,1384.95,2,2.2,Prepaid,692.48,Delivered
+175,Living Room,Seating,Affordable,False,Card,1756.23,148.02,0.0,1904.25,13,2.2,Prepaid,146.48,Cancelled
+1034,Dining Room,Storage,Affordable,True,Digital Wallet,712.53,106.38,64.51,883.42,11,3.5,Prepaid,80.31,Delivered
+1410,Office,Work,Affordable,True,Digital Wallet,1256.86,73.44,213.73,1586.64,10,2.8,Prepaid,158.66,Delivered
+1284,Dining Room,Storage,Mid Range,False,Digital Wallet,120.08,69.82,0.0,189.9,7,2.2,Prepaid,27.13,Rescheduled
+152,Bedroom,Storage,Premium,False,Cash,2172.26,67.41,0.0,2239.67,9,4.9,Postpaid,248.85,In Transit
+1708,Kitchen,Storage,Affordable,False,Digital Wallet,626.69,57.17,0.0,683.86,3,1.2,Prepaid,227.95,Cancelled
+1755,Dining Room,Seating,Mid Range,False,Digital Wallet,374.25,53.18,0.0,427.43,11,4.2,Prepaid,38.86,Cancelled
+1855,Office,Work,Affordable,True,Digital Wallet,292.02,54.95,48.36,395.33,3,1.1,Prepaid,131.78,In Transit
+859,Office,Storage,Affordable,True,Digital Wallet,285.43,49.23,88.38,423.04,6,2.7,Prepaid,70.51,Failed Delivery
+1634,Bedroom,Sleeping,Affordable,False,Card,2775.24,113.06,0.0,2888.3,7,3.2,Prepaid,412.61,Delivered
+1753,Outdoor,Seating,Affordable,False,Digital Wallet,1137.14,108.78,0.0,1245.92,12,3.4,Prepaid,103.83,Pending
+1811,Office,Work,Mid Range,False,Card,586.1,130.58,0.0,716.6800000000001,4,4.4,Prepaid,179.17,In Transit
+1158,Kitchen,Storage,Premium,True,Cash,1453.33,109.84,194.82,1757.9899999999998,2,3.4,Postpaid,878.99,Pending
+883,Office,Work,Affordable,True,Digital Wallet,854.02,64.55,156.82,1075.39,10,1.2,Prepaid,107.54,Failed Delivery
+1728,Living Room,Seating,Mid Range,True,Digital Wallet,1945.86,119.96,61.23,2127.05,10,2.7,Prepaid,212.7,Cancelled
+1677,Office,Work,Other,False,Bank Transfer,1429.53,123.99,0.0,1553.52,3,3.9,Prepaid,517.84,Pending
+264,Bedroom,Storage,Affordable,True,Card,2353.99,117.41,87.04,2558.44,1,3.1,Prepaid,2558.44,In Transit
+291,Living Room,Table,Affordable,False,Digital Wallet,202.95,73.44,0.0,256.9,3,3.0,Prepaid,85.63,Delivered
+1658,Living Room,Seating,Mid Range,True,Bank Transfer,2042.65,72.56,59.45,2174.66,12,1.4,Prepaid,181.22,Cancelled
+1773,Dining Room,Storage,Mid Range,True,Digital Wallet,1412.24,0.0,55.54,1467.78,9,3.1,Prepaid,163.09,Failed Delivery
+22,Office,Work,Premium,True,Cash,349.65,41.33,43.7,434.68,1,3.1,Postpaid,434.68,Rescheduled
+1438,Kitchen,Table,Mid Range,True,Digital Wallet,2412.81,141.67,205.19,2759.67,13,4.5,Prepaid,212.28,Delivered
+881,Living Room,Storage,Affordable,False,Digital Wallet,1271.52,140.01,0.0,1411.53,2,3.1,Prepaid,705.76,Pending
+338,Office,Storage,Premium,True,Card,1022.47,73.44,41.08,1128.42,3,2.9,Prepaid,376.14,In Transit
+1515,Outdoor,Seating,Affordable,False,Cash,1366.24,71.89,0.0,1438.13,5,1.1,Postpaid,287.63,Delivered
+227,Kitchen,Table,Mid Range,False,Bank Transfer,540.61,0.0,0.0,540.61,3,1.2,Prepaid,180.2,Cancelled
+107,Outdoor,Table,Affordable,False,Cash,1489.42,108.65,0.0,1598.0700000000002,11,3.1,Postpaid,145.28,Cancelled
+1640,Bedroom,Sleeping,Affordable,False,Card,1397.55,129.39,0.0,1526.94,14,1.0,Prepaid,109.07,Cancelled
+857,Bedroom,Storage,Affordable,True,Cash,2108.41,78.7,191.62,2378.73,11,2.1,Postpaid,216.25,Pending
+592,Bedroom,Storage,Affordable,True,Card,1775.17,0.0,85.79,1860.96,5,4.0,Prepaid,372.19,Cancelled
+1917,Living Room,Seating,Affordable,True,Card,1437.85,0.0,154.18,1592.03,5,1.9,Prepaid,318.41,Delivered
+30,Outdoor,Seating,Affordable,True,Card,1050.22,108.25,169.12,1327.59,5,4.7,Prepaid,265.52,Delivered
+10,Living Room,Table,Affordable,False,Digital Wallet,1857.66,103.7,0.0,1961.36,13,1.4,Prepaid,150.87,In Transit
+438,Outdoor,Patio furniture,Premium,True,Card,775.42,0.0,177.6,953.02,4,1.3,Prepaid,238.26,Failed Delivery
+971,Dining Room,Table,Mid Range,False,Card,364.65,66.03,0.0,430.68,13,4.5,Prepaid,33.13,Failed Delivery
+710,Outdoor,Patio furniture,Mid Range,True,Cash,195.99,57.4,184.05,437.44000000000005,4,3.1,Postpaid,109.36,Delivered
+1198,Bedroom,Storage,Mid Range,True,Card,2765.11,65.59,102.74,3018.8900000000003,7,3.8,Prepaid,431.27,Delivered
+1201,Bedroom,Sleeping,Premium,True,Digital Wallet,339.53,65.27,195.53,600.3299999999999,12,2.6,Prepaid,50.03,Delivered
+669,Living Room,Table,Premium,True,Digital Wallet,1688.31,63.78,295.45,2047.54,13,2.0,Prepaid,157.5,Delivered
+866,Dining Room,Table,Premium,True,Bank Transfer,396.19,91.09,75.16,562.4399999999999,1,2.7,Prepaid,562.44,Rescheduled
+845,Bedroom,Storage,Other,False,Digital Wallet,481.13,73.65,0.0,554.78,6,3.1,Prepaid,92.46,Rescheduled
+125,Outdoor,Table,Mid Range,False,Digital Wallet,258.75,32.09,0.0,290.84000000000003,5,4.4,Prepaid,58.17,In Transit
+257,Living Room,Table,Affordable,True,Digital Wallet,1349.04,102.83,193.39,1645.2599999999998,3,4.4,Prepaid,548.42,Delivered
+1526,Office,Work,Premium,True,Card,1148.78,0.0,27.9,1176.68,7,1.5,Prepaid,168.1,Pending
+1160,Office,Storage,Affordable,False,Digital Wallet,398.98,32.73,0.0,431.71,4,3.7,Prepaid,107.93,Failed Delivery
+1028,Living Room,Seating,Premium,True,Card,1973.77,97.68,133.24,2204.69,13,1.3,Prepaid,169.59,In Transit
+1059,Dining Room,Table,Mid Range,False,Digital Wallet,1296.0,73.44,0.0,1346.79,8,3.6,Prepaid,168.35,In Transit
+198,Office,Work,Premium,True,Card,878.59,105.73,186.43,1170.75,4,1.3,Prepaid,292.69,Delivered
+628,Outdoor,Patio furniture,Mid Range,False,Card,1514.17,69.87,0.0,1584.04,6,4.5,Prepaid,264.01,In Transit
+409,Office,Work,Premium,False,Card,378.96,77.55,0.0,456.51,6,2.1,Prepaid,76.08,Rescheduled
+1601,Kitchen,Storage,Premium,True,Digital Wallet,2473.98,127.64,199.32,2800.94,6,3.8,Prepaid,466.82,Pending
+1628,Office,Storage,Mid Range,False,Card,1366.59,115.36,0.0,1481.9499999999998,9,3.8,Prepaid,164.66,Cancelled
+1746,Living Room,Seating,Affordable,True,Cash,1244.7,0.0,64.63,1309.33,6,3.1,Postpaid,218.22,Failed Delivery
+839,Bedroom,Storage,Premium,True,Digital Wallet,2204.19,0.0,232.57,2436.76,5,4.0,Prepaid,487.35,Delivered
+639,Office,Work,Premium,True,Digital Wallet,348.27,29.09,36.76,414.12,3,2.7,Prepaid,138.04,Pending
+631,Office,Work,Mid Range,True,Card,248.29,78.52,128.8,455.61,8,2.7,Prepaid,56.95,Rescheduled
+412,Living Room,Table,Affordable,False,Digital Wallet,575.69,0.0,0.0,575.69,8,1.4,Prepaid,71.96,Delivered
+13,Living Room,Table,Premium,False,Card,2219.42,58.57,0.0,2277.99,14,3.1,Prepaid,162.71,In Transit
+483,Kitchen,Table,Mid Range,True,Cash,2425.85,86.02,44.21,2556.08,6,2.5,Postpaid,426.01,Failed Delivery
+1867,Kitchen,Storage,Affordable,False,Digital Wallet,861.66,129.12,0.0,990.78,3,2.5,Prepaid,330.26,Pending
+1058,Living Room,Seating,Other,False,Card,1389.17,97.52,0.0,1486.69,10,3.3,Prepaid,148.67,Rescheduled
+475,Living Room,Table,Mid Range,False,Digital Wallet,1389.03,0.0,0.0,1389.03,2,1.5,Prepaid,694.52,Cancelled
+656,Outdoor,Seating,Mid Range,True,Card,1477.66,0.0,29.77,1507.43,14,3.1,Prepaid,107.67,Pending
+1141,Living Room,Table,Premium,False,Card,2205.66,54.65,0.0,2260.31,13,3.1,Prepaid,173.87,Pending
+536,Dining Room,Storage,Premium,True,Bank Transfer,204.87,99.78,153.46,458.11,6,3.1,Prepaid,76.35,Delivered
+967,Dining Room,Storage,Mid Range,False,Card,1809.54,130.16,0.0,1939.7,7,4.5,Prepaid,277.1,Pending
+1440,Office,Work,Mid Range,True,Digital Wallet,322.25,79.22,53.68,455.15,8,2.4,Prepaid,56.89,Pending
+602,Office,Work,Affordable,True,Digital Wallet,796.81,130.95,49.77,977.53,2,2.3,Prepaid,488.76,Failed Delivery
+163,Office,Work,Premium,True,Cash,385.51,51.47,149.49,586.47,14,2.9,Postpaid,41.89,Pending
+1135,Outdoor,Patio furniture,Mid Range,True,Card,350.81,81.75,261.1,693.6600000000001,6,2.3,Prepaid,115.61,In Transit
+482,Kitchen,Storage,Affordable,True,Digital Wallet,1028.44,0.0,299.06,1327.5,3,3.4,Prepaid,442.5,Cancelled
+130,Living Room,Seating,Premium,False,Digital Wallet,1037.89,146.96,0.0,1184.85,13,2.8,Prepaid,91.14,In Transit
+1257,Kitchen,Table,Mid Range,True,Card,2243.17,0.0,159.58,2402.75,2,3.1,Prepaid,1201.38,Rescheduled
+1063,Bedroom,Sleeping,Premium,True,Card,2040.71,55.38,179.29,2275.38,3,2.8,Prepaid,758.46,Failed Delivery
+1916,Living Room,Table,Affordable,False,Bank Transfer,654.54,0.0,0.0,654.54,13,4.4,Prepaid,50.35,Cancelled
+1736,Kitchen,Storage,Affordable,True,Card,405.73,40.35,91.44,537.52,3,4.0,Prepaid,179.17,In Transit
+1456,Outdoor,Patio furniture,Mid Range,False,Cash,1673.71,0.0,0.0,1673.71,13,3.7,Postpaid,128.75,In Transit
+1369,Bedroom,Storage,Mid Range,False,Cash,428.17,94.88,0.0,523.05,9,3.6,Postpaid,58.12,In Transit
+72,Living Room,Table,Mid Range,True,Bank Transfer,2089.27,126.31,227.84,2443.42,8,1.7,Prepaid,305.43,Failed Delivery
+514,Bedroom,Storage,Affordable,True,Digital Wallet,2671.93,147.5,28.43,2847.86,13,2.8,Prepaid,219.07,Rescheduled
+12,Bedroom,Storage,Affordable,False,Card,2867.47,141.85,0.0,3009.32,8,3.1,Prepaid,376.16,Delivered
+1330,Dining Room,Storage,Mid Range,False,Cash,1880.05,0.0,0.0,1880.05,3,1.8,Postpaid,626.68,Delivered
+1528,Dining Room,Storage,Affordable,True,Card,465.64,53.52,41.51,560.67,8,3.7,Prepaid,70.08,Rescheduled
+208,Bedroom,Sleeping,Mid Range,False,Digital Wallet,2766.44,74.1,0.0,2840.54,14,4.2,Prepaid,202.9,Delivered
+303,Living Room,Seating,Affordable,False,Digital Wallet,1494.17,0.0,0.0,1494.17,14,2.4,Prepaid,106.73,Delivered
+620,Office,Work,Other,False,Digital Wallet,284.87,38.14,0.0,323.01,8,4.5,Prepaid,40.38,Failed Delivery
+1792,Kitchen,Table,Premium,True,Card,1758.34,89.45,196.49,2044.28,2,4.9,Prepaid,1022.14,Failed Delivery
+1655,Outdoor,Table,Mid Range,False,Digital Wallet,1730.18,95.65,0.0,1825.83,6,4.4,Prepaid,304.3,In Transit
+565,Bedroom,Sleeping,Affordable,True,Digital Wallet,578.92,0.0,141.65,720.5699999999999,11,1.5,Prepaid,65.51,Failed Delivery
+693,Outdoor,Patio furniture,Mid Range,True,Card,641.74,0.0,283.95,925.69,5,4.3,Prepaid,185.14,Pending
+1015,Dining Room,Table,Mid Range,False,Card,515.97,139.68,0.0,655.6500000000001,7,2.3,Prepaid,93.66,Failed Delivery
+340,Kitchen,Storage,Affordable,False,Digital Wallet,493.64,62.38,0.0,556.02,2,4.0,Prepaid,278.01,Pending
+1251,Kitchen,Storage,Mid Range,False,Digital Wallet,1536.13,145.67,0.0,1681.8000000000002,6,3.1,Prepaid,280.3,In Transit
+1824,Dining Room,Seating,Other,True,Card,1858.34,128.99,224.45,2211.78,14,5.0,Prepaid,157.98,Pending
+1682,Outdoor,Table,Affordable,False,Bank Transfer,1712.53,73.99,0.0,1786.52,10,4.4,Prepaid,178.65,Failed Delivery
+1712,Bedroom,Sleeping,Mid Range,True,Cash,1509.91,0.0,31.34,1541.25,7,3.7,Postpaid,220.18,Rescheduled
+811,Dining Room,Table,Affordable,False,Card,1109.79,90.68,0.0,1200.47,11,3.1,Prepaid,109.13,Delivered
+42,Bedroom,Storage,Premium,True,Card,2134.61,74.4,44.46,2253.4700000000003,4,4.8,Prepaid,563.37,Failed Delivery
+1240,Kitchen,Table,Affordable,False,Cash,393.94,51.47,0.0,445.41,8,4.2,Postpaid,55.68,Failed Delivery
+878,Living Room,Seating,Premium,False,Digital Wallet,1323.0,78.66,0.0,1401.66,14,3.7,Prepaid,100.12,Delivered
+1415,Living Room,Seating,Affordable,True,Cash,539.99,92.21,146.09,778.2900000000001,11,4.4,Postpaid,70.75,Pending
+733,Bedroom,Storage,Affordable,False,Digital Wallet,710.44,80.27,0.0,790.71,4,5.0,Prepaid,197.68,Cancelled
+423,Bedroom,Storage,Affordable,False,Digital Wallet,967.27,118.78,0.0,1086.05,13,1.0,Prepaid,83.54,Delivered
+1907,Kitchen,Storage,Affordable,True,Card,2208.14,73.44,97.91,2418.92,6,3.1,Prepaid,403.15,Pending
+1255,Office,Storage,Affordable,True,Digital Wallet,311.32,34.64,26.31,372.27,6,2.5,Prepaid,62.04,Cancelled
+879,Kitchen,Storage,Mid Range,False,Bank Transfer,1122.1,100.59,0.0,1222.6899999999998,11,3.1,Prepaid,111.15,Pending
+585,Outdoor,Table,Affordable,True,Card,308.13,68.5,28.42,405.05,5,2.9,Prepaid,81.01,In Transit
+26,Bedroom,Storage,Mid Range,True,Card,2660.46,86.95,275.06,3022.47,12,4.9,Prepaid,251.87,Rescheduled
+680,Office,Work,Affordable,False,Digital Wallet,756.28,86.93,0.0,843.21,10,4.1,Prepaid,84.32,Rescheduled
+1238,Outdoor,Seating,Mid Range,True,Digital Wallet,169.8,80.82,158.81,409.43,6,3.4,Prepaid,68.24,Rescheduled
+135,Living Room,Table,Other,False,Digital Wallet,1694.91,63.76,0.0,1758.67,14,4.3,Prepaid,125.62,Failed Delivery
+210,Office,Work,Mid Range,True,Card,615.58,113.67,37.5,766.75,7,2.3,Prepaid,109.54,Rescheduled
+1424,Kitchen,Table,Mid Range,False,Digital Wallet,2258.45,123.85,0.0,2382.3,11,4.8,Prepaid,216.57,In Transit
+55,Living Room,Storage,Mid Range,False,Digital Wallet,1425.31,56.9,0.0,1482.21,1,4.3,Prepaid,1482.21,Failed Delivery
+463,Dining Room,Storage,Mid Range,False,Digital Wallet,847.46,0.0,0.0,847.46,11,3.5,Prepaid,77.04,Rescheduled
+1716,Kitchen,Storage,Affordable,True,Digital Wallet,1727.25,73.72,120.3,1921.27,10,3.1,Prepaid,192.13,Delivered
+216,Bedroom,Storage,Affordable,False,Digital Wallet,359.49,45.1,0.0,404.59,12,1.6,Prepaid,33.72,Delivered
+1183,Outdoor,Seating,Affordable,False,Bank Transfer,1352.3,59.42,0.0,1411.72,10,3.7,Prepaid,141.17,Failed Delivery
+1064,Outdoor,Seating,Affordable,False,Bank Transfer,480.67,37.91,0.0,518.58,2,4.4,Prepaid,259.29,Pending
+396,Bedroom,Storage,Mid Range,False,Digital Wallet,1558.95,0.0,0.0,1558.95,4,3.1,Prepaid,389.74,Rescheduled
+1362,Office,Work,Premium,False,Digital Wallet,1490.96,111.22,0.0,1602.18,13,4.2,Prepaid,123.24,Cancelled
+1889,Dining Room,Seating,Affordable,False,Card,1915.87,123.05,0.0,2038.92,5,1.2,Prepaid,407.78,Cancelled
+1577,Bedroom,Storage,Mid Range,True,Digital Wallet,1682.78,130.75,197.16,2010.69,7,3.6,Prepaid,287.24,Rescheduled
+1293,Outdoor,Table,Affordable,False,Card,1197.47,0.0,0.0,1197.47,1,3.2,Prepaid,1197.47,Pending
+1862,Outdoor,Seating,Mid Range,True,Card,175.4,50.67,175.53,401.6,3,4.7,Prepaid,133.87,Cancelled
+178,Kitchen,Table,Affordable,False,Bank Transfer,1195.2,137.84,0.0,1333.04,11,4.9,Prepaid,121.19,Delivered
+1200,Living Room,Table,Mid Range,False,Card,1792.8,73.44,0.0,1792.8,3,1.9,Prepaid,597.6,Pending
+740,Living Room,Table,Affordable,True,Card,439.92,66.47,102.74,660.42,4,3.1,Prepaid,165.1,Delivered
+507,Dining Room,Storage,Mid Range,False,Cash,285.54,58.39,0.0,343.93,7,3.1,Postpaid,49.13,Cancelled
+1164,Bedroom,Storage,Premium,False,Digital Wallet,1803.35,110.38,0.0,1913.73,12,2.4,Prepaid,159.48,Failed Delivery
+300,Outdoor,Patio furniture,Mid Range,True,Card,978.47,130.05,48.73,1157.25,8,4.9,Prepaid,144.66,In Transit
+1590,Office,Storage,Affordable,True,Card,1068.94,136.64,233.12,1438.6999999999998,14,2.5,Prepaid,102.76,Rescheduled
+1001,Outdoor,Seating,Premium,False,Bank Transfer,1783.39,73.44,0.0,1783.39,7,2.6,Prepaid,254.77,In Transit
+1213,Outdoor,Seating,Mid Range,False,Card,882.42,86.36,0.0,968.78,11,3.9,Prepaid,88.07,In Transit
+78,Bedroom,Sleeping,Premium,True,Cash,693.24,124.63,31.91,849.78,13,2.4,Postpaid,65.37,Delivered
+995,Office,Work,Premium,False,Digital Wallet,1436.35,149.23,0.0,1585.58,9,4.4,Prepaid,176.18,Pending
+1383,Living Room,Storage,Mid Range,True,Cash,565.26,139.5,33.35,738.11,3,3.3,Postpaid,246.04,Cancelled
+726,Kitchen,Storage,Premium,False,Digital Wallet,2037.09,55.33,0.0,2092.42,14,3.1,Prepaid,149.46,Rescheduled
+228,Office,Storage,Mid Range,False,Digital Wallet,1451.32,51.05,0.0,1502.37,4,3.1,Prepaid,375.59,Cancelled
+818,Office,Work,Affordable,True,Digital Wallet,1446.28,100.87,224.67,1771.8200000000002,11,4.6,Prepaid,161.07,Pending
+988,Dining Room,Storage,Premium,True,Cash,1311.71,90.86,189.7,1592.27,9,1.3,Postpaid,176.92,Delivered
+1412,Outdoor,Seating,Premium,True,Digital Wallet,1636.37,0.0,209.19,1845.56,11,4.0,Prepaid,167.78,Pending
+29,Office,Storage,Other,True,Card,142.6,50.02,116.16,308.78,8,2.7,Prepaid,38.6,Pending
+561,Living Room,Seating,Mid Range,True,Card,1040.86,86.56,39.02,1166.4399999999998,13,4.9,Prepaid,89.73,Rescheduled
+225,Office,Work,Affordable,False,Digital Wallet,277.63,47.71,0.0,325.34,11,2.7,Prepaid,29.58,Pending
+1780,Bedroom,Sleeping,Mid Range,True,Card,2041.9,70.11,54.96,2166.9700000000003,9,3.9,Prepaid,240.77,Delivered
+1227,Outdoor,Patio furniture,Affordable,True,Bank Transfer,699.32,0.0,32.57,731.8900000000001,4,2.5,Prepaid,182.97,Cancelled
+444,Kitchen,Table,Mid Range,False,Cash,1528.53,124.61,0.0,1653.14,11,3.7,Postpaid,150.29,In Transit
+32,Bedroom,Sleeping,Affordable,False,Digital Wallet,220.64,80.24,0.0,300.88,13,4.2,Prepaid,23.14,In Transit
+1442,Dining Room,Seating,Affordable,True,Cash,1035.51,93.54,27.91,1156.96,3,4.4,Postpaid,385.65,In Transit
+965,Kitchen,Table,Affordable,True,Digital Wallet,489.24,26.82,51.66,567.72,3,2.4,Prepaid,189.24,Rescheduled
+893,Dining Room,Storage,Premium,True,Cash,1882.01,73.44,27.24,1969.17,1,2.6,Postpaid,1969.17,Cancelled
+668,Living Room,Seating,Premium,True,Bank Transfer,296.53,32.91,95.55,424.99,3,3.8,Prepaid,141.66,Failed Delivery
+1544,Bedroom,Sleeping,Affordable,True,Digital Wallet,1749.58,149.98,173.49,2073.05,13,2.8,Prepaid,159.47,Failed Delivery
+1575,Outdoor,Patio furniture,Other,True,Cash,690.09,147.89,28.1,866.08,3,3.7,Postpaid,288.69,Cancelled
+958,Office,Storage,Mid Range,True,Digital Wallet,92.95,36.87,190.26,320.08,9,1.3,Prepaid,35.56,In Transit
+1399,Office,Work,Premium,True,Digital Wallet,691.77,118.97,61.57,872.3100000000001,14,3.1,Prepaid,62.31,Failed Delivery
+151,Outdoor,Seating,Premium,False,Digital Wallet,1795.48,146.76,0.0,1942.24,11,1.3,Prepaid,176.57,Delivered
+959,Outdoor,Patio furniture,Affordable,False,Cash,709.83,128.67,0.0,838.5,13,2.2,Postpaid,64.5,Pending
+222,Bedroom,Storage,Affordable,False,Bank Transfer,1063.9,70.09,0.0,1133.99,3,4.9,Prepaid,378.0,Cancelled
+1027,Bedroom,Sleeping,Other,False,Digital Wallet,199.06,62.28,0.0,261.34000000000003,6,3.9,Prepaid,43.56,In Transit
+702,Office,Work,Affordable,True,Bank Transfer,588.31,0.0,36.57,624.88,4,1.9,Prepaid,156.22,Delivered
+1854,Office,Work,Affordable,True,Card,233.19,87.13,29.81,350.13,7,1.4,Prepaid,50.02,In Transit
+1657,Dining Room,Seating,Premium,False,Digital Wallet,1089.26,0.0,0.0,1089.26,8,3.8,Prepaid,136.16,Pending
+854,Outdoor,Patio furniture,Mid Range,True,Card,353.07,86.87,110.26,550.2,14,1.0,Prepaid,39.3,Pending
+1065,Bedroom,Sleeping,Mid Range,False,Bank Transfer,2101.43,87.43,0.0,2188.86,3,2.9,Prepaid,729.62,Failed Delivery
+833,Kitchen,Storage,Affordable,False,Card,1840.35,73.44,0.0,1912.53,8,3.1,Prepaid,239.07,Cancelled
+1246,Kitchen,Table,Premium,True,Digital Wallet,1465.2,87.34,156.53,1709.07,8,3.1,Prepaid,213.63,Delivered
+1374,Bedroom,Storage,Affordable,True,Bank Transfer,1966.84,124.77,91.73,2183.34,13,4.1,Prepaid,167.95,Delivered
+113,Living Room,Table,Affordable,False,Card,1109.11,50.77,0.0,1159.88,4,4.1,Prepaid,289.97,Delivered
+48,Outdoor,Patio furniture,Mid Range,False,Cash,1469.78,98.82,0.0,1568.6,7,2.6,Postpaid,224.09,Cancelled
+289,Kitchen,Storage,Premium,True,Digital Wallet,2171.67,106.75,192.1,2470.52,10,3.3,Prepaid,247.05,In Transit
+1100,Kitchen,Storage,Premium,False,Bank Transfer,357.07,91.01,0.0,448.08,12,4.8,Prepaid,37.34,Rescheduled
+1021,Outdoor,Seating,Mid Range,False,Card,628.81,0.0,0.0,628.81,6,3.2,Prepaid,104.8,Pending
+206,Outdoor,Seating,Premium,True,Digital Wallet,262.15,36.33,205.98,504.4599999999999,10,4.7,Prepaid,50.45,Cancelled
+1147,Bedroom,Sleeping,Mid Range,False,Digital Wallet,1280.78,0.0,0.0,1280.78,8,1.8,Prepaid,160.1,Failed Delivery
+973,Dining Room,Table,Mid Range,True,Card,297.72,62.24,143.15,503.11,5,4.5,Prepaid,100.62,Pending
+1088,Outdoor,Seating,Mid Range,False,Bank Transfer,1057.62,71.78,0.0,1129.4,6,3.5,Prepaid,188.23,Cancelled
+1249,Living Room,Seating,Affordable,False,Card,1925.44,58.13,0.0,1983.57,8,4.6,Prepaid,247.95,Delivered
+1190,Outdoor,Patio furniture,Affordable,True,Digital Wallet,258.01,43.47,98.02,399.5,8,2.6,Prepaid,49.94,Pending
+632,Dining Room,Seating,Mid Range,False,Digital Wallet,894.83,64.59,0.0,959.42,5,2.8,Prepaid,191.88,Delivered
+775,Living Room,Table,Premium,True,Card,2077.7,0.0,228.74,2306.44,11,2.7,Prepaid,209.68,Delivered
+889,Living Room,Seating,Premium,True,Digital Wallet,2369.64,113.43,30.47,2513.5399999999995,4,3.2,Prepaid,628.38,Rescheduled
+899,Bedroom,Storage,Affordable,False,Digital Wallet,1262.67,90.31,0.0,1352.98,9,1.9,Prepaid,150.33,In Transit
+832,Office,Work,Affordable,True,Digital Wallet,468.88,39.41,152.65,660.9399999999999,4,3.1,Prepaid,165.24,Failed Delivery
+1245,Bedroom,Storage,Other,True,Card,2838.51,91.63,163.15,3093.2900000000004,6,3.7,Prepaid,515.55,Rescheduled
+683,Living Room,Seating,Mid Range,False,Digital Wallet,2160.33,0.0,0.0,2160.33,10,3.1,Prepaid,216.03,Delivered
+1752,Bedroom,Storage,Affordable,True,Cash,1137.97,91.59,36.36,1265.9199999999998,1,2.9,Postpaid,1265.92,Pending
+1285,Outdoor,Patio furniture,Premium,False,Cash,1129.0,147.7,0.0,1276.7,6,2.0,Postpaid,212.78,Failed Delivery
+617,Bedroom,Storage,Mid Range,True,Digital Wallet,2579.68,98.58,46.49,2724.7499999999995,2,2.2,Prepaid,1362.37,Failed Delivery
+1241,Office,Work,Affordable,False,Cash,296.81,80.34,0.0,377.15,7,4.5,Postpaid,53.88,Failed Delivery
+685,Bedroom,Storage,Mid Range,False,Digital Wallet,1543.06,0.0,0.0,1543.06,2,2.7,Prepaid,771.53,Delivered
+869,Dining Room,Storage,Premium,True,Card,469.99,33.13,160.32,663.44,14,2.0,Prepaid,47.39,Rescheduled
+1185,Bedroom,Storage,Other,True,Digital Wallet,1294.07,0.0,145.17,1439.24,2,1.1,Prepaid,719.62,Pending
+673,Living Room,Table,Affordable,True,Digital Wallet,2321.79,0.0,141.93,2463.72,11,4.5,Prepaid,223.97,Cancelled
+749,Bedroom,Sleeping,Premium,True,Card,257.66,43.8,167.03,468.49,8,1.3,Prepaid,58.56,Cancelled
+1002,Dining Room,Table,Mid Range,True,Bank Transfer,739.94,83.66,26.84,850.44,6,4.6,Prepaid,141.74,Failed Delivery
+1462,Outdoor,Table,Premium,False,Bank Transfer,595.7,94.06,0.0,689.76,7,3.9,Prepaid,98.54,In Transit
+408,Living Room,Storage,Affordable,False,Card,1031.69,73.44,0.0,1100.41,4,4.8,Prepaid,275.1,Delivered
+629,Living Room,Seating,Affordable,False,Digital Wallet,1688.35,140.68,0.0,1829.03,4,4.4,Prepaid,457.26,Failed Delivery
+1580,Dining Room,Storage,Affordable,False,Digital Wallet,1265.44,91.05,0.0,1356.49,13,1.6,Prepaid,104.35,Delivered
+1453,Outdoor,Seating,Premium,False,Digital Wallet,1007.99,0.0,0.0,1007.99,11,4.8,Prepaid,91.64,Cancelled
+646,Office,Storage,Affordable,False,Digital Wallet,998.98,65.41,0.0,1064.39,8,3.9,Prepaid,133.05,Cancelled
+139,Dining Room,Table,Affordable,True,Card,1911.47,128.64,281.0,2321.11,1,4.9,Prepaid,2321.11,Cancelled
+1436,Office,Work,Mid Range,True,Cash,1102.81,50.84,91.02,1244.6699999999998,13,3.1,Postpaid,95.74,Delivered
+913,Bedroom,Storage,Premium,True,Digital Wallet,498.57,48.89,121.38,668.84,10,4.6,Prepaid,66.88,Pending
+165,Bedroom,Storage,Mid Range,False,Digital Wallet,1726.69,73.44,0.0,1726.69,13,4.3,Prepaid,132.82,Cancelled
+1408,Bedroom,Sleeping,Premium,True,Card,1227.55,0.0,84.22,1311.77,7,3.1,Prepaid,187.4,In Transit
+812,Bedroom,Storage,Affordable,True,Digital Wallet,178.11,53.29,292.77,524.17,13,1.7,Prepaid,40.32,Delivered
+214,Kitchen,Storage,Affordable,True,Bank Transfer,418.13,73.44,160.52,636.43,10,2.6,Prepaid,63.64,Pending
+1397,Bedroom,Sleeping,Mid Range,False,Digital Wallet,2237.96,92.48,0.0,2330.44,10,2.6,Prepaid,233.04,Rescheduled
+1321,Dining Room,Seating,Mid Range,True,Digital Wallet,1832.04,0.0,60.96,1893.0,10,3.4,Prepaid,189.3,Pending
+131,Office,Work,Premium,False,Card,602.33,148.44,0.0,750.77,13,2.5,Prepaid,57.75,Failed Delivery
+314,Office,Work,Mid Range,False,Card,557.52,0.0,0.0,557.52,14,3.6,Prepaid,39.82,Delivered
+138,Outdoor,Seating,Mid Range,False,Digital Wallet,630.6,0.0,0.0,630.6,4,1.7,Prepaid,157.65,Pending
+1527,Kitchen,Table,Affordable,False,Card,1282.28,116.17,0.0,1398.45,4,3.5,Prepaid,349.61,In Transit
+416,Bedroom,Storage,Premium,False,Bank Transfer,800.42,79.14,0.0,879.56,10,2.1,Prepaid,87.96,Delivered
+1029,Office,Work,Mid Range,False,Cash,434.96,35.6,0.0,470.56,9,3.3,Postpaid,52.28,Pending
+38,Dining Room,Storage,Mid Range,True,Digital Wallet,719.75,105.44,249.74,1074.93,7,4.6,Prepaid,153.56,Rescheduled
+1273,Bedroom,Sleeping,Affordable,True,Digital Wallet,1793.77,0.0,102.74,1964.76,12,4.2,Prepaid,163.73,Cancelled
+53,Dining Room,Seating,Mid Range,True,Digital Wallet,418.8,70.54,98.24,587.58,2,4.7,Prepaid,293.79,Cancelled
+706,Outdoor,Patio furniture,Affordable,False,Bank Transfer,1786.72,103.29,0.0,1890.01,11,2.8,Prepaid,171.82,Cancelled
+136,Kitchen,Table,Affordable,True,Digital Wallet,2292.89,0.0,77.44,2370.33,12,2.7,Prepaid,197.53,In Transit
+1757,Kitchen,Storage,Other,False,Cash,1418.86,83.06,0.0,1501.9199999999998,8,3.1,Postpaid,187.74,Pending
+1122,Bedroom,Storage,Affordable,False,Card,360.87,98.29,0.0,459.16,14,1.6,Prepaid,32.8,Rescheduled
+793,Dining Room,Seating,Affordable,True,Cash,1672.98,0.0,48.08,1721.06,13,3.0,Postpaid,132.39,Delivered
+35,Kitchen,Storage,Affordable,True,Card,1794.94,83.11,46.93,1924.98,5,4.9,Prepaid,385.0,Pending
+25,Bedroom,Storage,Mid Range,True,Digital Wallet,1989.68,142.9,36.46,2169.04,10,1.3,Prepaid,216.9,Rescheduled
+657,Office,Work,Affordable,True,Card,1002.63,112.61,32.52,1147.76,8,3.1,Prepaid,143.47,Pending
+449,Dining Room,Seating,Affordable,True,Digital Wallet,274.62,54.98,43.09,372.69000000000005,13,3.0,Prepaid,28.67,Cancelled
+578,Office,Work,Mid Range,False,Card,89.4,72.91,0.0,162.31,7,2.8,Prepaid,23.19,In Transit
+1248,Kitchen,Storage,Affordable,True,Digital Wallet,1836.33,146.55,90.67,2073.55,4,2.9,Prepaid,518.39,Delivered
+1076,Kitchen,Storage,Affordable,True,Bank Transfer,846.98,0.0,86.34,933.32,11,4.6,Prepaid,84.85,Failed Delivery
+1635,Office,Work,Affordable,False,Card,1396.36,89.35,0.0,1485.7099999999998,10,1.3,Prepaid,148.57,In Transit
+1258,Outdoor,Seating,Affordable,False,Digital Wallet,301.57,52.02,0.0,353.59,6,3.1,Prepaid,58.93,Pending
+302,Kitchen,Storage,Mid Range,True,Cash,1514.52,101.97,166.88,1783.37,3,3.1,Postpaid,594.46,Rescheduled
+1803,Living Room,Storage,Mid Range,False,Digital Wallet,1347.48,88.88,0.0,1436.36,11,2.5,Prepaid,130.58,Rescheduled
+1270,Office,Work,Mid Range,True,Bank Transfer,502.41,0.0,114.18,616.59,8,4.5,Prepaid,77.07,Pending
+1877,Office,Storage,Affordable,True,Digital Wallet,631.68,0.0,168.43,800.1099999999999,4,4.6,Prepaid,200.03,In Transit
+1482,Kitchen,Storage,Mid Range,True,Digital Wallet,904.78,146.35,224.23,1275.36,9,3.2,Prepaid,141.71,Rescheduled
+1052,Outdoor,Patio furniture,Affordable,True,Cash,1084.21,61.63,86.48,1232.3200000000002,3,3.5,Postpaid,410.77,In Transit
+1542,Living Room,Storage,Affordable,False,Card,1030.58,77.55,0.0,1108.13,4,1.7,Prepaid,277.03,In Transit
+777,Office,Work,Other,True,Card,970.11,136.84,32.33,1139.28,7,3.1,Prepaid,162.75,Delivered
+1552,Bedroom,Storage,Mid Range,False,Cash,2113.32,109.1,0.0,2222.42,10,1.5,Postpaid,222.24,Failed Delivery
+244,Living Room,Table,Premium,False,Card,2414.38,141.88,0.0,2556.26,14,3.8,Prepaid,182.59,In Transit
+103,Outdoor,Patio furniture,Premium,False,Digital Wallet,647.69,53.12,0.0,700.8100000000001,14,3.7,Prepaid,50.06,Cancelled
+276,Office,Storage,Mid Range,False,Bank Transfer,1054.53,58.4,0.0,1112.93,14,3.1,Prepaid,79.5,In Transit
+393,Bedroom,Storage,Mid Range,True,Bank Transfer,489.39,42.23,30.36,561.98,7,4.2,Prepaid,80.28,Cancelled
+110,Bedroom,Sleeping,Premium,True,Digital Wallet,1764.02,64.19,43.65,1871.86,4,2.8,Prepaid,467.96,Delivered
+588,Living Room,Table,Mid Range,True,Bank Transfer,2073.52,0.0,65.37,2138.89,4,3.1,Prepaid,534.72,Failed Delivery
+159,Living Room,Table,Affordable,False,Digital Wallet,337.8,57.97,0.0,395.77,8,3.4,Prepaid,49.47,Cancelled
+970,Dining Room,Storage,Affordable,False,Card,1275.43,139.18,0.0,1414.61,5,1.1,Prepaid,282.92,Delivered
+747,Bedroom,Sleeping,Affordable,False,Digital Wallet,1322.14,62.12,0.0,1384.26,2,3.0,Prepaid,692.13,Failed Delivery
+1828,Bedroom,Sleeping,Affordable,False,Bank Transfer,2495.87,112.8,0.0,2608.67,12,4.0,Prepaid,217.39,Failed Delivery
+1420,Office,Work,Mid Range,True,Bank Transfer,800.14,54.41,41.55,896.0999999999999,4,3.5,Prepaid,224.02,Delivered
+1136,Kitchen,Storage,Affordable,True,Digital Wallet,1351.55,144.49,34.5,1530.54,7,4.4,Prepaid,218.65,Delivered
+660,Office,Work,Affordable,False,Digital Wallet,808.97,143.53,0.0,952.5,4,3.1,Prepaid,238.12,Rescheduled
+1833,Office,Work,Mid Range,False,Digital Wallet,1379.32,0.0,0.0,1379.32,9,2.6,Prepaid,153.26,In Transit
+339,Office,Storage,Premium,True,Cash,422.07,97.76,77.52,597.35,7,1.9,Postpaid,85.34,Failed Delivery
+329,Office,Work,Mid Range,True,Bank Transfer,806.45,78.27,179.8,1064.52,4,4.3,Prepaid,266.13,Delivered
+1286,Kitchen,Table,Mid Range,False,Digital Wallet,1229.94,138.06,0.0,1368.0,1,4.9,Prepaid,1368.0,Failed Delivery
+133,Living Room,Storage,Affordable,False,Card,392.91,37.02,0.0,429.93,9,3.1,Prepaid,47.77,Pending
+637,Bedroom,Storage,Affordable,True,Digital Wallet,483.0,28.31,280.75,792.06,14,2.4,Prepaid,56.58,Delivered
+1323,Office,Work,Affordable,False,Digital Wallet,496.28,89.39,0.0,585.67,14,1.9,Prepaid,41.83,In Transit
+167,Office,Work,Mid Range,False,Card,137.16,27.92,0.0,165.07999999999998,13,2.8,Prepaid,12.7,Rescheduled
+1775,Bedroom,Sleeping,Premium,False,Digital Wallet,160.97,72.39,0.0,233.36,13,2.0,Prepaid,17.95,In Transit
+927,Bedroom,Sleeping,Premium,False,Digital Wallet,2647.16,74.06,0.0,2721.22,3,2.9,Prepaid,907.07,Failed Delivery
+860,Outdoor,Table,Premium,True,Digital Wallet,378.07,95.8,212.8,686.6700000000001,8,3.0,Prepaid,85.83,In Transit
+1178,Kitchen,Storage,Affordable,True,Card,442.25,99.68,233.85,775.7800000000001,1,2.9,Prepaid,775.78,In Transit
+1020,Office,Work,Premium,True,Cash,1188.22,85.27,37.97,1311.46,6,4.9,Postpaid,218.58,Failed Delivery
+1886,Living Room,Storage,Affordable,True,Card,1730.78,61.44,36.62,1828.84,3,2.1,Prepaid,609.61,Pending
+24,Kitchen,Table,Mid Range,False,Digital Wallet,1662.64,108.37,0.0,1771.0100000000002,5,3.9,Prepaid,354.2,Delivered
+806,Kitchen,Storage,Mid Range,False,Cash,1829.22,148.6,0.0,1977.82,10,1.8,Postpaid,197.78,Cancelled
+1794,Bedroom,Sleeping,Mid Range,True,Bank Transfer,1735.4,105.55,148.25,1989.2,11,3.2,Prepaid,180.84,Rescheduled
+443,Living Room,Table,Premium,True,Card,361.89,47.79,27.53,437.21,4,1.8,Prepaid,109.3,Cancelled
+150,Dining Room,Storage,Mid Range,False,Card,507.68,119.4,0.0,627.08,4,3.1,Prepaid,156.77,Failed Delivery
+1663,Living Room,Seating,Mid Range,True,Card,517.63,97.68,29.44,644.75,4,3.1,Prepaid,161.19,In Transit
+94,Dining Room,Seating,Mid Range,True,Bank Transfer,1210.66,144.03,73.57,1428.26,10,3.2,Prepaid,142.83,In Transit
+1718,Living Room,Storage,Premium,False,Digital Wallet,2136.98,98.63,0.0,2235.61,5,3.3,Prepaid,447.12,Delivered
+217,Living Room,Seating,Premium,False,Digital Wallet,211.95,48.12,0.0,260.07,13,1.5,Prepaid,20.01,Failed Delivery
+381,Bedroom,Sleeping,Mid Range,True,Digital Wallet,1182.34,61.83,271.68,1515.85,12,3.1,Prepaid,126.32,Failed Delivery
+1047,Dining Room,Table,Premium,False,Cash,1945.17,136.32,0.0,2081.49,10,3.0,Postpaid,208.15,Cancelled
+780,Outdoor,Table,Affordable,False,Card,1799.08,144.1,0.0,1943.18,7,4.9,Prepaid,277.6,Pending
+900,Living Room,Table,Mid Range,False,Card,1526.95,126.22,0.0,1653.17,14,4.8,Prepaid,118.08,Pending
+1820,Kitchen,Storage,Affordable,False,Cash,1759.86,0.0,0.0,1759.86,3,2.6,Postpaid,586.62,Rescheduled
+864,Kitchen,Table,Mid Range,True,Card,1349.02,65.82,114.13,1528.9699999999998,4,3.1,Prepaid,382.24,Failed Delivery
+292,Office,Work,Affordable,True,Card,1256.91,107.81,72.56,1437.28,13,2.2,Prepaid,110.56,Delivered
+712,Dining Room,Table,Mid Range,False,Bank Transfer,1587.03,0.0,0.0,1587.03,1,3.5,Prepaid,1587.03,Pending
+1197,Living Room,Seating,Affordable,True,Digital Wallet,2320.8,0.0,100.47,2421.27,4,4.7,Prepaid,605.32,In Transit
+100,Kitchen,Table,Premium,True,Bank Transfer,1590.04,73.3,31.93,1695.27,3,3.2,Prepaid,565.09,Pending
+1049,Office,Work,Other,True,Digital Wallet,526.22,77.75,33.32,637.2900000000001,11,2.3,Prepaid,57.94,In Transit
+1684,Kitchen,Storage,Affordable,False,Cash,2335.64,141.71,0.0,2477.35,9,3.1,Postpaid,275.26,In Transit
+783,Office,Work,Mid Range,True,Digital Wallet,941.6,111.26,102.74,1195.65,8,4.4,Prepaid,149.46,Cancelled
+1534,Kitchen,Storage,Affordable,True,Card,911.45,0.0,257.83,1169.28,2,4.4,Prepaid,584.64,Failed Delivery
+489,Office,Work,Premium,True,Bank Transfer,954.71,0.0,66.53,1021.24,6,2.9,Prepaid,170.21,Pending
+1271,Outdoor,Patio furniture,Premium,True,Digital Wallet,1602.48,67.46,43.12,1713.06,8,3.3,Prepaid,214.13,Delivered
+700,Outdoor,Table,Affordable,True,Card,713.69,109.95,82.32,905.96,1,1.0,Prepaid,905.96,Cancelled
+1378,Outdoor,Seating,Premium,False,Card,1298.25,149.93,0.0,1448.18,6,4.9,Prepaid,241.36,Delivered
+1554,Living Room,Seating,Affordable,True,Cash,1259.71,134.43,35.27,1429.41,14,3.7,Postpaid,102.1,Cancelled
+750,Outdoor,Seating,Affordable,True,Digital Wallet,381.42,86.53,91.92,559.87,10,3.1,Prepaid,55.99,Pending
+962,Outdoor,Seating,Affordable,False,Digital Wallet,323.96,91.06,0.0,415.02,13,4.7,Prepaid,31.92,Rescheduled
+1550,Living Room,Table,Mid Range,False,Digital Wallet,1265.47,62.03,0.0,1327.5,7,4.0,Prepaid,189.64,Failed Delivery
+1012,Office,Work,Affordable,True,Digital Wallet,1121.66,0.0,48.77,1170.43,14,1.9,Prepaid,83.6,Pending
+242,Living Room,Table,Mid Range,False,Digital Wallet,682.72,118.91,0.0,801.63,3,4.1,Prepaid,267.21,Pending
+168,Dining Room,Storage,Premium,False,Bank Transfer,705.21,111.65,0.0,816.86,10,4.3,Prepaid,81.69,Failed Delivery
+73,Office,Work,Affordable,True,Card,747.41,82.11,66.49,896.01,12,3.7,Prepaid,74.67,Rescheduled
+559,Outdoor,Patio furniture,Affordable,False,Bank Transfer,1569.63,0.0,0.0,1569.63,9,3.1,Prepaid,174.4,Delivered
+1676,Outdoor,Table,Affordable,True,Bank Transfer,1702.38,82.06,41.98,1826.42,14,4.5,Prepaid,130.46,Rescheduled
+1902,Office,Work,Premium,True,Card,521.56,102.79,74.83,699.18,2,3.6,Prepaid,349.59,Failed Delivery
+1613,Dining Room,Storage,Affordable,False,Card,367.57,65.07,0.0,432.64,3,2.8,Prepaid,144.21,Rescheduled
+118,Outdoor,Patio furniture,Premium,False,Card,1025.5,0.0,0.0,1025.5,6,4.3,Prepaid,170.92,In Transit
+1138,Bedroom,Sleeping,Mid Range,True,Cash,655.47,0.0,84.75,740.22,13,3.1,Postpaid,56.94,In Transit
+520,Outdoor,Seating,Premium,False,Card,1103.93,115.63,0.0,1219.56,13,1.1,Prepaid,93.81,Pending
+713,Living Room,Seating,Mid Range,False,Digital Wallet,320.07,88.74,0.0,408.81,2,2.6,Prepaid,204.4,Cancelled
+992,Outdoor,Seating,Mid Range,False,Digital Wallet,267.8,56.99,0.0,324.79,3,3.1,Prepaid,108.26,Delivered
+5,Dining Room,Storage,Premium,True,Bank Transfer,1307.8,73.44,170.18,1565.0,11,3.4,Prepaid,142.27,Rescheduled
+254,Dining Room,Seating,Other,False,Card,1293.35,0.0,0.0,1293.35,10,4.4,Prepaid,129.33,Pending
+1168,Kitchen,Storage,Mid Range,True,Cash,1929.55,128.1,278.5,2336.15,6,3.2,Postpaid,389.36,Delivered
+1093,Outdoor,Seating,Premium,True,Card,439.1,95.29,113.27,647.66,2,1.8,Prepaid,323.83,Failed Delivery
+1038,Dining Room,Storage,Mid Range,False,Digital Wallet,1210.49,112.45,0.0,1322.94,5,3.6,Prepaid,264.59,Pending
+1384,Living Room,Seating,Affordable,True,Digital Wallet,702.36,66.94,150.79,920.09,9,3.3,Prepaid,102.23,In Transit
+383,Bedroom,Sleeping,Affordable,False,Bank Transfer,624.07,101.66,0.0,725.73,10,3.6,Prepaid,72.57,Cancelled
+1393,Office,Work,Premium,False,Card,104.35,42.58,0.0,146.93,7,4.8,Prepaid,20.99,Cancelled
+1102,Dining Room,Seating,Affordable,False,Card,1210.05,0.0,0.0,1210.05,8,1.7,Prepaid,151.26,Cancelled
+516,Outdoor,Seating,Affordable,False,Card,1325.01,0.0,0.0,1325.01,1,3.3,Prepaid,1325.01,Delivered
+54,Office,Work,Mid Range,True,Cash,187.91,76.8,42.43,307.14,5,3.4,Postpaid,61.43,Rescheduled
+467,Living Room,Seating,Affordable,True,Bank Transfer,1425.81,68.41,44.14,1538.36,7,2.2,Prepaid,219.77,Cancelled
+266,Dining Room,Table,Affordable,True,Card,1053.88,67.93,160.34,1282.15,8,4.1,Prepaid,160.27,Delivered
+1033,Outdoor,Patio furniture,Affordable,False,Bank Transfer,953.87,104.71,0.0,1058.58,1,2.7,Prepaid,1058.58,Cancelled
+583,Dining Room,Seating,Mid Range,False,Card,200.49,52.09,0.0,252.58,1,3.1,Prepaid,252.58,Rescheduled
+766,Bedroom,Sleeping,Affordable,True,Digital Wallet,1407.92,123.49,152.97,1684.38,7,1.3,Prepaid,240.63,Rescheduled
+537,Bedroom,Sleeping,Affordable,False,Digital Wallet,1730.26,116.07,0.0,1846.33,12,1.4,Prepaid,153.86,Delivered
+1827,Kitchen,Table,Affordable,False,Digital Wallet,2133.47,107.71,0.0,2241.18,6,3.1,Prepaid,373.53,Failed Delivery
+59,Kitchen,Table,Mid Range,False,Digital Wallet,488.35,79.01,0.0,567.36,9,3.8,Prepaid,63.04,Cancelled
+1496,Living Room,Seating,Affordable,False,Digital Wallet,1985.57,0.0,0.0,1985.57,10,5.0,Prepaid,198.56,Rescheduled
+166,Living Room,Table,Mid Range,False,Digital Wallet,2442.69,129.49,0.0,2572.1800000000003,9,4.0,Prepaid,285.8,Rescheduled
+1671,Dining Room,Table,Affordable,True,Digital Wallet,1278.17,65.08,96.94,1440.19,7,3.0,Prepaid,205.74,Failed Delivery
+815,Bedroom,Storage,Premium,True,Digital Wallet,510.15,123.54,170.75,804.4399999999999,4,2.7,Prepaid,201.11,In Transit
+331,Kitchen,Storage,Affordable,True,Digital Wallet,628.12,0.0,47.62,675.74,11,5.0,Prepaid,61.43,Delivered
+247,Living Room,Table,Other,False,Card,414.23,97.91,0.0,512.14,14,3.1,Prepaid,36.58,Failed Delivery
+373,Kitchen,Table,Mid Range,True,Cash,2151.94,64.0,173.35,2389.29,11,3.1,Postpaid,217.21,Pending
+1645,Dining Room,Seating,Affordable,False,Digital Wallet,1881.61,92.84,0.0,1974.45,2,3.1,Prepaid,987.22,Cancelled
+499,Bedroom,Sleeping,Premium,False,Card,353.04,70.99,0.0,424.03,9,1.5,Prepaid,47.11,Cancelled
+1536,Bedroom,Storage,Premium,True,Cash,2174.45,0.0,28.12,2202.57,10,4.6,Postpaid,220.26,Rescheduled
+1499,Dining Room,Storage,Premium,False,Digital Wallet,1062.23,94.98,0.0,1157.21,5,1.7,Prepaid,231.44,Cancelled
+636,Kitchen,Table,Affordable,False,Digital Wallet,872.64,143.03,0.0,1015.67,3,3.1,Prepaid,338.56,Rescheduled
+616,Kitchen,Storage,Affordable,False,Digital Wallet,1228.44,70.2,0.0,1298.64,3,3.1,Prepaid,432.88,Cancelled
+1740,Dining Room,Seating,Affordable,True,Digital Wallet,1698.8,0.0,194.72,1893.52,3,3.2,Prepaid,631.17,Failed Delivery
+1331,Dining Room,Table,Affordable,False,Digital Wallet,1248.35,87.59,0.0,1335.9399999999998,1,1.8,Prepaid,1335.94,In Transit
+1492,Living Room,Table,Premium,True,Digital Wallet,2255.89,57.45,239.85,2553.19,3,3.1,Prepaid,851.06,Cancelled
+566,Outdoor,Patio furniture,Premium,True,Bank Transfer,631.0,0.0,141.17,772.17,6,4.1,Prepaid,128.7,Rescheduled
+234,Dining Room,Seating,Affordable,False,Digital Wallet,969.35,0.0,0.0,969.35,9,2.3,Prepaid,107.71,Rescheduled
+626,Kitchen,Storage,Mid Range,True,Digital Wallet,1297.18,0.0,81.51,1378.69,13,1.0,Prepaid,106.05,Cancelled
+1214,Outdoor,Seating,Affordable,False,Bank Transfer,1087.84,122.93,0.0,1210.77,8,4.1,Prepaid,151.35,Delivered
+430,Dining Room,Storage,Mid Range,True,Bank Transfer,1673.68,0.0,265.68,1939.36,8,5.0,Prepaid,242.42,Failed Delivery
+1010,Living Room,Storage,Premium,True,Card,560.47,95.35,189.23,845.0500000000001,1,4.7,Prepaid,845.05,Delivered
+1729,Outdoor,Seating,Affordable,False,Digital Wallet,1780.74,103.32,0.0,1884.06,2,1.4,Prepaid,942.03,Rescheduled
+191,Outdoor,Patio furniture,Mid Range,True,Cash,369.43,89.52,99.64,558.59,7,3.9,Postpaid,79.8,Pending
+1510,Office,Work,Mid Range,False,Digital Wallet,618.05,144.21,0.0,762.26,3,3.0,Prepaid,254.09,Cancelled
+1175,Outdoor,Table,Affordable,False,Digital Wallet,1475.65,0.0,0.0,1475.65,6,4.7,Prepaid,245.94,Rescheduled
+435,Dining Room,Seating,Premium,True,Card,1432.52,62.58,198.17,1693.27,13,2.4,Prepaid,130.25,Cancelled
+836,Dining Room,Seating,Mid Range,True,Digital Wallet,678.28,0.0,66.56,744.8399999999999,12,4.0,Prepaid,62.07,Rescheduled
+1819,Living Room,Seating,Affordable,True,Digital Wallet,1424.21,97.97,91.63,1613.81,11,1.7,Prepaid,146.71,Pending
+1280,Outdoor,Table,Other,False,Digital Wallet,957.15,133.65,0.0,1090.8,9,3.1,Prepaid,121.2,In Transit
+1699,Bedroom,Sleeping,Mid Range,True,Card,1973.82,94.27,50.07,2118.1600000000003,6,3.8,Prepaid,353.03,Delivered
+1186,Living Room,Table,Mid Range,True,Digital Wallet,1058.24,0.0,33.17,1091.41,5,3.1,Prepaid,218.28,Rescheduled
+1016,Bedroom,Sleeping,Premium,False,Digital Wallet,2875.5,84.76,0.0,2960.26,12,3.1,Prepaid,246.69,Failed Delivery
+184,Outdoor,Patio furniture,Premium,True,Cash,168.87,74.03,41.69,284.59000000000003,8,2.6,Postpaid,35.57,Cancelled
+687,Living Room,Seating,Premium,False,Digital Wallet,1728.36,73.28,0.0,1801.64,6,4.8,Prepaid,300.27,Cancelled
+638,Kitchen,Storage,Mid Range,False,Cash,1437.34,66.5,0.0,1503.84,13,3.2,Postpaid,115.68,Cancelled
+569,Bedroom,Sleeping,Mid Range,True,Digital Wallet,267.28,48.75,189.06,505.09,3,3.8,Prepaid,168.36,Delivered
+933,Kitchen,Storage,Premium,True,Bank Transfer,1926.0,118.79,168.14,2212.93,3,4.6,Prepaid,737.64,Pending
+1407,Bedroom,Sleeping,Premium,True,Card,485.95,93.42,162.71,742.08,13,3.7,Prepaid,57.08,Cancelled
+1169,Dining Room,Table,Affordable,False,Digital Wallet,1836.93,0.0,0.0,1836.93,6,3.6,Prepaid,306.16,In Transit
+1739,Kitchen,Table,Affordable,False,Card,636.58,58.97,0.0,695.5500000000001,8,1.3,Prepaid,86.94,In Transit
+1242,Outdoor,Seating,Premium,True,Digital Wallet,809.04,0.0,79.65,888.6899999999999,3,1.1,Prepaid,296.23,In Transit
+533,Outdoor,Patio furniture,Premium,True,Bank Transfer,1655.81,60.33,39.28,1755.4199999999998,5,1.1,Prepaid,351.08,In Transit
+1239,Outdoor,Table,Affordable,False,Card,893.8,98.04,0.0,991.84,5,2.3,Prepaid,198.37,In Transit
+1414,Dining Room,Seating,Mid Range,True,Bank Transfer,730.94,0.0,35.69,766.6300000000001,14,1.6,Prepaid,54.76,Cancelled
+1931,Kitchen,Table,Premium,True,Cash,688.0,73.44,100.6,916.62,13,3.1,Postpaid,70.51,Rescheduled
+1571,Living Room,Seating,Mid Range,True,Cash,931.13,0.0,127.36,1058.49,13,2.6,Postpaid,81.42,Failed Delivery
+742,Bedroom,Storage,Premium,True,Digital Wallet,1342.48,88.9,93.52,1524.9,5,3.8,Prepaid,304.98,In Transit
+196,Outdoor,Seating,Other,False,Digital Wallet,1067.15,0.0,0.0,1067.15,11,4.1,Prepaid,97.01,Cancelled
+1926,Living Room,Table,Affordable,True,Card,2243.93,0.0,150.33,2394.26,6,3.7,Prepaid,399.04,Pending
+495,Dining Room,Seating,Mid Range,True,Digital Wallet,1562.01,0.0,86.23,1648.24,8,4.5,Prepaid,206.03,Pending
+591,Kitchen,Table,Premium,False,Digital Wallet,706.52,59.08,0.0,765.6,10,1.6,Prepaid,76.56,Cancelled
+936,Dining Room,Seating,Affordable,True,Digital Wallet,1098.01,0.0,27.5,1125.51,13,2.8,Prepaid,86.58,Delivered
+1041,Kitchen,Table,Affordable,True,Digital Wallet,615.33,50.02,28.42,693.77,13,3.7,Prepaid,53.37,Delivered
+979,Outdoor,Seating,Affordable,True,Card,1019.29,0.0,33.67,1052.96,7,3.5,Prepaid,150.42,Pending
+380,Office,Work,Affordable,False,Card,89.37,91.15,0.0,180.52,3,3.1,Prepaid,60.17,In Transit
+27,Outdoor,Patio furniture,Affordable,True,Card,643.97,143.89,111.54,899.4,2,1.6,Prepaid,449.7,Rescheduled
+1301,Kitchen,Storage,Other,True,Digital Wallet,1393.69,0.0,159.95,1553.64,2,4.1,Prepaid,776.82,Pending
+395,Dining Room,Table,Mid Range,False,Cash,1257.15,143.07,0.0,1400.22,10,2.1,Postpaid,140.02,Pending
+1252,Kitchen,Table,Affordable,True,Digital Wallet,950.36,0.0,124.82,1075.18,7,4.3,Prepaid,153.6,Delivered
+320,Dining Room,Storage,Premium,True,Cash,202.72,89.07,67.13,358.92,10,4.9,Postpaid,35.89,Delivered
+147,Outdoor,Seating,Mid Range,True,Cash,749.46,117.94,92.43,959.8300000000002,11,1.1,Postpaid,87.26,In Transit
+797,Kitchen,Table,Mid Range,False,Digital Wallet,1792.3,64.76,0.0,1857.06,11,4.7,Prepaid,168.82,Delivered
+623,Kitchen,Table,Mid Range,False,Card,2186.82,140.98,0.0,2327.8,5,4.7,Prepaid,465.56,Delivered
+238,Office,Work,Premium,False,Card,357.08,53.8,0.0,410.88,7,2.7,Prepaid,58.7,Failed Delivery
+1009,Outdoor,Patio furniture,Affordable,True,Bank Transfer,883.27,76.31,173.16,1132.74,2,4.2,Prepaid,566.37,In Transit
+1518,Living Room,Table,Premium,True,Digital Wallet,1327.75,82.69,57.46,1467.9,13,4.9,Prepaid,112.92,Delivered
+910,Living Room,Seating,Affordable,True,Card,2024.25,66.57,215.02,2305.84,8,4.0,Prepaid,288.23,Rescheduled
+895,Living Room,Table,Affordable,False,Card,2169.59,85.06,0.0,2254.65,7,3.6,Prepaid,322.09,Failed Delivery
+1473,Kitchen,Table,Affordable,False,Digital Wallet,1495.73,90.84,0.0,1586.57,4,2.8,Prepaid,396.64,Pending
+1696,Living Room,Seating,Other,True,Card,892.59,119.23,88.15,1099.97,9,3.8,Prepaid,122.22,In Transit
+1361,Kitchen,Storage,Premium,True,Digital Wallet,1041.8,0.0,57.39,1099.19,11,3.9,Prepaid,99.93,Delivered
+106,Living Room,Storage,Affordable,True,Bank Transfer,1181.56,87.43,160.07,1429.06,14,3.1,Prepaid,102.08,Pending
+350,Kitchen,Storage,Other,True,Bank Transfer,2230.45,51.28,34.52,2316.25,1,1.8,Prepaid,2316.25,Delivered
+1547,Living Room,Seating,Mid Range,True,Digital Wallet,1922.75,0.0,45.51,1968.26,10,4.4,Prepaid,196.83,Cancelled
+650,Living Room,Seating,Mid Range,False,Digital Wallet,890.9,118.43,0.0,1009.33,14,2.7,Prepaid,72.1,Pending
+389,Outdoor,Patio furniture,Affordable,False,Digital Wallet,311.23,35.04,0.0,346.27000000000004,13,4.4,Prepaid,26.64,Rescheduled
+1004,Office,Work,Premium,True,Digital Wallet,802.31,144.48,64.87,1011.66,6,3.1,Prepaid,168.61,Rescheduled
+1472,Dining Room,Storage,Premium,False,Card,1590.35,93.79,0.0,1684.14,14,4.5,Prepaid,120.3,In Transit
+1117,Office,Work,Affordable,False,Cash,1162.36,146.87,0.0,1309.23,11,4.9,Postpaid,119.02,Pending
+1283,Living Room,Table,Premium,True,Digital Wallet,254.06,27.33,59.29,340.68,13,1.3,Prepaid,26.21,Pending
+554,Kitchen,Table,Mid Range,True,Digital Wallet,2037.0,111.15,54.32,2202.4700000000003,14,4.4,Prepaid,157.32,Rescheduled
+1825,Bedroom,Storage,Mid Range,False,Card,770.27,73.44,0.0,770.27,13,3.1,Prepaid,59.25,Rescheduled
+170,Outdoor,Patio furniture,Affordable,True,Cash,1134.9,0.0,39.59,1174.49,3,3.9,Postpaid,391.5,In Transit
+1278,Dining Room,Storage,Mid Range,False,Cash,1844.77,64.51,0.0,1909.28,9,4.0,Postpaid,212.14,In Transit
+1591,Dining Room,Seating,Affordable,True,Card,334.47,66.81,187.86,589.1400000000001,6,4.9,Prepaid,98.19,Pending
+1276,Dining Room,Storage,Mid Range,False,Bank Transfer,430.53,55.13,0.0,485.66,6,1.6,Prepaid,80.94,Failed Delivery
+306,Office,Work,Affordable,False,Digital Wallet,1460.95,0.0,0.0,1460.95,12,4.3,Prepaid,121.75,Cancelled
+415,Office,Work,Affordable,True,Card,486.86,72.38,82.03,641.27,6,3.4,Prepaid,106.88,Pending
+1891,Bedroom,Sleeping,Affordable,True,Digital Wallet,1192.96,129.85,149.18,1471.99,3,2.4,Prepaid,490.66,Pending
+1647,Living Room,Storage,Mid Range,False,Digital Wallet,1092.22,0.0,0.0,1092.22,8,3.3,Prepaid,136.53,Pending
+428,Bedroom,Sleeping,Premium,False,Cash,579.45,84.19,0.0,663.6400000000001,13,5.0,Postpaid,51.05,Cancelled
+186,Outdoor,Patio furniture,Premium,True,Bank Transfer,1656.11,130.2,84.02,1870.33,10,1.3,Prepaid,187.03,Rescheduled
+1005,Kitchen,Storage,Affordable,True,Digital Wallet,927.57,125.73,45.35,1098.65,12,3.9,Prepaid,91.55,Rescheduled
+908,Dining Room,Seating,Affordable,False,Digital Wallet,517.55,143.98,0.0,661.53,5,4.8,Prepaid,132.31,Cancelled
+269,Outdoor,Seating,Affordable,True,Card,1550.86,60.39,223.8,1835.05,1,1.6,Prepaid,1835.05,Pending
+867,Dining Room,Storage,Affordable,True,Digital Wallet,1053.56,92.37,197.31,1343.2399999999998,9,4.8,Prepaid,149.25,In Transit
+630,Office,Work,Affordable,False,Digital Wallet,449.42,31.68,0.0,481.1,3,1.5,Prepaid,160.37,Rescheduled
+950,Office,Work,Mid Range,True,Cash,737.19,101.8,26.37,865.36,14,1.4,Postpaid,61.81,Pending
+162,Outdoor,Table,Mid Range,False,Digital Wallet,463.23,36.95,0.0,500.18,8,3.0,Prepaid,62.52,Failed Delivery
+413,Dining Room,Seating,Mid Range,True,Bank Transfer,1164.67,75.77,168.19,1408.63,14,3.4,Prepaid,100.62,Rescheduled
+1705,Outdoor,Seating,Mid Range,False,Card,444.75,96.88,0.0,541.63,1,4.3,Prepaid,541.63,Delivered
+95,Living Room,Table,Affordable,False,Digital Wallet,2094.87,80.22,0.0,2175.09,2,3.1,Prepaid,1087.54,Delivered
+98,Office,Work,Affordable,False,Digital Wallet,1294.74,0.0,0.0,1294.74,9,3.6,Prepaid,143.86,Failed Delivery
+1030,Office,Storage,Affordable,True,Cash,664.84,133.43,168.9,967.17,10,1.0,Postpaid,96.72,In Transit
+876,Dining Room,Storage,Affordable,False,Card,1748.31,139.51,0.0,1887.82,2,1.7,Prepaid,943.91,In Transit
+817,Living Room,Storage,Affordable,True,Digital Wallet,1134.98,59.01,43.25,1237.24,2,1.2,Prepaid,618.62,Delivered
+822,Office,Storage,Mid Range,False,Cash,455.95,25.17,0.0,481.12,4,4.7,Postpaid,120.28,Rescheduled
+207,Living Room,Seating,Affordable,False,Digital Wallet,1424.09,51.67,0.0,1475.76,9,1.1,Prepaid,163.97,Cancelled
+974,Living Room,Table,Affordable,True,Digital Wallet,1428.63,118.19,157.82,1704.64,13,1.5,Prepaid,131.13,Failed Delivery
+686,Office,Storage,Premium,True,Digital Wallet,1189.52,122.0,75.24,1386.76,8,3.7,Prepaid,173.34,Cancelled
+872,Office,Storage,Premium,False,Digital Wallet,1462.87,59.74,0.0,1522.61,12,3.0,Prepaid,126.88,Pending
+245,Outdoor,Table,Affordable,False,Digital Wallet,1516.99,117.62,0.0,1634.61,3,2.1,Prepaid,544.87,Failed Delivery
+229,Bedroom,Sleeping,Affordable,True,Card,1216.24,117.96,199.77,1533.97,8,3.1,Prepaid,191.75,Pending
+1288,Kitchen,Storage,Premium,True,Digital Wallet,776.42,51.03,48.39,875.8399999999999,8,3.1,Prepaid,109.48,Failed Delivery
+906,Bedroom,Storage,Premium,False,Card,1766.79,53.15,0.0,1819.94,6,3.5,Prepaid,303.32,Pending
+1392,Kitchen,Storage,Premium,False,Card,1065.25,94.93,0.0,1160.18,14,2.6,Prepaid,82.87,Failed Delivery
+8,Dining Room,Seating,Premium,False,Digital Wallet,568.59,76.27,0.0,644.86,10,1.9,Prepaid,64.49,Rescheduled
+896,Dining Room,Seating,Affordable,False,Card,1064.37,0.0,0.0,1064.37,5,4.2,Prepaid,212.87,Cancelled
+1799,Outdoor,Patio furniture,Affordable,True,Card,1025.85,0.0,27.82,1053.6699999999998,13,2.5,Prepaid,81.05,Pending
+1782,Office,Work,Premium,False,Card,627.61,92.25,0.0,719.86,14,1.0,Prepaid,51.42,Rescheduled
+1835,Outdoor,Table,Mid Range,False,Digital Wallet,893.1,0.0,0.0,893.1,14,2.5,Prepaid,63.79,Failed Delivery
+865,Bedroom,Sleeping,Mid Range,False,Card,2269.14,119.86,0.0,2389.0,8,2.3,Prepaid,298.62,Cancelled
+1427,Dining Room,Storage,Affordable,False,Digital Wallet,665.41,0.0,0.0,665.41,13,2.5,Prepaid,51.19,Rescheduled
+1654,Kitchen,Storage,Mid Range,True,Digital Wallet,1422.96,0.0,27.21,1450.17,7,4.2,Prepaid,207.17,Pending
+791,Bedroom,Sleeping,Affordable,False,Digital Wallet,2087.95,0.0,0.0,2087.95,3,4.4,Prepaid,695.98,Pending
+1022,Living Room,Seating,Mid Range,False,Cash,435.8,54.85,0.0,490.65,1,2.2,Postpaid,490.65,Cancelled
+189,Office,Storage,Mid Range,True,Card,1239.36,107.83,201.68,1548.87,2,1.2,Prepaid,774.44,Failed Delivery
+1356,Dining Room,Seating,Affordable,True,Digital Wallet,1200.61,93.53,193.74,1487.88,4,3.6,Prepaid,371.97,In Transit
+1327,Bedroom,Sleeping,Premium,False,Bank Transfer,1486.84,74.19,0.0,1561.03,10,2.8,Prepaid,156.1,In Transit
+260,Office,Work,Mid Range,True,Digital Wallet,980.7,118.11,169.87,1268.6799999999998,12,2.0,Prepaid,105.72,Pending
+144,Outdoor,Seating,Premium,False,Cash,1626.15,147.37,0.0,1773.52,12,4.7,Postpaid,147.79,Delivered
+828,Outdoor,Seating,Mid Range,False,Card,686.06,138.18,0.0,824.24,3,3.1,Prepaid,274.75,Pending
+698,Outdoor,Seating,Premium,True,Digital Wallet,1115.51,54.55,108.97,1279.03,12,3.1,Prepaid,106.59,Cancelled
+1307,Bedroom,Sleeping,Affordable,False,Digital Wallet,1854.67,83.74,0.0,1938.41,6,2.9,Prepaid,323.07,Rescheduled
+919,Office,Work,Affordable,True,Bank Transfer,1277.17,60.27,45.64,1383.0800000000002,3,3.1,Prepaid,461.03,Cancelled
+1851,Kitchen,Table,Mid Range,True,Card,651.03,128.08,40.53,819.64,12,1.4,Prepaid,68.3,In Transit
+937,Dining Room,Storage,Mid Range,False,Digital Wallet,581.72,132.77,0.0,714.49,12,3.1,Prepaid,59.54,Rescheduled
+1035,Kitchen,Storage,Premium,False,Digital Wallet,1338.64,0.0,0.0,1338.64,12,4.4,Prepaid,111.55,In Transit
+1750,Office,Work,Mid Range,False,Card,1156.71,0.0,0.0,1156.71,9,1.6,Prepaid,128.52,Failed Delivery
+890,Bedroom,Storage,Mid Range,True,Digital Wallet,747.82,0.0,181.38,929.2,1,2.2,Prepaid,929.2,Cancelled
+594,Kitchen,Table,Affordable,False,Digital Wallet,1196.67,81.43,0.0,1278.1,2,3.0,Prepaid,639.05,Cancelled
+531,Outdoor,Table,Premium,True,Card,574.61,77.73,208.29,860.63,1,4.3,Prepaid,860.63,Failed Delivery
+894,Kitchen,Table,Premium,False,Digital Wallet,1693.76,130.59,0.0,1824.35,14,1.9,Prepaid,130.31,Rescheduled
+1887,Living Room,Table,Premium,True,Bank Transfer,1491.58,95.83,43.09,1630.4999999999998,12,1.8,Prepaid,135.87,Rescheduled
+1493,Kitchen,Table,Affordable,False,Card,892.09,0.0,0.0,892.09,4,1.4,Prepaid,223.02,Failed Delivery
+1151,Bedroom,Storage,Mid Range,True,Card,1025.04,148.43,69.88,1243.35,9,4.4,Prepaid,138.15,Pending
+1446,Kitchen,Storage,Mid Range,True,Card,2016.54,73.74,156.92,2247.2,4,3.5,Prepaid,561.8,Pending
+57,Outdoor,Patio furniture,Mid Range,True,Digital Wallet,592.85,133.07,188.16,914.08,4,3.3,Prepaid,228.52,Failed Delivery
+1057,Outdoor,Table,Mid Range,False,Digital Wallet,492.29,77.47,0.0,569.76,2,1.8,Prepaid,284.88,Failed Delivery
+1261,Bedroom,Storage,Affordable,False,Bank Transfer,1060.46,113.43,0.0,1173.89,1,2.2,Prepaid,1173.89,Cancelled
+1470,Living Room,Seating,Premium,True,Card,1281.92,73.44,261.14,1543.06,8,1.7,Prepaid,192.88,Pending
+282,Kitchen,Table,Mid Range,True,Cash,2442.76,0.0,153.37,2596.13,13,1.2,Postpaid,199.7,Rescheduled
+1610,Office,Work,Mid Range,True,Card,1460.87,92.21,25.33,1578.41,11,2.5,Prepaid,143.49,Cancelled
+934,Office,Work,Affordable,False,Digital Wallet,554.36,0.0,0.0,554.36,2,4.0,Prepaid,277.18,Rescheduled
+362,Living Room,Table,Affordable,False,Cash,1777.9,0.0,0.0,1777.9,1,3.1,Postpaid,1777.9,In Transit
+243,Dining Room,Storage,Premium,False,Cash,634.06,82.37,0.0,716.43,5,4.8,Postpaid,143.29,Cancelled
+1627,Bedroom,Sleeping,Mid Range,True,Card,301.73,67.71,25.82,395.26,2,3.4,Prepaid,197.63,Pending
+92,Dining Room,Seating,Premium,False,Card,588.24,98.18,0.0,686.4200000000001,12,4.2,Prepaid,57.2,Pending
+1234,Outdoor,Seating,Mid Range,True,Card,924.2,109.18,177.74,1211.12,1,3.1,Prepaid,1211.12,Delivered
+337,Dining Room,Table,Mid Range,True,Card,1438.68,126.75,151.91,1717.34,12,1.4,Prepaid,143.11,Cancelled
+1013,Kitchen,Table,Mid Range,False,Digital Wallet,1861.98,0.0,0.0,1861.98,10,3.3,Prepaid,186.2,Delivered
+1325,Living Room,Seating,Premium,True,Card,1977.52,0.0,44.48,2022.0,9,3.9,Prepaid,224.67,Rescheduled
+947,Outdoor,Seating,Premium,False,Digital Wallet,1050.62,137.59,0.0,1188.2099999999998,2,3.1,Prepaid,594.1,Cancelled
+1109,Office,Storage,Premium,True,Digital Wallet,888.45,136.11,266.61,1291.17,4,3.5,Prepaid,322.79,Pending
+190,Dining Room,Storage,Affordable,False,Card,441.96,35.16,0.0,477.12,6,2.5,Prepaid,79.52,Failed Delivery
+39,Office,Work,Premium,False,Cash,1263.89,71.02,0.0,1334.91,8,3.7,Postpaid,166.86,Failed Delivery
+1524,Dining Room,Storage,Mid Range,True,Digital Wallet,466.42,70.91,39.41,576.74,8,3.1,Prepaid,72.09,Rescheduled
+975,Bedroom,Sleeping,Affordable,False,Card,1398.17,148.25,0.0,1546.42,6,2.7,Prepaid,257.74,In Transit
+1531,Outdoor,Patio furniture,Affordable,False,Card,1478.85,0.0,0.0,1478.85,3,3.3,Prepaid,492.95,Pending
+634,Outdoor,Patio furniture,Mid Range,True,Cash,572.77,0.0,33.32,606.09,4,2.4,Postpaid,151.52,Cancelled
+764,Living Room,Table,Mid Range,True,Card,1563.05,143.18,102.74,1741.89,8,3.9,Prepaid,217.74,Failed Delivery
+1540,Bedroom,Sleeping,Mid Range,False,Cash,1621.4,101.69,0.0,1723.09,8,3.1,Postpaid,215.39,Pending
+723,Bedroom,Sleeping,Mid Range,True,Card,211.25,88.22,45.79,345.26000000000005,3,4.1,Prepaid,115.09,Delivered
+1128,Living Room,Seating,Affordable,True,Bank Transfer,2321.74,149.29,102.74,2743.69,8,4.5,Prepaid,342.96,In Transit
+63,Living Room,Table,Premium,True,Cash,881.37,80.23,104.55,1066.15,1,3.8,Postpaid,1066.15,Cancelled
+233,Bedroom,Sleeping,Other,True,Digital Wallet,1837.78,120.47,175.23,2133.48,13,3.3,Prepaid,164.11,In Transit
+676,Kitchen,Storage,Premium,False,Digital Wallet,770.22,81.23,0.0,851.45,13,1.1,Prepaid,65.5,Rescheduled
+105,Office,Work,Affordable,True,Bank Transfer,939.71,0.0,71.5,1011.21,4,4.3,Prepaid,252.8,Failed Delivery
+1365,Living Room,Table,Affordable,True,Card,1737.39,73.44,52.03,1878.9,14,2.6,Prepaid,134.21,Pending
+753,Office,Work,Mid Range,True,Card,1398.93,73.85,35.54,1508.32,1,1.8,Prepaid,1508.32,Pending
+902,Outdoor,Seating,Mid Range,True,Cash,1772.63,127.76,82.63,1983.02,4,3.1,Postpaid,495.76,Cancelled
+253,Living Room,Seating,Mid Range,True,Digital Wallet,920.71,63.71,53.42,1037.84,10,3.1,Prepaid,103.78,In Transit
+1432,Dining Room,Table,Affordable,False,Cash,650.42,149.31,0.0,799.73,4,1.9,Postpaid,199.93,In Transit
+422,Outdoor,Patio furniture,Affordable,True,Cash,660.94,103.97,196.18,961.09,7,2.2,Postpaid,137.3,Rescheduled
+774,Outdoor,Seating,Affordable,True,Digital Wallet,1391.56,136.94,181.42,1709.92,5,4.7,Prepaid,341.98,Cancelled
+1232,Office,Storage,Premium,True,Bank Transfer,1196.31,0.0,42.6,1238.91,4,4.7,Prepaid,309.73,Pending
+858,Living Room,Table,Mid Range,True,Digital Wallet,1988.9,0.0,217.0,2205.9,13,2.9,Prepaid,169.68,Pending
+1428,Bedroom,Sleeping,Affordable,True,Cash,1032.32,58.22,193.74,1284.28,11,2.4,Postpaid,116.75,Delivered
+924,Living Room,Storage,Affordable,True,Card,1962.26,85.3,84.75,2132.31,2,1.2,Prepaid,1066.16,Cancelled
+79,Living Room,Storage,Premium,False,Digital Wallet,1869.92,73.44,0.0,1977.91,14,3.1,Prepaid,141.28,Failed Delivery
+989,Dining Room,Seating,Mid Range,True,Card,1751.21,0.0,93.56,1844.77,11,3.1,Prepaid,167.71,Cancelled
+1106,Living Room,Seating,Mid Range,True,Digital Wallet,1227.26,73.44,61.42,1363.15,12,1.2,Prepaid,113.6,Delivered
+497,Dining Room,Seating,Premium,False,Digital Wallet,465.84,45.75,0.0,511.59,13,1.5,Prepaid,39.35,In Transit
+1858,Office,Work,Premium,False,Digital Wallet,349.1,83.4,0.0,432.5,3,1.4,Prepaid,144.17,Failed Delivery
+1607,Bedroom,Storage,Premium,True,Card,974.68,73.44,44.65,1093.73,5,4.0,Prepaid,218.75,Cancelled
+1382,Living Room,Table,Affordable,True,Digital Wallet,966.51,63.69,27.67,1057.87,8,3.1,Prepaid,132.23,Failed Delivery
+87,Kitchen,Table,Premium,False,Card,462.5,95.89,0.0,558.39,11,3.8,Prepaid,50.76,Delivered
+64,Office,Work,Premium,False,Cash,1319.26,96.94,0.0,1416.2,6,1.2,Postpaid,236.03,Pending
+1294,Living Room,Storage,Premium,True,Card,2218.9,97.46,56.05,2372.4100000000003,3,3.1,Prepaid,790.8,Cancelled
+605,Dining Room,Seating,Mid Range,True,Digital Wallet,216.71,73.44,134.89,420.88,12,4.1,Prepaid,35.07,Delivered
+274,Dining Room,Seating,Affordable,False,Card,273.3,43.62,0.0,316.92,7,3.7,Prepaid,45.27,In Transit
+1923,Outdoor,Patio furniture,Affordable,True,Cash,1408.0,96.19,152.83,1657.02,5,2.7,Postpaid,331.4,Delivered
+1679,Dining Room,Table,Affordable,True,Card,792.87,0.0,194.92,987.79,14,3.1,Prepaid,70.56,In Transit
+1726,Bedroom,Storage,Mid Range,False,Digital Wallet,2170.75,129.17,0.0,2299.92,10,3.1,Prepaid,229.99,Rescheduled
+1880,Office,Storage,Affordable,False,Digital Wallet,612.59,109.72,0.0,722.3100000000001,10,2.1,Prepaid,72.23,Failed Delivery
+153,Office,Work,Premium,True,Cash,592.47,96.74,26.64,715.85,7,3.9,Postpaid,102.26,Failed Delivery
+613,Outdoor,Patio furniture,Mid Range,False,Digital Wallet,1573.47,71.3,0.0,1644.77,5,3.1,Prepaid,328.95,Failed Delivery
+1714,Office,Work,Affordable,False,Digital Wallet,884.47,53.63,0.0,938.1,4,3.1,Prepaid,234.52,Failed Delivery
+410,Kitchen,Table,Affordable,False,Digital Wallet,2091.22,73.44,0.0,2221.63,14,1.6,Prepaid,158.69,In Transit
+830,Dining Room,Storage,Affordable,True,Card,256.97,57.17,62.47,376.61,13,3.1,Prepaid,28.97,Cancelled
+912,Outdoor,Patio furniture,Mid Range,True,Digital Wallet,731.22,0.0,142.94,874.1600000000001,3,1.3,Prepaid,291.39,Delivered
+517,Kitchen,Storage,Mid Range,False,Card,2415.82,0.0,0.0,2415.82,8,3.1,Prepaid,301.98,Pending
+44,Outdoor,Patio furniture,Premium,True,Bank Transfer,854.12,94.59,217.51,1166.22,13,3.6,Prepaid,89.71,Failed Delivery
+1649,Dining Room,Seating,Affordable,False,Card,1461.65,116.22,0.0,1577.87,5,4.9,Prepaid,315.57,In Transit
+390,Office,Storage,Affordable,True,Digital Wallet,348.41,78.19,37.99,464.59,7,3.8,Prepaid,66.37,Failed Delivery
+220,Office,Storage,Mid Range,False,Digital Wallet,767.61,0.0,0.0,767.61,4,3.0,Prepaid,191.9,In Transit
+140,Dining Room,Table,Premium,False,Cash,755.12,112.83,0.0,867.95,3,3.1,Postpaid,289.32,Delivered
+1373,Outdoor,Table,Affordable,False,Card,199.15,89.01,0.0,288.16,2,4.1,Prepaid,144.08,In Transit
+357,Bedroom,Sleeping,Mid Range,False,Digital Wallet,1633.73,65.94,0.0,1699.67,2,4.5,Prepaid,849.84,Delivered
+722,Outdoor,Patio furniture,Affordable,True,Card,1655.97,147.53,64.21,1867.71,4,3.9,Prepaid,466.93,Rescheduled
+1157,Outdoor,Patio furniture,Affordable,False,Card,1708.16,0.0,0.0,1708.16,3,4.0,Prepaid,569.39,Cancelled
+261,Living Room,Seating,Affordable,True,Digital Wallet,1608.28,0.0,25.32,1633.6,3,1.7,Prepaid,544.53,Rescheduled
+1302,Dining Room,Storage,Affordable,False,Digital Wallet,633.58,148.67,0.0,782.25,5,3.4,Prepaid,156.45,Failed Delivery
+898,Bedroom,Storage,Affordable,False,Digital Wallet,2979.56,0.0,0.0,2979.56,4,2.6,Prepaid,744.89,Rescheduled
+1103,Kitchen,Storage,Mid Range,True,Card,1451.34,142.61,176.31,1770.2599999999998,7,3.1,Prepaid,252.89,Delivered
+195,Kitchen,Storage,Affordable,True,Bank Transfer,821.19,148.57,195.08,1164.84,1,3.4,Prepaid,1164.84,In Transit
+115,Office,Work,Mid Range,False,Digital Wallet,699.43,57.79,0.0,757.2199999999999,10,2.6,Prepaid,75.72,Failed Delivery
+1075,Bedroom,Storage,Affordable,False,Card,1167.12,0.0,0.0,1167.12,5,3.4,Prepaid,233.42,Cancelled
+1073,Kitchen,Storage,Affordable,False,Card,734.75,122.76,0.0,857.51,7,3.1,Prepaid,122.5,Pending
+718,Kitchen,Table,Affordable,True,Digital Wallet,1228.53,0.0,89.26,1317.79,6,2.9,Prepaid,219.63,Failed Delivery
+1404,Kitchen,Table,Premium,False,Bank Transfer,2334.58,0.0,0.0,2334.58,12,2.4,Prepaid,194.55,Rescheduled
+1871,Kitchen,Table,Affordable,False,Card,557.99,102.78,0.0,660.77,5,1.6,Prepaid,132.15,In Transit
+1208,Living Room,Seating,Mid Range,False,Digital Wallet,207.87,29.38,0.0,237.25,13,4.4,Prepaid,18.25,Pending
+1724,Bedroom,Storage,Mid Range,False,Digital Wallet,609.14,70.64,0.0,679.78,4,4.4,Prepaid,169.94,Delivered
+358,Dining Room,Seating,Mid Range,True,Card,515.05,103.05,41.72,659.8199999999999,8,3.6,Prepaid,82.48,In Transit
+1060,Dining Room,Seating,Affordable,True,Digital Wallet,987.0,0.0,271.38,1258.38,8,3.8,Prepaid,157.3,Failed Delivery
+1019,Bedroom,Storage,Affordable,False,Cash,464.4,97.62,0.0,562.02,3,1.1,Postpaid,187.34,Pending
+1363,Kitchen,Storage,Mid Range,False,Cash,1485.34,54.45,0.0,1539.79,1,3.5,Postpaid,1539.79,Failed Delivery
+1776,Outdoor,Patio furniture,Mid Range,False,Card,1693.27,66.18,0.0,1759.45,14,1.7,Prepaid,125.68,Rescheduled
+1000,Office,Work,Other,False,Card,316.81,56.4,0.0,373.21,12,3.1,Prepaid,31.1,Failed Delivery
+935,Office,Work,Affordable,False,Bank Transfer,81.43,90.49,0.0,171.92000000000002,2,3.1,Prepaid,85.96,Rescheduled
+754,Living Room,Table,Affordable,False,Digital Wallet,586.13,0.0,0.0,586.13,9,3.1,Prepaid,65.13,Delivered
+420,Bedroom,Storage,Premium,False,Digital Wallet,2539.78,0.0,0.0,2539.78,14,4.5,Prepaid,181.41,Rescheduled
+149,Office,Storage,Mid Range,True,Cash,1002.38,0.0,43.39,1045.77,8,4.7,Postpaid,130.72,Delivered
+9,Living Room,Seating,Premium,True,Digital Wallet,2180.54,0.0,239.46,2420.0,7,5.0,Prepaid,345.71,Delivered
+1069,Bedroom,Sleeping,Premium,False,Digital Wallet,579.63,117.53,0.0,697.16,1,4.8,Prepaid,697.16,In Transit
+1119,Kitchen,Table,Premium,False,Bank Transfer,2054.44,94.01,0.0,2148.4500000000003,2,3.1,Prepaid,1074.23,Delivered
+1841,Bedroom,Sleeping,Mid Range,False,Cash,532.81,137.24,0.0,670.05,11,2.1,Postpaid,60.91,Rescheduled
+534,Outdoor,Patio furniture,Premium,False,Digital Wallet,1689.27,76.64,0.0,1765.91,7,3.1,Prepaid,252.27,Failed Delivery
+548,Dining Room,Table,Affordable,False,Bank Transfer,468.07,84.75,0.0,552.8199999999999,8,3.7,Prepaid,69.1,Pending
+1584,Outdoor,Seating,Premium,True,Bank Transfer,414.44,39.01,64.71,518.16,13,2.7,Prepaid,39.86,Cancelled
+298,Bedroom,Storage,Other,True,Digital Wallet,1758.1,0.0,41.7,1799.8,13,4.9,Prepaid,138.45,In Transit
+976,Living Room,Seating,Premium,True,Card,223.11,55.98,46.83,325.92,4,1.3,Prepaid,81.48,Failed Delivery
+1314,Living Room,Table,Affordable,False,Card,409.71,80.53,0.0,490.24,13,1.4,Prepaid,37.71,In Transit
+1439,Living Room,Seating,Affordable,True,Card,2202.94,73.44,122.58,2433.02,7,2.4,Prepaid,347.57,Rescheduled
+1337,Dining Room,Seating,Premium,True,Bank Transfer,196.74,63.77,102.74,524.28,7,1.1,Prepaid,74.9,Cancelled
+1445,Office,Work,Affordable,True,Card,1163.53,64.26,129.04,1356.83,1,3.1,Prepaid,1356.83,Rescheduled
+1681,Outdoor,Seating,Affordable,False,Bank Transfer,1661.63,73.44,0.0,1738.49,13,3.3,Prepaid,133.73,Delivered
+122,Kitchen,Storage,Premium,True,Card,1317.97,129.18,286.36,1733.5100000000002,10,2.3,Prepaid,173.35,Rescheduled
+1778,Kitchen,Table,Affordable,True,Card,2240.43,139.3,90.73,2470.46,7,1.3,Prepaid,352.92,Cancelled
+1372,Living Room,Seating,Mid Range,True,Cash,2050.06,58.64,57.29,2165.99,3,3.8,Postpaid,722.0,Failed Delivery
+1385,Kitchen,Table,Premium,False,Digital Wallet,430.62,40.83,0.0,471.45,4,2.2,Prepaid,117.86,Failed Delivery
+1360,Kitchen,Storage,Affordable,False,Cash,2405.54,122.08,0.0,2527.62,1,3.5,Postpaid,2527.62,Delivered
+1159,Outdoor,Table,Premium,False,Bank Transfer,1594.14,54.1,0.0,1648.24,2,2.7,Prepaid,824.12,Cancelled
+1786,Living Room,Table,Mid Range,True,Cash,944.45,0.0,132.62,1077.0700000000002,10,2.7,Postpaid,107.71,Pending
+709,Living Room,Seating,Affordable,False,Card,2057.65,72.56,0.0,2130.21,2,1.8,Prepaid,1065.1,Delivered
+1761,Outdoor,Table,Affordable,False,Card,1094.96,65.09,0.0,1160.05,2,3.1,Prepaid,580.02,In Transit
+769,Outdoor,Table,Mid Range,True,Digital Wallet,783.66,148.75,282.75,1215.16,2,3.3,Prepaid,607.58,Failed Delivery
+1675,Bedroom,Sleeping,Mid Range,False,Cash,533.87,61.75,0.0,595.62,3,4.1,Postpaid,198.54,In Transit
+1391,Living Room,Seating,Premium,True,Card,1921.15,70.38,114.07,2105.6000000000004,5,4.1,Prepaid,421.12,Rescheduled
+88,Office,Work,Affordable,False,Digital Wallet,231.45,53.6,0.0,285.05,10,3.8,Prepaid,28.51,Cancelled
+1843,Outdoor,Patio furniture,Premium,True,Cash,1184.05,50.36,75.28,1309.6899999999998,13,4.8,Postpaid,100.75,Failed Delivery
+1643,Kitchen,Table,Mid Range,False,Cash,2347.65,108.99,0.0,2456.64,11,3.1,Postpaid,223.33,Cancelled
+1032,Living Room,Seating,Affordable,True,Card,1808.29,125.69,29.15,1963.13,8,1.5,Prepaid,245.39,Failed Delivery
+97,Outdoor,Seating,Affordable,False,Digital Wallet,1610.93,133.37,0.0,1744.3000000000002,5,3.1,Prepaid,348.86,In Transit
+1908,Office,Work,Mid Range,True,Card,872.52,133.71,170.64,1176.87,8,1.2,Prepaid,147.11,Failed Delivery
+348,Kitchen,Storage,Mid Range,True,Bank Transfer,2154.76,81.39,60.49,2296.64,12,2.4,Prepaid,191.39,In Transit
+509,Office,Work,Affordable,False,Cash,493.93,71.17,0.0,565.1,4,4.5,Postpaid,141.28,Rescheduled
+211,Bedroom,Sleeping,Affordable,False,Digital Wallet,2718.63,106.68,0.0,2825.31,1,3.7,Prepaid,2825.31,Rescheduled
+703,Outdoor,Table,Premium,False,Card,465.99,86.22,0.0,552.21,13,1.9,Prepaid,42.48,Delivered
+746,Kitchen,Table,Affordable,True,Bank Transfer,1165.81,73.97,188.26,1428.04,9,4.7,Prepaid,158.67,Cancelled
+1045,Kitchen,Table,Affordable,True,Digital Wallet,1141.41,0.0,72.1,1213.51,9,3.3,Prepaid,134.83,Pending
+1506,Kitchen,Table,Mid Range,True,Card,2322.33,0.0,90.27,2412.6,3,4.2,Prepaid,804.2,Cancelled
+1904,Dining Room,Table,Mid Range,False,Digital Wallet,1882.88,0.0,0.0,1882.88,14,3.1,Prepaid,134.49,Cancelled
+939,Bedroom,Storage,Mid Range,True,Digital Wallet,2261.89,85.94,96.03,2443.86,7,4.9,Prepaid,349.12,Cancelled
+1429,Living Room,Table,Mid Range,False,Card,1127.54,0.0,0.0,1127.54,6,1.7,Prepaid,187.92,Cancelled
+1856,Office,Work,Premium,False,Digital Wallet,179.51,52.03,0.0,231.54,9,1.0,Prepaid,25.73,Failed Delivery
+1925,Office,Storage,Affordable,True,Digital Wallet,1151.67,149.49,249.69,1550.85,1,2.9,Prepaid,1550.85,In Transit
+1784,Dining Room,Storage,Mid Range,False,Bank Transfer,896.1,114.33,0.0,1010.43,6,1.7,Prepaid,168.4,Pending
+478,Office,Work,Affordable,True,Bank Transfer,620.46,73.44,93.44,855.1300000000001,3,1.2,Prepaid,285.04,Delivered
+1614,Kitchen,Storage,Mid Range,True,Digital Wallet,1527.67,113.53,229.37,1870.57,11,2.9,Prepaid,170.05,Pending
+491,Kitchen,Storage,Affordable,True,Card,1542.87,105.52,78.87,1727.2599999999998,6,4.6,Prepaid,287.88,Pending
+841,Dining Room,Seating,Premium,True,Cash,650.35,56.08,224.25,930.68,9,4.9,Postpaid,103.41,Failed Delivery
+1070,Outdoor,Patio furniture,Premium,True,Bank Transfer,1526.48,58.26,270.53,1855.27,1,1.5,Prepaid,1855.27,Failed Delivery
+364,Office,Work,Mid Range,True,Digital Wallet,839.46,111.83,33.94,985.23,9,3.1,Prepaid,109.47,Delivered
+296,Dining Room,Storage,Affordable,True,Digital Wallet,1012.62,0.0,81.91,1094.53,2,1.5,Prepaid,547.26,Failed Delivery
+49,Office,Work,Mid Range,True,Card,1273.52,148.07,238.78,1660.37,11,3.1,Prepaid,150.94,Failed Delivery
+1511,Office,Work,Premium,True,Card,422.35,32.67,85.91,540.9300000000001,2,1.7,Prepaid,270.47,Cancelled
+224,Kitchen,Table,Affordable,False,Cash,1799.77,145.3,0.0,1945.07,12,4.2,Postpaid,162.09,Pending
+1774,Office,Work,Mid Range,True,Digital Wallet,1127.25,120.62,33.7,1281.57,4,3.2,Prepaid,320.39,Rescheduled
+1243,Dining Room,Seating,Mid Range,False,Digital Wallet,141.19,54.42,0.0,195.61,14,3.2,Prepaid,13.97,In Transit
+1882,Kitchen,Table,Affordable,True,Digital Wallet,1815.18,0.0,75.67,1890.85,10,2.2,Prepaid,189.08,In Transit
+850,Office,Work,Affordable,False,Bank Transfer,346.74,35.76,0.0,382.5,4,3.6,Prepaid,95.62,Pending
+1457,Bedroom,Storage,Other,True,Cash,1044.03,142.38,184.33,1370.7399999999998,13,3.2,Postpaid,105.44,Rescheduled
+647,Bedroom,Storage,Mid Range,False,Digital Wallet,2046.73,101.27,0.0,2148.0,8,2.9,Prepaid,268.5,Rescheduled
+1225,Bedroom,Storage,Affordable,False,Card,2576.07,0.0,0.0,2576.07,9,1.1,Prepaid,286.23,In Transit
+562,Outdoor,Seating,Affordable,True,Digital Wallet,1366.68,137.11,66.02,1569.81,5,2.7,Prepaid,313.96,Pending
+622,Dining Room,Table,Affordable,True,Card,1326.26,53.48,62.65,1442.39,7,4.8,Prepaid,206.06,Cancelled
+1930,Kitchen,Storage,Premium,False,Digital Wallet,1888.48,73.44,0.0,1999.22,11,4.2,Prepaid,181.75,Rescheduled
+1087,Office,Work,Premium,True,Cash,612.9,87.84,34.89,735.63,4,3.3,Postpaid,183.91,In Transit
+804,Bedroom,Storage,Mid Range,False,Digital Wallet,737.76,0.0,0.0,737.76,14,1.3,Prepaid,52.7,Rescheduled
+604,Office,Work,Mid Range,True,Cash,1053.23,97.59,34.78,1185.6,8,2.5,Postpaid,148.2,Delivered
+1269,Dining Room,Storage,Other,True,Digital Wallet,824.7,65.95,121.53,1012.18,4,4.0,Prepaid,253.04,Pending
+442,Living Room,Seating,Mid Range,False,Digital Wallet,2042.35,0.0,0.0,2042.35,14,3.8,Prepaid,145.88,Delivered
+1812,Dining Room,Seating,Mid Range,True,Digital Wallet,1027.83,72.22,71.06,1171.11,14,3.8,Prepaid,83.65,Cancelled
+1598,Office,Storage,Affordable,False,Cash,1484.24,0.0,0.0,1484.24,11,2.0,Postpaid,134.93,Pending
+1024,Living Room,Seating,Mid Range,True,Cash,1860.86,91.54,54.78,2007.18,10,1.8,Postpaid,200.72,Delivered
+539,Office,Work,Mid Range,True,Cash,1450.23,146.66,33.48,1630.37,6,1.2,Postpaid,271.73,In Transit
+767,Bedroom,Storage,Mid Range,False,Card,2220.95,0.0,0.0,2220.95,5,2.5,Prepaid,444.19,Failed Delivery
+762,Dining Room,Table,Affordable,True,Card,535.12,84.27,47.67,667.06,11,4.2,Prepaid,60.64,Cancelled
+868,Kitchen,Table,Premium,True,Cash,781.59,0.0,221.61,1003.2,11,4.3,Postpaid,91.2,Pending
+689,Kitchen,Table,Mid Range,True,Cash,2406.04,125.06,41.46,2572.56,9,1.1,Postpaid,285.84,In Transit
+187,Dining Room,Table,Mid Range,True,Digital Wallet,1842.76,0.0,58.23,1900.99,14,1.5,Prepaid,135.78,Cancelled
+406,Bedroom,Storage,Premium,True,Digital Wallet,948.76,0.0,38.14,986.9,7,3.2,Prepaid,140.99,Delivered
+1011,Kitchen,Table,Affordable,False,Card,2388.2,74.59,0.0,2462.79,14,3.7,Prepaid,175.91,Failed Delivery
+1172,Outdoor,Table,Affordable,True,Digital Wallet,1029.17,142.13,161.34,1332.64,2,1.9,Prepaid,666.32,In Transit
+751,Outdoor,Seating,Mid Range,True,Card,427.95,75.35,115.35,618.65,6,3.9,Prepaid,103.11,Rescheduled
+1050,Outdoor,Table,Mid Range,True,Digital Wallet,1001.96,90.32,29.82,1122.1,13,3.9,Prepaid,86.32,In Transit
+461,Office,Storage,Premium,True,Card,1021.43,86.02,32.31,1139.76,11,4.9,Prepaid,103.61,Cancelled
+670,Kitchen,Table,Other,False,Cash,487.51,52.93,0.0,540.4399999999999,6,2.0,Postpaid,90.07,Failed Delivery
+655,Outdoor,Seating,Affordable,False,Bank Transfer,1583.49,110.19,0.0,1693.68,5,4.9,Prepaid,338.74,Cancelled
+785,Office,Work,Affordable,True,Cash,764.68,74.34,27.64,866.66,12,3.1,Postpaid,72.22,Failed Delivery
+1083,Kitchen,Storage,Other,False,Card,1901.96,96.06,0.0,1998.02,11,3.2,Prepaid,181.64,Rescheduled
+714,Living Room,Seating,Affordable,True,Card,1083.02,137.99,165.09,1386.1,11,2.8,Prepaid,126.01,Rescheduled
+1350,Kitchen,Table,Mid Range,False,Card,388.95,73.44,0.0,480.92,2,3.1,Prepaid,240.46,Pending
+424,Bedroom,Sleeping,Mid Range,False,Cash,1712.4,0.0,0.0,1712.4,7,3.9,Postpaid,244.63,Failed Delivery
+1744,Outdoor,Patio furniture,Premium,True,Cash,436.38,73.13,26.96,536.47,3,3.9,Postpaid,178.82,Delivered
+1501,Kitchen,Storage,Affordable,True,Card,691.11,0.0,45.31,736.4200000000001,7,1.1,Prepaid,105.2,Pending
+43,Kitchen,Table,Premium,True,Cash,2318.43,0.0,250.14,2568.57,9,4.8,Postpaid,285.4,Rescheduled
+661,Kitchen,Table,Affordable,True,Digital Wallet,889.27,138.91,243.4,1271.5800000000002,11,3.8,Prepaid,115.6,In Transit
+635,Kitchen,Table,Premium,False,Card,311.79,62.84,0.0,374.63,5,3.7,Prepaid,74.93,Rescheduled
+528,Living Room,Seating,Affordable,True,Card,227.51,32.33,202.73,462.57,12,1.8,Prepaid,38.55,Rescheduled
+1760,Bedroom,Sleeping,Mid Range,True,Card,2749.34,51.75,202.39,3003.48,2,3.1,Prepaid,1501.74,In Transit
+987,Dining Room,Storage,Affordable,False,Card,1355.48,134.76,0.0,1490.24,8,3.1,Prepaid,186.28,Failed Delivery
+1507,Bedroom,Sleeping,Mid Range,True,Card,509.94,137.87,162.41,810.2199999999999,1,1.0,Prepaid,810.22,Rescheduled
+218,Kitchen,Storage,Mid Range,True,Digital Wallet,527.24,0.0,186.37,713.61,1,2.6,Prepaid,713.61,Cancelled
+1765,Bedroom,Storage,Mid Range,True,Bank Transfer,2588.29,0.0,92.53,2680.82,2,1.7,Prepaid,1340.41,Delivered
+820,Kitchen,Table,Affordable,True,Digital Wallet,1636.22,117.45,53.76,1807.43,14,3.1,Prepaid,129.1,Pending
+1932,Bedroom,Sleeping,Affordable,False,Digital Wallet,720.04,58.38,0.0,778.42,10,2.7,Prepaid,77.84,Pending
+1868,Kitchen,Storage,Mid Range,True,Card,986.32,0.0,273.13,1259.45,9,4.9,Prepaid,139.94,Rescheduled
+855,Office,Work,Other,True,Card,289.27,74.15,253.01,616.43,12,1.4,Prepaid,51.37,Pending
+1498,Dining Room,Storage,Affordable,False,Card,409.3,35.26,0.0,444.56,9,4.2,Prepaid,49.4,Failed Delivery
+609,Bedroom,Storage,Mid Range,True,Card,1565.68,116.74,136.33,1818.75,7,3.5,Prepaid,259.82,Rescheduled
+485,Living Room,Seating,Affordable,True,Digital Wallet,1514.14,102.89,258.61,1875.6400000000003,10,4.9,Prepaid,187.56,Failed Delivery
+1149,Dining Room,Storage,Affordable,False,Bank Transfer,1566.81,59.65,0.0,1626.46,13,1.3,Prepaid,125.11,Failed Delivery
+1017,Office,Work,Affordable,True,Cash,121.13,45.09,159.12,325.34000000000003,13,3.7,Postpaid,25.03,Failed Delivery
+1896,Dining Room,Seating,Mid Range,False,Cash,684.44,91.93,0.0,776.3700000000001,9,1.4,Postpaid,86.26,Delivered
+1085,Living Room,Table,Affordable,False,Digital Wallet,2160.27,113.14,0.0,2273.41,2,4.9,Prepaid,1136.7,Delivered
+81,Outdoor,Seating,Mid Range,True,Card,787.03,132.07,294.72,1213.82,3,3.4,Prepaid,404.61,Failed Delivery
+1704,Bedroom,Sleeping,Affordable,True,Card,2864.01,100.84,125.38,3090.2300000000005,3,5.0,Prepaid,1030.08,Rescheduled
+324,Outdoor,Seating,Other,True,Digital Wallet,523.34,81.21,225.5,830.0500000000001,5,4.3,Prepaid,166.01,Delivered
+1409,Bedroom,Sleeping,Mid Range,True,Digital Wallet,459.05,42.19,171.37,672.61,12,3.7,Prepaid,56.05,Rescheduled
+1490,Kitchen,Storage,Premium,False,Card,1112.31,0.0,0.0,1112.31,9,2.5,Prepaid,123.59,Delivered
+1080,Living Room,Storage,Affordable,False,Bank Transfer,1518.67,0.0,0.0,1518.67,5,4.1,Prepaid,303.73,Rescheduled
+19,Kitchen,Storage,Premium,False,Card,608.4,0.0,0.0,608.4,4,1.3,Prepaid,152.1,Pending
+454,Kitchen,Storage,Premium,True,Bank Transfer,2002.42,0.0,233.89,2236.31,8,3.3,Prepaid,279.54,Rescheduled
+1110,Office,Work,Mid Range,False,Digital Wallet,464.46,72.33,0.0,536.79,9,2.1,Prepaid,59.64,Delivered
+838,Living Room,Seating,Affordable,True,Digital Wallet,2427.16,131.74,288.83,2847.73,2,3.5,Prepaid,1423.86,Cancelled
+758,Outdoor,Seating,Affordable,False,Digital Wallet,697.88,138.4,0.0,836.28,14,1.3,Prepaid,59.73,Rescheduled
+1673,Dining Room,Table,Affordable,False,Card,676.07,0.0,0.0,676.07,5,2.8,Prepaid,135.21,Failed Delivery
+1340,Bedroom,Sleeping,Mid Range,True,Cash,1772.49,132.59,232.06,2137.14,5,1.8,Postpaid,427.43,In Transit
+34,Bedroom,Sleeping,Affordable,False,Bank Transfer,217.44,39.48,0.0,256.92,5,4.9,Prepaid,51.38,Delivered
+808,Living Room,Seating,Affordable,False,Digital Wallet,786.42,140.37,0.0,926.79,8,3.1,Prepaid,115.85,Cancelled
+1162,Living Room,Seating,Affordable,True,Digital Wallet,432.6,85.45,183.21,701.2600000000001,7,1.4,Prepaid,100.18,Failed Delivery
+1790,Kitchen,Table,Other,True,Card,2066.0,134.7,219.31,2420.01,5,3.1,Prepaid,484.0,Delivered
+1612,Kitchen,Storage,Affordable,False,Card,392.31,71.14,0.0,463.45,13,1.8,Prepaid,35.65,Rescheduled
+904,Bedroom,Storage,Affordable,True,Card,896.68,0.0,276.69,1173.37,14,1.4,Prepaid,83.81,Failed Delivery
+1522,Living Room,Seating,Affordable,True,Bank Transfer,352.74,87.64,93.6,533.98,10,4.5,Prepaid,53.4,In Transit
+1562,Dining Room,Storage,Premium,True,Digital Wallet,183.64,92.47,74.38,350.49,11,3.8,Prepaid,31.86,In Transit
+800,Dining Room,Storage,Mid Range,True,Digital Wallet,797.91,0.0,37.23,835.14,11,1.9,Prepaid,75.92,Rescheduled
+1579,Kitchen,Storage,Affordable,False,Bank Transfer,2075.39,0.0,0.0,2075.39,3,3.1,Prepaid,691.8,Failed Delivery
+96,Living Room,Seating,Premium,False,Digital Wallet,740.04,88.86,0.0,828.9,11,3.8,Prepaid,75.35,Failed Delivery
+1107,Dining Room,Table,Premium,True,Card,1511.91,141.75,106.09,1759.75,4,4.0,Prepaid,439.94,Failed Delivery
+446,Outdoor,Seating,Premium,True,Card,1513.16,74.07,264.86,1852.09,12,4.8,Prepaid,154.34,Failed Delivery
+474,Outdoor,Patio furniture,Affordable,False,Digital Wallet,463.25,57.97,0.0,521.22,13,2.8,Prepaid,40.09,Delivered
+1788,Kitchen,Storage,Affordable,False,Cash,438.44,73.44,0.0,496.28,8,3.1,Postpaid,62.04,Rescheduled
+366,Outdoor,Seating,Mid Range,False,Card,641.79,146.54,0.0,788.3299999999999,1,3.2,Prepaid,788.33,Pending
+1721,Dining Room,Table,Mid Range,False,Digital Wallet,143.8,43.32,0.0,187.12,12,1.8,Prepaid,15.59,Cancelled
+1609,Dining Room,Seating,Affordable,False,Card,1892.57,108.83,0.0,2001.4,14,3.1,Prepaid,142.96,Cancelled
+1875,Bedroom,Sleeping,Mid Range,False,Digital Wallet,2103.71,73.44,0.0,2103.71,12,3.7,Prepaid,175.31,Cancelled
+760,Bedroom,Storage,Mid Range,False,Card,376.26,35.32,0.0,411.58,5,2.5,Prepaid,82.32,Pending
+918,Dining Room,Storage,Affordable,False,Digital Wallet,251.56,83.1,0.0,334.66,10,3.1,Prepaid,33.47,Cancelled
+1425,Office,Work,Affordable,True,Card,1330.24,0.0,257.73,1587.97,4,1.3,Prepaid,396.99,In Transit
+759,Office,Work,Affordable,True,Cash,805.66,100.34,51.06,957.06,13,2.2,Postpaid,73.62,Failed Delivery
+392,Bedroom,Sleeping,Affordable,False,Bank Transfer,1723.5,67.87,0.0,1791.37,5,3.3,Prepaid,358.27,Failed Delivery
+1876,Outdoor,Patio furniture,Mid Range,False,Digital Wallet,223.8,25.67,0.0,249.47000000000003,5,4.4,Prepaid,49.89,Rescheduled
+1769,Outdoor,Seating,Mid Range,False,Bank Transfer,1202.38,0.0,0.0,1202.38,12,4.0,Prepaid,100.2,Failed Delivery
+1295,Office,Work,Premium,True,Card,610.11,0.0,79.11,689.22,2,1.9,Prepaid,344.61,Delivered
+506,Office,Work,Mid Range,True,Digital Wallet,885.44,119.41,43.48,1048.33,12,2.9,Prepaid,87.36,Rescheduled
+1517,Kitchen,Table,Other,False,Bank Transfer,1268.31,0.0,0.0,1268.31,4,3.4,Prepaid,317.08,Failed Delivery
+434,Kitchen,Storage,Mid Range,True,Card,1814.49,0.0,57.88,1872.37,2,2.4,Prepaid,936.18,Pending
+648,Living Room,Seating,Affordable,False,Bank Transfer,2065.29,93.41,0.0,2158.7,2,3.1,Prepaid,1079.35,Failed Delivery
+942,Living Room,Seating,Mid Range,True,Card,2332.64,0.0,162.38,2495.02,11,2.9,Prepaid,226.82,Delivered
+1831,Living Room,Seating,Premium,True,Card,335.86,64.83,26.07,426.76,6,3.1,Prepaid,71.13,Delivered
+1585,Office,Storage,Premium,False,Bank Transfer,649.76,111.33,0.0,761.09,1,3.1,Prepaid,761.09,Delivered
+1231,Living Room,Seating,Other,False,Cash,222.18,26.01,0.0,248.19,14,1.3,Postpaid,17.73,Cancelled
+1343,Outdoor,Patio furniture,Premium,True,Digital Wallet,1008.08,0.0,90.75,1098.83,7,2.3,Prepaid,156.98,Delivered
+1919,Office,Storage,Mid Range,False,Cash,1164.38,148.92,0.0,1313.3000000000002,7,2.0,Postpaid,187.61,Rescheduled
+132,Bedroom,Storage,Affordable,False,Cash,544.44,0.0,0.0,544.44,14,4.7,Postpaid,38.89,Rescheduled
+1074,Office,Work,Affordable,False,Digital Wallet,601.29,118.64,0.0,719.93,7,2.2,Prepaid,102.85,Rescheduled
+972,Kitchen,Table,Premium,False,Card,1060.86,0.0,0.0,1060.86,10,4.7,Prepaid,106.09,Failed Delivery
+1262,Outdoor,Seating,Other,True,Digital Wallet,1057.55,0.0,61.48,1119.03,8,3.1,Prepaid,139.88,Pending
+1588,Kitchen,Storage,Affordable,False,Cash,1276.99,51.36,0.0,1328.35,8,3.1,Postpaid,166.04,Failed Delivery
+1616,Office,Storage,Other,True,Card,725.46,102.2,152.2,979.86,2,1.0,Prepaid,489.93,Delivered
+450,Living Room,Seating,Affordable,False,Cash,1677.19,0.0,0.0,1677.19,2,4.7,Postpaid,838.6,Delivered
+31,Outdoor,Seating,Mid Range,False,Cash,1250.44,105.99,0.0,1356.43,10,4.7,Postpaid,135.64,In Transit
+121,Dining Room,Storage,Mid Range,False,Digital Wallet,958.64,0.0,0.0,958.64,2,4.9,Prepaid,479.32,Rescheduled
+1235,Kitchen,Table,Other,True,Digital Wallet,1839.93,57.58,175.63,2073.14,4,3.5,Prepaid,518.28,Delivered
+1375,Dining Room,Seating,Mid Range,True,Digital Wallet,1809.94,0.0,39.27,1849.21,1,4.7,Prepaid,1849.21,Delivered
+1478,Kitchen,Storage,Mid Range,True,Bank Transfer,817.48,104.19,56.34,978.01,1,4.2,Prepaid,978.01,Cancelled
+1326,Bedroom,Sleeping,Affordable,False,Card,1077.61,0.0,0.0,1077.61,9,3.0,Prepaid,119.73,Failed Delivery
+1732,Living Room,Seating,Mid Range,False,Digital Wallet,894.07,134.83,0.0,1028.9,2,3.1,Prepaid,514.45,In Transit
+1112,Kitchen,Storage,Premium,False,Bank Transfer,1390.73,0.0,0.0,1390.73,11,4.7,Prepaid,126.43,Delivered
+1349,Outdoor,Seating,Affordable,True,Bank Transfer,1786.53,0.0,28.34,1814.87,14,3.7,Prepaid,129.63,Delivered
+1347,Living Room,Storage,Mid Range,False,Card,742.07,99.19,0.0,841.26,10,2.7,Prepaid,84.13,Delivered
+255,Living Room,Seating,Affordable,True,Digital Wallet,1879.02,92.94,63.85,2035.81,2,3.4,Prepaid,1017.9,Rescheduled
+892,Dining Room,Seating,Mid Range,False,Bank Transfer,1150.23,0.0,0.0,1150.23,7,3.6,Prepaid,164.32,Failed Delivery
+1594,Office,Work,Affordable,True,Card,424.91,47.01,175.46,647.38,4,3.2,Prepaid,161.84,Cancelled
+1569,Living Room,Table,Affordable,False,Digital Wallet,690.69,139.44,0.0,830.1300000000001,3,1.2,Prepaid,276.71,Delivered
+1574,Bedroom,Sleeping,Affordable,True,Digital Wallet,1935.78,104.59,254.47,2294.84,9,4.7,Prepaid,254.98,Rescheduled
+359,Outdoor,Table,Premium,False,Digital Wallet,779.26,61.34,0.0,840.6,9,1.1,Prepaid,93.4,Delivered
+51,Living Room,Seating,Mid Range,False,Cash,244.58,65.46,0.0,310.04,4,4.1,Postpaid,77.51,Pending
+875,Office,Work,Affordable,True,Cash,1344.77,88.76,48.95,1482.48,10,3.0,Postpaid,148.25,In Transit
+938,Living Room,Storage,Affordable,False,Card,1777.3,73.44,0.0,1829.37,14,5.0,Prepaid,130.67,Failed Delivery
+772,Outdoor,Seating,Mid Range,False,Card,170.36,82.82,0.0,253.18,7,4.9,Prepaid,36.17,Rescheduled
+1126,Office,Work,Affordable,True,Digital Wallet,642.76,73.44,101.62,799.18,7,4.8,Prepaid,114.17,Rescheduled
+1219,Living Room,Storage,Premium,True,Digital Wallet,2342.59,124.36,184.07,2651.0200000000004,6,2.3,Prepaid,441.84,Failed Delivery
+679,Office,Work,Mid Range,True,Card,1127.27,0.0,145.43,1272.7,3,4.3,Prepaid,424.23,Pending
+805,Dining Room,Storage,Premium,True,Card,426.05,98.28,65.03,589.36,9,2.2,Prepaid,65.48,Failed Delivery
+1652,Living Room,Table,Affordable,True,Cash,629.57,120.25,89.46,839.2800000000001,5,1.4,Postpaid,167.86,Cancelled
+124,Bedroom,Storage,Mid Range,True,Card,1397.61,102.27,137.29,1637.1699999999998,5,4.1,Prepaid,327.43,Rescheduled
+404,Bedroom,Sleeping,Mid Range,True,Bank Transfer,2245.97,70.68,91.82,2408.47,6,1.4,Prepaid,401.41,Cancelled
+730,Living Room,Table,Mid Range,False,Digital Wallet,1928.73,0.0,0.0,1928.73,4,2.9,Prepaid,482.18,Delivered
+1311,Living Room,Seating,Mid Range,False,Card,2148.5,0.0,0.0,2148.5,3,4.7,Prepaid,716.17,Failed Delivery
+831,Outdoor,Seating,Mid Range,True,Card,477.38,73.44,59.43,614.79,14,3.5,Prepaid,43.91,Pending
+1071,Office,Work,Premium,True,Digital Wallet,770.32,90.17,142.5,1002.99,12,3.4,Prepaid,83.58,Rescheduled
+725,Bedroom,Sleeping,Mid Range,False,Card,1667.78,81.8,0.0,1749.58,11,1.2,Prepaid,159.05,Rescheduled
+587,Dining Room,Seating,Premium,False,Digital Wallet,1413.0,0.0,0.0,1413.0,10,4.9,Prepaid,141.3,Cancelled
+607,Dining Room,Seating,Affordable,False,Card,137.45,49.46,0.0,186.91,11,3.3,Prepaid,16.99,Delivered
+433,Bedroom,Storage,Mid Range,False,Card,1387.36,0.0,0.0,1387.36,10,3.1,Prepaid,138.74,Pending
+674,Dining Room,Table,Other,True,Digital Wallet,1671.31,111.04,216.93,1999.28,4,3.5,Prepaid,499.82,Cancelled
+1287,Kitchen,Table,Affordable,True,Digital Wallet,482.52,79.32,206.98,768.8199999999999,6,4.9,Prepaid,128.14,Delivered
+360,Kitchen,Storage,Premium,True,Card,1370.97,0.0,151.39,1522.36,2,4.8,Prepaid,761.18,Rescheduled
+1099,Bedroom,Storage,Affordable,False,Card,1125.96,83.07,0.0,1209.03,12,2.1,Prepaid,100.75,In Transit
+466,Kitchen,Table,Mid Range,True,Digital Wallet,2197.69,120.51,299.35,2617.55,13,3.1,Prepaid,201.35,In Transit
+299,Living Room,Seating,Mid Range,False,Cash,2082.33,103.55,0.0,2185.88,10,2.9,Postpaid,218.59,Failed Delivery
+1558,Kitchen,Table,Affordable,False,Digital Wallet,1556.39,100.68,0.0,1657.0700000000002,1,1.2,Prepaid,1657.07,Delivered
+1608,Bedroom,Storage,Affordable,True,Card,1031.59,108.87,25.09,1165.55,12,1.1,Prepaid,97.13,In Transit
+493,Living Room,Storage,Affordable,False,Card,1151.9,73.76,0.0,1225.66,14,1.9,Prepaid,87.55,In Transit
+527,Living Room,Storage,Premium,True,Bank Transfer,1704.99,127.32,76.0,1908.31,11,1.7,Prepaid,173.48,Pending
+1192,Kitchen,Table,Premium,True,Digital Wallet,921.64,0.0,194.42,1116.06,7,2.5,Prepaid,159.44,Pending
